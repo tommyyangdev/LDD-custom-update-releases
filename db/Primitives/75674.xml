@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: Stephan
+	Last modification: 2024-03-17
+	Comments: v0.0: Initial creation [Stephan] 2024-03-17
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="75674" />
+    <Annotation designname="SKIRT ROMAN, 6 POINTS" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.134212" sY="0.003327" sZ="0.68521" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.0148" tz="0" />
+    <Box sX="0.134212" sY="0.003327" sZ="0.583443" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0.0148" tz="0.4001" />
+    <Box sX="0.134212" sY="0.003327" sZ="0.583443" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="0.0148" tz="-0.4076" />
+    <Box sX="0.180068" sY="0.003327" sZ="0.41049" angle="22.7979" ax="0" ay="0" az="-1" tx="1.3185" ty="-0.0594" tz="0" />
+    <Box sX="0.180068" sY="0.003327" sZ="0.41049" angle="180" ax="-0.1976" ay="0.9803" az="0" tx="-0.5165" ty="-0.0594" tz="0" />
+    <Box sX="0.16975" sY="0.003327" sZ="0.350536" angle="119.7847" ax="0.1963" ay="-0.9736" az="-0.1169" tx="-0.043" ty="-0.0528" tz="0.8197" />
+    <Box sX="0.16975" sY="0.003327" sZ="0.350536" angle="64.9573" ax="-0.1899" ay="0.9304" az="-0.3137" tx="0.8409" ty="-0.0495" tz="-0.816" />
+    <Box sX="0.16975" sY="0.003327" sZ="0.350536" angle="119.6566" ax="-0.1963" ay="0.9735" az="-0.1172" tx="-0.0427" ty="-0.0528" tz="-0.8161" />
+    <Box sX="0.16975" sY="0.003327" sZ="0.350536" angle="65.5549" ax="0.1849" ay="-0.9337" az="-0.3066" tx="0.8402" ty="-0.0519" tz="0.8189" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0" tz="0" />
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1" ty="0" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.7607" minY="-0.1643" minZ="-1.1509" maxX="1.5607" maxY="0.02" maxZ="1.1509" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7607" minY="-0.1643" minZ="-1.1509" maxX="1.5607" maxY="0.02" maxZ="1.1509" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2024-03-15
+	Comments: v0.0: Initial creation [Stephan] 2024-03-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4369" />
+    <Annotation designname="PISTON, NO. 5" />
+    <Annotation maingroupid="372" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.510951912" sY="0.1438488725" sZ="0.1438488725" angle="0" ax="1" ay="0" az="0" tx="0.743" ty="0" tz="0" />
+    <Box sX="0.09744472593" sY="0.04181449279" sZ="0.2737576866" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="1.4689" ty="-0.0005" tz="-0.1604" />
+    <Box sX="0.09744472593" sY="0.04177758262" sZ="0.2737576866" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="1.4689" ty="-0.0005" tz="0.1593" />
+    <Box sX="0.147926" sY="0.280329" sZ="0.085266" angle="0" ax="1" ay="0" az="0" tx="0.1625" ty="0" tz="0" />
+    <Box sX="0.147926" sY="0.280329" sZ="0.085266" angle="90" ax="-1" ay="0" az="0" tx="0.1625" ty="0" tz="0" />
+    <Box sX="0.147926" sY="0.280329" sZ="0.085266" angle="45" ax="-1" ay="0" az="0" tx="0.1625" ty="0" tz="0" />
+    <Box sX="0.147926" sY="0.280329" sZ="0.085266" angle="135" ax="-1" ay="0" az="0" tx="0.1625" ty="0" tz="0" />
+    <Box sX="0.456172" sY="0.218001" sZ="0.097094" angle="0" ax="1" ay="0" az="0" tx="0.7465" ty="0" tz="0" />
+    <Box sX="0.456172" sY="0.218001" sZ="0.089713" angle="90" ax="-1" ay="0" az="0" tx="0.7465" ty="0" tz="0" />
+    <Box sX="0.456172" sY="0.218001" sZ="0.086538" angle="45" ax="-1" ay="0" az="0" tx="0.7465" ty="0" tz="0" />
+    <Box sX="0.456172" sY="0.218001" sZ="0.078845" angle="45" ax="1" ay="0" az="0" tx="0.7465" ty="0" tz="0" />
+    <Box sX="0.097445" sY="0.041814" sZ="0.060559" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="1.7514" ty="-0.0005" tz="-0.1604" />
+    <Box sX="0.058096" sY="0.041814" sZ="0.060559" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="1.7943" ty="-0.0005" tz="-0.1604" />
+    <Box sX="0.097445" sY="0.041814" sZ="0.060559" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="1.7514" ty="-0.0005" tz="0.1655" />
+    <Box sX="0.058096" sY="0.041814" sZ="0.060559" angle="120" ax="-0.5774" ay="-0.5774" az="0.5774" tx="1.7943" ty="-0.0005" tz="0.1655" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="1" tx="0" ty="-0.4" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:1,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="13" length="0.89" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.3024" ty="0" tz="0" />
+    <Slider type="66" length="0.36" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="1.5019" ty="-0.18" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.099871214,0,0,0,0.39646292,0,0,0,0.39799171" centerOfMass="0.8438773379,-3.885780586E-16,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.15" minY="-0.3" minZ="-0.3" maxX="1.87" maxY="0.3" maxZ="0.3" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.15" minY="-0.3" minZ="-0.3" maxX="1.87" maxY="0.3" maxZ="0.3" />
+  </GeometryBounding>
+</LEGOPrimitive>

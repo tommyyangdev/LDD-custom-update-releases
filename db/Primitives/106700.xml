@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2024-02-18
+	Comments: v0.0: Initial creation [Stephan] 2024-02-17
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="106700" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 19" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.497328" sY="0.007967" sZ="0.051487" angle="78.7682" ax="1" ay="0" az="0" tx="0" ty="1.2249" tz="0.4561" />
+    <Box sX="0.136962" sY="0.01936" sZ="0.282209" angle="0" ax="1" ay="0" az="0" tx="0.3882" ty="1.3006" tz="-0.0425" />
+    <Box sX="0.548844" sY="0.007967" sZ="5.251764" angle="90" ax="1" ay="0" az="0" tx="0.014" ty="-4.0975" tz="-0.4792" />
+    <Box sX="0.136962" sY="0.01936" sZ="0.282209" angle="0" ax="1" ay="0" az="0" tx="-0.3885" ty="1.3006" tz="-0.0425" />
+    <Box sX="0.076961" sY="0.01936" sZ="0.282209" angle="90" ax="0" ay="-1" az="0" tx="-0.0001" ty="1.3006" tz="-0.3289" />
+    <Box sX="0.071786" sY="0.01936" sZ="0.437787" angle="90" ax="0" ay="-1" az="0" tx="-0.0001" ty="1.3006" tz="0.3228" />
+    <Box sX="0.897435" sY="0.007967" sZ="2.876057" angle="90" ax="1" ay="0" az="0" tx="0.014" ty="-4.0975" tz="-0.4792" />
+    <Box sX="1.100587" sY="0.007967" sZ="0.205979" angle="90" ax="1" ay="0" az="0" tx="0.014" ty="-9.2014" tz="-0.4792" />
+    <Box sX="1.100587" sY="0.005372" sZ="0.205979" angle="90" ax="1" ay="0" az="0" tx="0.014" ty="-9.2014" tz="0.6265" />
+    <Box sX="0.897435" sY="0.003547" sZ="2.876057" angle="90" ax="1" ay="0" az="0" tx="0.014" ty="-6.3302" tz="0.6462" />
+    <Box sX="0.548844" sY="0.002918" sZ="2.08529" angle="90" ax="1" ay="0" az="0" tx="0.014" ty="-0.8714" tz="0.6409" />
+    <Box sX="0.944917" sY="0.004456" sZ="2.08529" angle="90" ax="1" ay="0" az="0" tx="0.014" ty="-3.3861" tz="0.6615" />
+    <Box sX="0.19374" sY="0.004865" sZ="0.221626" angle="90" ax="0" ay="0" az="-1" tx="0.8653" ty="-0.2895" tz="-0.0062" />
+    <Box sX="0.19374" sY="0.004865" sZ="0.221626" angle="90" ax="0" ay="0" az="-1" tx="-0.8741" ty="-0.2895" tz="-0.0062" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="1.2786" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="1.2786" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.68053,0,0,0,0.610754,0,0,0,1.10551" centerOfMass="0,-0.021821,-0.008131" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.15" minY="-9.4536" minZ="-0.552" maxX="1.15" maxY="1.3207" maxZ="0.676" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.15" minY="-9.4536" minZ="-0.552" maxX="1.15" maxY="1.3207" maxZ="0.676" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>
