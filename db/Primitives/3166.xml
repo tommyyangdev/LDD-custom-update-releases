@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2023-04-21
+	Comments: v0.0: Initial creation [Stephan] 2023-04-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3166" />
+    <Annotation designname="DESIGN PLATE 4X10X2/3, NO. 1" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="2.238795" sY="0.260009" sZ="0.074017" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2773" tz="-0.8786" />
+    <Box sX="2.267904" sY="0.06743" sZ="0.074017" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0766" tz="-1.5189" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="12" height="2" angle="0" ax="1" ay="0" az="0" tx="-2.4" ty="0" tz="-1.6">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-3.972" minY="0" minZ="-1.6" maxX="3.972" maxY="0.584" maxZ="1.6" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-3.972" minY="0" minZ="-1.6" maxX="3.972" maxY="0.584" maxZ="1.6" />
+  </GeometryBounding>
+</LEGOPrimitive>
