@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-04-11
+	Comments: v0.0: Initial creation [Stephan] 2025-04-11
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="106616"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ANIMAL BODY, NO. 20"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="106616">
+      <Part refID="0" designID="106616" materials="21,0,0,0" decoration="0,0,0">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,-1.2000000476837158,1.3707998991012573,5.2000002861022949">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41140">
+      <Part refID="1" designID="41140" materials="21">
+        <Bone refID="1" transformation="0,0,-0.99999994039535522,-1,0,0,0,0.99999994039535522,0,0.59399998188018799,1.3707996606826782,5.2000002861022949">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="41140">
+      <Part refID="2" designID="41140" materials="21">
+        <Bone refID="2" transformation="0,0,-0.99999988079071045,-1,0,0,0,0.99999994039535522,0,0.59399974346160889,2.0107998847961426,0.40000000596046448">
+        </Bone>
+      </Part>
+    </Brick>
+	<Brick refID="3" designID="41140">
+      <Part refID="3" designID="41140" materials="21">
+        <Bone refID="3" transformation="0,0,1,1.0000001192092896,0,0,0,1.0000001192092896,0,-2.9940001964569092,2.0107998847961426,0.4000001847743988">
+        </Bone>
+      </Part>
+    </Brick>
+	<Brick refID="4" designID="41140">
+      <Part refID="4" designID="41140" materials="21">
+        <Bone refID="4" transformation="0,0,1,1.0000001192092896,0,0,0,1,0,-2.9939999580383301,1.3707997798919678,5.2000002861022949">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

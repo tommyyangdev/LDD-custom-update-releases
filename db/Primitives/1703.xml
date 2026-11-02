@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-04-29
+	Comments: v0.0: Initial creation [Stephan] 2025-04-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="1703" />
+    <Annotation designname="HORSE, NO. 26" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1851199991" sY="0.2465505155" sZ="0.09460708364" transformation="1,0,0,0,1,0,0,0,1,0,0.2565505161,0.2834404262" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.2565505161" tz="0.2834404262"/>
+    <Box sX="0.155863769" sY="0.163473087" sZ="0.07922589312" transformation="1,0,0,0,1,0,0,0,1,0,0.1745424833,-0.267537658" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.1745424833" tz="-0.267537658"/>
+    <Box sX="0.01860943626" sY="0.163473087" sZ="0.3091349283" transformation="1,0,0,0,1,0,0,0,1,-0.1971987084,0.1745424833,0.009192462567" angle="0" ax="0" ay="1" az="0" tx="-0.1971987084" ty="0.1745424833" tz="0.009192462567"/>
+    <Box sX="0.1893627736" sY="0.2434618553" sZ="0.02504412039" transformation="1,0,0,0,0.8553634204,0.5180283961,0,-0.5180283961,0.8553634204,0,0.540169286,-0.1820631898" angle="31.20009289" ax="1" ay="0" az="0" tx="0" ty="0.540169286" tz="-0.1820631898"/>
+    <Box sX="0.1791925802" sY="0.163473087" sZ="0.1737684696" transformation="1,0,0,0,0.6193608168,0.785106476,0,-0.785106476,0.6193608168,0,0.7632631023,0.2265187674" angle="51.73052706" ax="1" ay="0" az="0" tx="0" ty="0.7632631023" tz="0.2265187674"/>
+    <Box sX="0.2307895979" sY="0.2681876742" sZ="0.2627676238" transformation="1,0,0,0,0.7353015255,0.6777401173,0,-0.6777401173,0.7353015255,0,0.6731116512,0.5363438533" angle="42.66729924" ax="1" ay="0" az="0" tx="0" ty="0.6731116512" tz="0.5363438533"/>
+    <Box sX="0.1893627736" sY="0.1573477554" sZ="0.1702609742" transformation="1,0,0,0,0.7955074393,0.6059438208,0,-0.6059438208,0.7955074393,0,0.4029029527,0.9359495382" angle="37.29678913" ax="1" ay="0" az="0" tx="0" ty="0.4029029527" tz="0.9359495382"/>
+    <Box sX="0.06046270562" sY="0.1208050755" sZ="0.07792696701" transformation="1,0,0,0,0.9836371456,0.1801609444,0,-0.1801609444,0.9836371456,-0.1505351058,1.113539928,0.5067441424" angle="10.3791345" ax="1" ay="0" az="0" tx="-0.1505351058" ty="1.113539928" tz="0.5067441424"/>
+    <Box sX="0.06046270562" sY="0.1208050755" sZ="0.07792696701" transformation="1,0,0,0,0.9836371456,0.1801609444,0,-0.1801609444,0.9836371456,0.1584671751,1.113539928,0.5067441424" angle="10.3791345" ax="1" ay="0" az="0" tx="0.1584671751" ty="1.113539928" tz="0.5067441424"/>
+    <Box sX="0.01860943626" sY="0.163473087" sZ="0.3091349283" transformation="1,0,0,0,1,0,0,0,1,0.1967656901,0.1745424833,0.009192462567" angle="0" ax="0" ay="1" az="0" tx="0.1967656901" ty="0.1745424833" tz="0.009192462567"/>
+    <Box sX="0.1893627736" sY="0.1403641678" sZ="0.2685234295" transformation="1,0,0,0,1,0,0,0,1,0,0.5693456803,0.1276966494" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.5693456803" tz="0.1276966494"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.4" grabbing="0" startCapped="0" endCapped="1" transformation="2.220446049E-16,0,-1,0,1,0,1,0,2.220446049E-16,0,0,0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.34310642,0,0,0,0.23405416,0,0,0,0.16502388" centerOfMass="0,0.641181781,0.3854778558" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.2898" minY="0" minZ="-0.4008" maxX="0.2898" maxY="1.2824" maxZ="1.1717" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2898" minY="0" minZ="-0.4008" maxX="0.2898" maxY="1.2824" maxZ="1.1717" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

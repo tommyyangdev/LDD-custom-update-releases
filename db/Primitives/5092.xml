@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2024-03-03
+	Comments: v0.0: Initial creation [Stephan] 2024-03-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5092" />
+    <Annotation designname="TILE 1X2, DEG. 45, CUT, RIGHT" />
+    <Annotation maingroupid="215" />
+    <Annotation maingroupname="PLATES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3900000954" sY="0.150000056" sZ="0.06500001788" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.16" tz="0.325" />
+    <Box sX="0.06500004768" sY="0.150000056" sZ="0.3900000954" angle="0" ax="1" ay="0" az="0" tx="-0.325" ty="0.16" tz="0" />
+    <Box sX="0.3350000584" sY="0.150000056" sZ="0.05000006199" angle="0" ax="1" ay="0" az="0" tx="0.705" ty="0.16" tz="-0.34" />
+    <Box sX="0.04500003695" sY="0.150000056" sZ="0.3900000954" angle="0" ax="1" ay="0" az="0" tx="0.305" ty="0.16" tz="0" />
+    <Box sX="0.3900000954" sY="0.04500000715" sZ="0.3900000954" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.265" tz="0" />
+    <Box sX="0.1189671957" sY="0.150000056" sZ="0.06811036706" angle="45" ax="0" ay="1" az="0" tx="0.436" ty="0.16" tz="0.2536" />
+    <Box sX="0.4496194923" sY="0.04500000715" sZ="0.07769205213" angle="45" ax="0" ay="1" az="0" tx="0.663" ty="0.265" tz="0.013" />
+    <Box sX="0.1630691046" sY="0.04500000715" sZ="0.2631364369" angle="67.5894" ax="0" ay="-1" az="0" tx="0.5559" ty="0.265" tz="-0.1342" />
+    <Box sX="0.02867015243" sY="0.150000056" sZ="0.06792714238" angle="45" ax="0" ay="1" az="0" tx="0.9676" ty="0.16" tz="-0.2778" />
+    <Box sX="0.3700000548" sY="0.150000056" sZ="0.06500001788" angle="0" ax="1" ay="0" az="0" tx="-0.02" ty="0.16" tz="-0.325" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,29:0:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1
+    </Custom2DField>
+    <Slider type="43" length="0.5" startCapped="1" endCapped="1" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.25" ty="0.16" tz="-0.4" />
+    <Slider type="43" length="0.5" startCapped="1" endCapped="1" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.25" ty="0.16" tz="0.4" />
+    <Slider type="43" length="0.5" startCapped="1" endCapped="1" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.16" tz="-0.25" />
+    <Slider type="43" length="0.535" startCapped="1" endCapped="1" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="0.36" ty="0.16" tz="-0.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.061873264,0,0,0,0.22854166,0,0,0,0.18374825" centerOfMass="0.3249999732,0.1599381137,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.08" maxY="0.32" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.08" maxY="0.32" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

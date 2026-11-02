@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-01-05
+	Comments: v0.0: Initial creation [Stephan[ 2025-01-05
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="69829" />
+    <Annotation designname="HORSE, NO. 4, PART 3 [TAIL]" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.2265921491" sY="0.7671033151" sZ="0.2966537528" angle="24.0351" ax="0.1333" ay="0.0204" az="0.9909" tx="1.4631" ty="-0.6213" tz="0.0643" />
+    <Box sX="0.1119629074" sY="0.2836494605" sZ="0.2763998332" angle="37.3415" ax="0.8743" ay="0.0239" az="0.4847" tx="2.1644" ty="-2.601" tz="-0.2919" />
+    <Box sX="0.1880192058" sY="0.1232555239" sZ="0.2267980847" angle="89.419" ax="0" ay="0" az="1" tx="1.0889" ty="0.213" tz="0.0173" />
+    <Box sX="0.1578030923" sY="0.6769993187" sZ="0.380154812" angle="15.1091" ax="0.0882" ay="0.0202" az="0.9959" tx="1.9453" ty="-1.7264" tz="-0.1908" />
+    <Box sX="0.1818169636" sY="0.194385112" sZ="0.2253346559" angle="89.419" ax="0" ay="0" az="1" tx="0.5914" ty="0.2119" tz="0.0187" />
+    <Box sX="0.05892985109" sY="0.1129430769" sZ="0.2048096185" angle="89.419" ax="0" ay="0" az="1" tx="0.8936" ty="0.0465" tz="0.0313" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="233" axes="2" angle="0" ax="1" ay="0" az="0" tx="0.0177" ty="0.0035" tz="0" />
+    <Axel type="14" length="0.3747122" grabbing="0" startCapped="0" endCapped="1" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0.8785" ty="0.4913" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.2585799,0,0,0,0.85982918,0,0,0,1.7609662" centerOfMass="1.149733067,-1.292438865,-0.05386999249" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2797" minY="-3.0923" minZ="-0.7861" maxX="2.5792" maxY="0.5074" maxZ="0.6784" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2797" minY="-3.0923" minZ="-0.7861" maxX="2.5792" maxY="0.5074" maxZ="0.6784" />
+  </GeometryBounding>
+</LEGOPrimitive>

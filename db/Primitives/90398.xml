@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-05-27
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0; Updated 3D model, added decoration surfaces [Stephan] 2025-05-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="90398" />
+    <Annotation designname="MINI FIGURE TROPHY" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.205605" sY="0.597169" sZ="0.115391" angle="0" ax="1" ay="0" az="0" tx="-0.0055" ty="0.9272" tz="-0.0069" />
+    <Box sX="0.073495" sY="0.222967" sZ="0.09156" angle="0" ax="1" ay="0" az="0" tx="0.2936" ty="0.9423" tz="-0.036" />
+    <Box sX="0.073495" sY="0.222967" sZ="0.09156" angle="180" ax="0" ay="1" az="0" tx="-0.2936" ty="0.9423" tz="-0.036" />
+    <Box sX="0.223345" sY="0.15" sZ="0.223345" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.16" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.036244,0,0,0,0.007817,0,0,0,0.03839" centerOfMass="0,0.630776,-0.008652" mass="0.20000000298" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.384" minY="0" minZ="-0.325" maxX="0.384" maxY="1.5343" maxZ="0.325" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.384" minY="0" minZ="-0.325" maxX="0.384" maxY="1.5343" maxZ="0.325" />
+  </GeometryBounding>
+  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,2,3,4" />
+</LEGOPrimitive>

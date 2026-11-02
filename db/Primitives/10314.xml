@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-01-09
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2025-01-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="10314" />
+    <Annotation designname="BRICK 1X4X1 1/3 [2017-current]" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.211649" sZ="0.261272" angle="180" ax="0" ay="-0.3584" az="0.9336" tx="1.2" ty="0.8724" tz="-0.0468" />
+    <Box sX="1.59" sY="0.093488" sZ="0.616381" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.6264" tz="-0.2965" />
+    <Box sX="1.59" sY="0.39" sZ="0.23" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.24" tz="0" />
+    <Box sX="1.59" sY="0.211649" sZ="0.335131" angle="180" ax="0" ay="0.1104" az="0.9939" tx="1.2" ty="0.5799" tz="0.0082" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,15:4:1,15:4:1,22:2:1,15:4:1,15:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.189867,0,0,0,0.906667,0,0,0,0.989867" centerOfMass="1.2,0.64,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.28" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.28" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

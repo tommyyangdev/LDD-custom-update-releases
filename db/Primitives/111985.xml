@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-05-04
+	Comments: v0.0: Initial creation [Stephan] 2025-05-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="111985;1040698;1040712" />
+    <Annotation designname="PUNCHING FOIL SHEET, NO. 99 [71832]" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.726103991" sY="0.01500000037" sZ="0.8702454762" transformation="-0.9977838871,0,-0.06653806914,0,1,0,0.06653806914,0,-0.9977838871,2.076025148,0.02500000037,-0.0551201745" angle="176.1848308" ax="0" ay="1" az="0" tx="2.076025148" ty="0.02500000037" tz="-0.0551201745"/>
+    <Box sX="1.03985974" sY="0.01500000037" sZ="1.615332209" transformation="-0.9977838871,0,-0.06653806914,0,1,0,0.06653806914,0,-0.9977838871,3.974109541,0.02500000037,0.1189869159" angle="176.1848308" ax="0" ay="1" az="0" tx="3.974109541" ty="0.02500000037" tz="0.1189869159"/>
+    <Box sX="2.538948895" sY="0.01500000037" sZ="2.010564663" transformation="-0.7400521839,0,0.6725494518,0,1,0,-0.6725494518,0,-0.7400521839,13.12379289,0.02500000037,2.778893339" angle="137.735861" ax="0" ay="-1" az="0" tx="13.12379289" ty="0.02500000037" tz="2.778893339"/>
+    <Box sX="1.58567027" sY="0.01500000037" sZ="1.436757262" transformation="-0.8711108969,0,-0.4910863522,0,1,0,0.4910863522,0,-0.8711108969,6.88636662,0.02500000037,4.960120709" angle="150.5879906" ax="0" ay="1" az="0" tx="6.88636662" ty="0.02500000037" tz="4.960120709"/>
+    <Box sX="3.45214112" sY="0.01500000037" sZ="3.129043136" transformation="-0.9977838871,0,-0.06653806914,0,1,0,0.06653806914,0,-0.9977838871,8.226978051,0.02500000037,1.07758624" angle="176.1848308" ax="0" ay="1" az="0" tx="8.226978051" ty="0.02500000037" tz="1.07758624"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.006" grabbing="0" startCapped="0" endCapped="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="13.640089,0,0,0,40.314543,0,0,0,26.696365" centerOfMass="8.379831105,-0.1412905558,1.59589386" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.5695" minY="-0.3246" minZ="-4.7998" maxX="17.3292" maxY="0.0402" maxZ="7.9921" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5695" minY="-0.3246" minZ="-4.7998" maxX="17.3292" maxY="0.0402" maxZ="7.9921" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-01-11
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Added decoration surface [Stephan] 2025-01-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6239;18989" />
+    <Annotation designname="RUDDER 2X6X4" />
+    <Annotation maingroupid="275" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, AVIATION" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.19" sY="0.79" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.8" ty="0.16" tz="-0.4" />
+    <Box sX="0.602835" sY="0.08" sZ="0.772446" angle="133.2894" ax="-0.4318" ay="0.6378" az="-0.6378" tx="-0.2459" ty="0.9184" tz="-0.4" />
+    <Box sX="0.200223" sY="0.08" sZ="1.14269" angle="148.6003" ax="-0.2811" ay="0.6786" az="-0.6786" tx="1.0363" ty="0.9864" tz="-0.4" />
+    <Box sX="0.602835" sY="0.08" sZ="1.82744" angle="148.6003" ax="-0.2811" ay="0.6786" az="-0.6786" tx="-0.3231" ty="1.7764" tz="-0.4" />
+    <Box sX="0.602835" sY="0.08" sZ="1.28982" angle="159.2569" ax="-0.183" ay="0.6952" az="-0.6952" tx="-1.3024" ty="2.0755" tz="-0.4" />
+    <Box sX="0.698352" sY="0.08" sZ="0.291883" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-1.8791" ty="3.2181" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.40714,0,0,0,2.82605,0,0,0,4.85808" centerOfMass="-0.119045,1.21549,-0.4" mass="2.00500011444" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.72963" minY="0" minZ="-1.2" maxX="2" maxY="3.52" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.72963" minY="0" minZ="-1.2" maxX="2" maxY="3.52" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

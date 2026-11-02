@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-04-11
+	Comments: v0.0: Initial creation [Stephan] 2025-04-11
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="98171;109343"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ANIMAL, NO. 4, FORE LEG RIGHT"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="98083">
+      <Part refID="0" designID="98083" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999982118606567,0,1,0,0,-1.2000000476837158,0,0.40000000596046448">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="5707">
+      <Part refID="1" designID="5707" materials="21">
+        <Bone refID="1" transformation="0,0,-1,0,0.99999982118606567,0,1,0,0,0,3.4599993228912354,-0.80000007152557373">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

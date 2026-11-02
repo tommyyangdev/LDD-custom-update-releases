@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-01-05
+	Comments: v0.0: Initial creation [Stephan] 2025-01-05
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="38558"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="TORSO, MAN W/ ARM"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="38552">
+      <Part refID="0" designID="38552" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,9.9999997473787516E-005,-2">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="92246">
+      <Part refID="1" designID="92246" materials="21,0,0" decoration="0,0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.70000004768371582,0.68010002374649048,-2.0329999923706055">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="92247">
+      <Part refID="2" designID="92247" materials="21,0,0" decoration="0,0">
+        <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-1.7000000476837158,0.68010002374649048,-2.0329999923706055">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>
