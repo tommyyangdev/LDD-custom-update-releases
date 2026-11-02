@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Gerald Lasser [GeraldLasser]
+	Editted for LDD by: Stephan
+	Last modification: 2024-02-24
+	Comments: v0.0: Initial creation [Stephan] 2024-02-24
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2514" />
+    <Annotation designname="MINI HAT, NO. 184" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.034521" sY="0.04" sZ="0.238454" angle="0" ax="1" ay="0" az="0" tx="0.5645" ty="-0.17" tz="0.0043" />
+    <Box sX="0.435872" sY="0.21" sZ="0.410389" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.22" tz="0" />
+    <Box sX="0.476853" sY="0.04" sZ="0.17" angle="17.8561" ax="-1" ay="0" az="0" tx="0" ty="-0.096" tz="0.703" />
+    <Box sX="0.034521" sY="0.04" sZ="0.238454" angle="45" ax="0" ay="1" az="0" tx="0.4022" ty="-0.17" tz="-0.3961" />
+    <Box sX="0.034521" sY="0.04" sZ="0.238454" angle="90" ax="0" ay="1" az="0" tx="0.0043" ty="-0.17" tz="-0.5645" />
+    <Box sX="0.034521" sY="0.04" sZ="0.238454" angle="135" ax="0" ay="1" az="0" tx="-0.3961" ty="-0.17" tz="-0.4022" />
+    <Box sX="0.034521" sY="0.04" sZ="0.238454" angle="45" ax="0" ay="-1" az="0" tx="0.3961" ty="-0.17" tz="0.4022" />
+    <Box sX="0.034521" sY="0.04" sZ="0.238454" angle="135" ax="0" ay="-1" az="0" tx="-0.4022" ty="-0.17" tz="0.3961" />
+    <Box sX="0.034521" sY="0.04" sZ="0.238454" angle="180" ax="0" ay="1" az="0" tx="-0.5645" ty="-0.17" tz="-0.0043" />
+    <Box sX="0.366045" sY="0.337541" sZ="0.041694" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.1021" tz="-0.5677" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.052878,0,0,0,0.07616,0,0,0,0.045037" centerOfMass="-0.001968,0.080917,0.038118" mass="0.331000000238" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7119" minY="-0.5401" minZ="-0.739" maxX="0.7119" maxY="0.4654" maxZ="0.8708" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7119" minY="-0.5401" minZ="-0.739" maxX="0.7119" maxY="0.4654" maxZ="0.8708" />
+  </GeometryBounding>
+</LEGOPrimitive>
