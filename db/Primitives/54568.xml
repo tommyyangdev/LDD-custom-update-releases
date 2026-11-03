@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Vincent Messenet [Cheenzo]
+	Editted for LDD by: Stephan
+	Last modification: 2024-04-08
+	Comments: v0.0: Initial creation [Stephan] 2024-04-08
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="54568" />
+    <Annotation designname="PROPELLER, W/ 1.5 SHAFT, NO. 1" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.08338737161" sY="0.1528322814" sZ="0.04028838065" angle="94.5807" ax="-1" ay="0" az="0" tx="-0.5507" ty="0.1327" tz="-0.0023" />
+    <Box sX="0.3132639865" sY="0.1070311868" sZ="0.05352909155" angle="180" ax="0" ay="0.6704" az="0.742" tx="0.4406" ty="0.1417" tz="-0.0104" />
+    <Box sX="0.08338737161" sY="0.1528322814" sZ="0.04028838065" angle="180" ax="0" ay="0.6783" az="0.7348" tx="0.5507" ty="0.1327" tz="0.0023" />
+    <Box sX="0.3132639865" sY="0.1070311868" sZ="0.05352909155" angle="95.8086" ax="-1" ay="0" az="0" tx="-0.4406" ty="0.1417" tz="0.0104" />
+    <Box sX="0.04093961427" sY="0.04093961427" sZ="0.1909173953" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.0009" tz="0" />
+    <Box sX="0.1136882323" sY="0.1136882323" sZ="0.1410848318" angle="98.4211" ax="-0.8629" ay="0.3574" az="0.3574" tx="0" ty="0.1522" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-0.2" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.031906732,0,0,0,0.21081982,0,0,0,0.22132145" centerOfMass="0,0.05221524835,7.450580597E-09" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7626" minY="-0.2" minZ="-0.1764" maxX="0.7626" maxY="0.3" maxZ="0.1764" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7626" minY="-0.2" minZ="-0.1764" maxX="0.7626" maxY="0.3" maxZ="0.1764" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-01-16
+	Comments: v0.0: Initial creation [Stephan] 2026-01-16
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="116026;1047606" />
+    <Annotation designname="PUNCHING FOIL SHEET, NO. 113 [11208]" />
+    <Annotation maingroupid="273" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.006000062227" sY="2.948493471" sZ="0.9499941492" angle="173.3073" ax="0.7062" ay="0.7025" az="0.0883" tx="-4.289" ty="0.0016" tz="-0.4891" />
+    <Box sX="2.019791117" sY="1.017151167" sZ="0.006000001505" angle="81.521" ax="0.9626" ay="0.1737" az="-0.2079" tx="3.8543" ty="-0.1905" tz="-6.0325" />
+    <Box sX="0.006000031414" sY="2.774895897" sZ="1.042596235" angle="178.3087" ax="-0.707" ay="-0.707" az="-0.0148" tx="3.7285" ty="0.0009" tz="-0.2532" />
+    <Box sX="2.019791117" sY="1.017151167" sZ="0.006000001505" angle="87.5215" ax="0.9635" ay="0.1822" az="-0.1962" tx="-1.0225" ty="0.0402" tz="-4.2383" />
+    <Box sX="2.019791117" sY="1.017151167" sZ="0.006000001505" angle="91.2817" ax="0.9779" ay="0.1479" az="-0.1479" tx="-5.33" ty="0.0616" tz="-2.5528" />
+    <Box sX="0.006000031414" sY="2.774895897" sZ="1.042596235" angle="175.221" ax="-0.7065" ay="-0.7068" az="0.0357" tx="3.7061" ty="0.0905" tz="-3.1127" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="280" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.25" ty="0" tz="0" />
+    <Fixed type="280" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.25" ty="0" tz="0" />
+    <Fixed type="280" axes="2" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0.25" />
+    <Fixed type="280" axes="2" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="-0.25" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="7.9315736,0,0,0,30.594972,0,0,0,23.164212" centerOfMass="-0.7805948257,-0.6875698225,-3.520111918" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-9.0736" minY="-1.5561" minZ="-8.3219" maxX="7.5124" maxY="0.1078" maxZ="1.282" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-9.0736" minY="-1.5561" minZ="-8.3219" maxX="7.5124" maxY="0.1078" maxZ="1.282" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

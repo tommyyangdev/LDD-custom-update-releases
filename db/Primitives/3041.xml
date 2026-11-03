@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-02-01
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Updated 3D model, added decoration surface [Stephan] 2026-02-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3041" />
+    <Annotation designname="RIDGED TILE 2X4/45°" />
+    <Annotation maingroupid="205" />
+    <Annotation maingroupname="BRICKS, WITH SLOPE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.09" sZ="0.79" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.1" tz="-0.4" />
+    <Box sX="1.59" sY="0.121234" sZ="0.483756" angle="43.4238" ax="1" ay="0" az="0" tx="1.2" ty="0.4431" tz="-0.0498" />
+    <Box sX="1.59" sY="0.118835" sZ="0.483756" angle="43.4238" ax="-1" ay="0" az="0" tx="1.2" ty="0.4454" tz="-0.7527" />
+    <Box sX="1.59" sY="0.189468" sZ="0.418073" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.3512" tz="-0.4029" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.332886,0,0,0,1.5982,0,0,0,1.42503" centerOfMass="1.2,0.397797,-0.4" mass="1.57000005245" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="0.918" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="0.918" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

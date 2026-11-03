@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-10-03
+	Comments: v0.0: Initial creation [Stephan] 2024-10-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="114637;114639;114640" />
+    <Annotation designname="PUNCHED LENTICULAR SHEET, NO. 5/6/7 [72046]" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="2.701144809" sY="0.01826666832" sZ="2.591911529" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0283" tz="0" />
+  </Collision>
+  <PhysicsAttributes inertiaTensor="2.3816446,0,0,0,4.9482773,0,0,0,2.5671181" centerOfMass="7.975101471E-05,0.02698626113,-7.9870224E-05" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.7769" minY="0" minZ="-2.6749" maxX="2.7771" maxY="0.0556" maxZ="2.6748" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.7769" minY="0" minZ="-2.6749" maxX="2.7771" maxY="0.0556" maxZ="2.6748" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

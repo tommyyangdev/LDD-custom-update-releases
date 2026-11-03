@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-10-02
+	Comments: v0.0: Initial creation [Stephan] 2024-10-02
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5813" />
+    <Annotation designname="TYRE NORMAL, NARROW, DIA. 21X6" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.8231" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.8133" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="20" ax="0" ay="0" az="-1" tx="0.2823" ty="0.7756" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="160" ax="0" ay="0" az="1" tx="-0.2747" ty="-0.7546" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="40" ax="0" ay="0" az="-1" tx="0.5288" ty="0.6301" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="140" ax="0" ay="0" az="1" tx="-0.5141" ty="-0.6127" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="60" ax="0" ay="0" az="-1" tx="0.7157" ty="0.4132" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="120" ax="0" ay="0" az="1" tx="-0.6964" ty="-0.4021" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="80" ax="0" ay="0" az="-1" tx="0.8038" ty="0.1417" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="100" ax="0" ay="0" az="1" tx="-0.7931" ty="-0.1398" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="80" ax="0" ay="0" az="1" tx="-0.7964" ty="0.1404" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="100" ax="0" ay="0" az="-1" tx="0.8098" ty="-0.1428" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="60" ax="0" ay="0" az="1" tx="-0.7081" ty="0.4088" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="120" ax="0" ay="0" az="-1" tx="0.7094" ty="-0.4096" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="40" ax="0" ay="0" az="1" tx="-0.5255" ty="0.6263" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="140" ax="0" ay="0" az="-1" tx="0.5232" ty="-0.6235" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="20" ax="0" ay="0" az="1" tx="-0.2808" ty="0.7714" tz="0" />
+    <Box sX="0.198786" sY="0.188075" sZ="0.297626" angle="160" ax="0" ay="0" az="-1" tx="0.2775" ty="-0.7624" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="38" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Fixed type="38" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.45808134,0,0,0,0.45808134,0,0,0,0.85126667" centerOfMass="0,0,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.04" minY="-1.04" minZ="-0.312" maxX="1.04" maxY="1.04" maxZ="0.312" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.04" minY="-1.04" minZ="-0.312" maxX="1.04" maxY="1.04" maxZ="0.312" />
+  </GeometryBounding>
+</LEGOPrimitive>

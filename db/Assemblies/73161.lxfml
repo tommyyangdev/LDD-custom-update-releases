@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-01-07
+	Comments: v0.0: Initial creation [Stephan] 2025-01-07
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="73161;11408;59793"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="TORSO,BOY, W/ ARM [DUO-MOULDED] [2020-current]"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="73161">
+      <Part refID="0" designID="73161" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,0,-1.2000000476837158">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="92244">
+      <Part refID="1" designID="92244" materials="21,0,0" decoration="0,0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.76000005006790161,0.67729997634887695,-1.234700083732605">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="92245">
+      <Part refID="2" designID="92245" materials="21,0,0" decoration="0,0">
+        <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-1.6400001049041748,0.67729997634887695,-1.234700083732605">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2024-03-18
+	Comments: v0.0: Initial creation [Stephan] 2024
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="62875" />
+    <Annotation designname="FUNC. CONTROL SWITCH SLIDER" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.356244" sY="0.038016" sZ="0.153267" angle="0" ax="1" ay="0" az="0" tx="-0.1211" ty="1.0415" tz="1.4456" />
+    <Box sX="0.078349" sY="0.160543" sZ="0.112681" angle="0" ax="1" ay="0" az="0" tx="-0.1211" ty="1.2384" tz="1.4456" />
+    <Box sX="0.078349" sY="0.035279" sZ="0.087887" angle="0" ax="1" ay="0" az="0" tx="-0.1211" ty="1.415" tz="1.4456" />
+    <Box sX="0.078349" sY="0.035279" sZ="0.019965" angle="0" ax="1" ay="0" az="0" tx="-0.1211" ty="1.4424" tz="1.4456" />
+  </Collision>
+  <Connectivity>
+    <Axel type="14" length="0.2" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.22" ty="1.0032" tz="1.4487" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.48" minY="1" minZ="1.28" maxX="0.24" maxY="1.48" maxZ="1.6" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.48" minY="1" minZ="1.28" maxX="0.24" maxY="1.48" maxZ="1.6" />
+  </GeometryBounding>
+</LEGOPrimitive>

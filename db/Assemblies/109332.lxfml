@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-04-13
+	Comments: v0.0: Initial creation [Stephan] 2025-04-13
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="109332"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ANIMAL, NO. 5, HIND LEG LEFT [2025-current]"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="109332">
+      <Part refID="0" designID="109332" materials="21,0,0" decoration="0">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,-1.2000000476837158,0,0.40000000596046448">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="5707">
+      <Part refID="1" designID="5707" materials="21">
+        <Bone refID="1" transformation="0,0.86601358652114868,-0.50002110004425049,1.0249087608826812E-005,-0.50002080202102661,-0.86601346731185913,-1.0000001192092896,-1.0265087439620402E-005,0,-2.4300038814544678,7.6149997711181641,-0.80001741647720337">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

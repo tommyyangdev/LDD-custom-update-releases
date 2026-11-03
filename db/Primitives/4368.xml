@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Philippe Hurbain [Philo]
+	Editted for LDD by: Stephan
+	Last modification: 2024-03-15
+	Comments: v0.0: Initial creation [Stephan] 2024-03-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4368" />
+    <Annotation designname="CRANK, NO. 1" />
+    <Annotation maingroupid="372" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1905237639" sY="0.05208710372" sZ="0.08281998873" angle="0" ax="1" ay="0" az="0" tx="0.4234" ty="0.2442" tz="0.1917" />
+    <Box sX="0.231798237" sY="0.1691888326" sZ="0.0568784976" angle="180" ax="0.7071" ay="0.7071" az="0" tx="0.4954" ty="-0.0093" tz="0.1657" />
+    <Box sX="0.2317982221" sY="0.09411554575" sZ="0.08281998873" angle="180" ax="0.9763" ay="0.2162" az="0" tx="0.3248" ty="-0.3761" tz="0.1917" />
+    <Box sX="0.1905237639" sY="0.05208710372" sZ="0.08281998873" angle="180" ax="1" ay="0" az="0" tx="0.4234" ty="-0.2442" tz="0.1917" />
+    <Box sX="0.1141469085" sY="0.03344949126" sZ="0.2745000029" angle="90" ax="0" ay="0" az="-1" tx="0.0938" ty="-0.3618" tz="0" />
+    <Box sX="0.1141469085" sY="0.03344949126" sZ="0.2745000029" angle="90" ax="0" ay="0" az="-1" tx="-0.0948" ty="-0.3618" tz="0" />
+    <Box sX="0.1141469085" sY="0.03344949126" sZ="0.2745000029" angle="90" ax="0" ay="0" az="-1" tx="-0.0948" ty="0.3602" tz="0" />
+    <Box sX="0.1141469085" sY="0.03344949126" sZ="0.2745000029" angle="90" ax="0" ay="0" az="-1" tx="0.0938" ty="0.3602" tz="0" />
+    <Box sX="0.08121192992" sY="0.06090857625" sZ="0.3899999762" angle="0" ax="1" ay="0" az="0" tx="-0.1869" ty="-0.1689" tz="0" />
+    <Box sX="0.08121193737" sY="0.06090857625" sZ="0.3899999762" angle="0" ax="1" ay="0" az="0" tx="0.19" ty="-0.1689" tz="0" />
+    <Box sX="0.08121192992" sY="0.06090857625" sZ="0.3899999762" angle="0" ax="1" ay="0" az="0" tx="-0.1869" ty="0.1681" tz="0" />
+    <Box sX="0.08121192247" sY="0.06090857625" sZ="0.3899999762" angle="0" ax="1" ay="0" az="0" tx="0.1907" ty="0.1681" tz="0" />
+    <Box sX="0.08121194482" sY="0.03344949126" sZ="0.1972002739" angle="30.8388" ax="0" ay="0" az="1" tx="-0.1612" ty="0.2816" tz="0.1928" />
+    <Box sX="0.06476998307" sY="0.03344949173" sZ="0.3899999762" angle="58.3351" ax="0" ay="0" az="1" tx="-0.2816" ty="0.1614" tz="0" />
+    <Box sX="0.08121193364" sY="0.03344950616" sZ="0.3899999762" angle="85.8315" ax="0" ay="0" az="1" tx="-0.3231" ty="0.0296" tz="0" />
+    <Box sX="0.08121193364" sY="0.03344949126" sZ="0.3899999762" angle="113.3279" ax="0" ay="0" az="1" tx="-0.3003" ty="-0.123" tz="0" />
+    <Box sX="0.08121193737" sY="0.03344949126" sZ="0.2055315876" angle="140.8242" ax="0" ay="0" az="1" tx="-0.2096" ty="-0.2477" tz="0.1845" />
+    <Box sX="0.04581602454" sY="0.04261429399" sZ="0.3899999762" angle="176.1047" ax="0" ay="0" az="1" tx="-0.1099" ty="-0.2861" tz="0" />
+    <Box sX="0.04809733644" sY="0.04120109022" sZ="0.3899999762" angle="176.8065" ax="0" ay="0" az="-1" tx="0.1134" ty="-0.285" tz="0" />
+    <Box sX="0.08121193364" sY="0.03344950616" sZ="0.3899999762" angle="109.1903" ax="0" ay="0" az="-1" tx="0.3044" ty="-0.1123" tz="0" />
+    <Box sX="0.08121192992" sY="0.03344949126" sZ="0.1100945377" angle="136.6867" ax="0" ay="0" az="-1" tx="0.2182" ty="-0.2402" tz="0.2799" />
+    <Box sX="0.08121193737" sY="0.03344949126" sZ="0.3899999762" angle="81.6939" ax="0" ay="0" az="-1" tx="0.3219" ty="0.0409" tz="0" />
+    <Box sX="0.05390522793" sY="0.03344949126" sZ="0.3899999762" angle="54.1976" ax="0" ay="0" az="-1" tx="0.2826" ty="0.1628" tz="0" />
+    <Box sX="0.08121193364" sY="0.03344949126" sZ="0.1153142953" angle="26.7012" ax="0" ay="0" az="-1" tx="0.1511" ty="0.2871" tz="0.2747" />
+    <Box sX="0.2317982221" sY="0.09411554575" sZ="0.08281998873" angle="24.9723" ax="0" ay="0" az="-1" tx="0.3248" ty="0.3761" tz="0.1917" />
+    <Box sX="0.1211198846" sY="0.03344949126" sZ="0.2745000029" angle="136.6978" ax="0" ay="0" az="-1" tx="0.5159" ty="-0.3757" tz="0" />
+    <Box sX="0.04756926537" sY="0.03344952106" sZ="0.2745000029" angle="116.5308" ax="0" ay="0" az="-1" tx="0.6238" ty="-0.2572" tz="0" />
+    <Box sX="0.08787559882" sY="0.03344952106" sZ="0.2745000029" angle="56.9895" ax="0" ay="0" az="-1" tx="0.5929" ty="0.2882" tz="0" />
+    <Box sX="0.121119892" sY="0.03344949126" sZ="0.2745000029" angle="34.1715" ax="0" ay="0" az="-1" tx="0.4495" ty="0.4289" tz="0" />
+    <Box sX="0.121119892" sY="0.03344950616" sZ="0.2745000029" angle="7.3819" ax="0" ay="0" az="-1" tx="0.2251" ty="0.5134" tz="0" />
+    <Box sX="0.121119892" sY="0.0307897681" sZ="0.2745000029" angle="18.2497" ax="0" ay="0" az="1" tx="-0.0042" ty="0.4935" tz="0" />
+    <Box sX="0.1211198846" sY="0.03344947636" sZ="0.1469242626" angle="43.8812" ax="0" ay="0" az="1" tx="-0.1997" ty="0.372" tz="0.1276" />
+    <Box sX="0.121119892" sY="0.03344949126" sZ="0.152171945" angle="69.5128" ax="0" ay="0" az="1" tx="-0.3252" ty="0.1798" tz="0.1223" />
+    <Box sX="0.1211198771" sY="0.03344950616" sZ="0.1520735526" angle="95.1444" ax="0" ay="0" az="1" tx="-0.3553" ty="-0.0478" tz="0.1224" />
+    <Box sX="0.1211198622" sY="0.03344949126" sZ="0.1528051549" angle="120.7759" ax="0" ay="0" az="1" tx="-0.2839" ty="-0.266" tz="0.1217" />
+    <Box sX="0.07102077246" sY="0.03344949126" sZ="0.2745000029" angle="146.4075" ax="0" ay="0" az="1" tx="-0.0834" ty="-0.4595" tz="0" />
+    <Box sX="0.1211198771" sY="0.03344949126" sZ="0.2745000029" angle="172.0391" ax="0" ay="0" az="1" tx="0.0897" ty="-0.5127" tz="0" />
+    <Box sX="0.1211198846" sY="0.03344949126" sZ="0.2745000029" angle="162.3294" ax="0" ay="0" az="-1" tx="0.3184" ty="-0.4926" tz="0" />
+    <Box sX="0.1431216949" sY="0.03344955087" sZ="0.2226170355" angle="91.3983" ax="0" ay="0" az="-1" tx="0.6753" ty="-0.0143" tz="0" />
+    <Box sX="0.07102077246" sY="0.03344949126" sZ="0.1513726765" angle="133.9433" ax="0" ay="0" az="1" tx="-0.1783" ty="-0.395" tz="0.1231" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="43.8812" ax="0" ay="0" az="1" tx="-0.4234" ty="0.6046" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="43.8812" ax="0" ay="0" az="1" tx="0.7371" ty="-0.6021" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="59.142" ax="0" ay="0" az="1" tx="-0.5618" ty="0.4306" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="59.142" ax="0" ay="0" az="1" tx="0.8754" ty="-0.4281" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="75.5662" ax="0" ay="0" az="1" tx="-0.6538" ty="0.2099" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="75.5662" ax="0" ay="0" az="1" tx="0.9675" ty="-0.2074" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="90.8271" ax="0" ay="0" az="1" tx="-0.6802" ty="-0.0108" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="90.8271" ax="0" ay="0" az="1" tx="0.9938" ty="0.0134" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="106.2234" ax="0" ay="0" az="1" tx="-0.6469" ty="-0.2326" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="106.2234" ax="0" ay="0" az="1" tx="0.9606" ty="0.2352" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="121.4842" ax="0" ay="0" az="1" tx="-0.557" ty="-0.4359" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="121.4842" ax="0" ay="0" az="1" tx="0.8707" ty="0.4385" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="137.9084" ax="0" ay="0" az="1" tx="-0.4043" ty="-0.6199" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="137.9084" ax="0" ay="0" az="1" tx="0.7179" ty="0.6225" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="153.1693" ax="0" ay="0" az="1" tx="-0.221" ty="-0.7457" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="153.1693" ax="0" ay="0" az="1" tx="0.5346" ty="0.7482" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="168.9146" ax="0" ay="0" az="1" tx="-0.0041" ty="-0.8202" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="168.9146" ax="0" ay="0" az="1" tx="0.3178" ty="0.8227" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="175.129" ax="0" ay="0" az="-1" tx="0.2279" ty="-0.8328" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="175.129" ax="0" ay="0" az="-1" tx="0.0857" ty="0.8353" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="159.389" ax="0" ay="0" az="-1" tx="0.4515" ty="-0.7822" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="159.389" ax="0" ay="0" az="-1" tx="-0.1379" ty="0.7848" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="146.3842" ax="0" ay="0" az="-1" tx="0.6202" ty="-0.6958" tz="0" />
+    <Box sX="0.12112" sY="0.033449" sZ="0.101709" angle="146.3842" ax="0" ay="0" az="-1" tx="-0.3066" ty="0.6984" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="43.8812" ax="0" ay="0" az="1" tx="-0.4234" ty="0.6046" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="43.8812" ax="0" ay="0" az="1" tx="0.7392" ty="-0.6043" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="58.2233" ax="0" ay="0" az="1" tx="-0.555" ty="0.4418" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="58.2233" ax="0" ay="0" az="1" tx="0.8709" ty="-0.4415" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="71.9387" ax="0" ay="0" az="1" tx="-0.6394" ty="0.2602" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="71.9387" ax="0" ay="0" az="1" tx="0.9552" ty="-0.2599" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="86.2808" ax="0" ay="0" az="1" tx="-0.679" ty="0.0545" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="86.2808" ax="0" ay="0" az="1" tx="0.9948" ty="-0.0543" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="100.2908" ax="0" ay="0" az="1" tx="-0.6673" ty="-0.1497" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="100.2908" ax="0" ay="0" az="1" tx="0.9831" ty="0.15" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="114.6328" ax="0" ay="0" az="1" tx="-0.6044" ty="-0.3494" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="114.6328" ax="0" ay="0" az="1" tx="0.9203" ty="0.3497" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="128.3483" ax="0" ay="0" az="1" tx="-0.4998" ty="-0.5202" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="128.3483" ax="0" ay="0" az="1" tx="0.8156" ty="0.5205" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="142.6903" ax="0" ay="0" az="1" tx="-0.3504" ty="-0.6669" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="142.6903" ax="0" ay="0" az="1" tx="0.6662" ty="0.6672" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="156.5276" ax="0" ay="0" az="1" tx="-0.1761" ty="-0.7691" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="156.5276" ax="0" ay="0" az="1" tx="0.492" ty="0.7694" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="172.0284" ax="0" ay="0" az="1" tx="0.0416" ty="-0.8304" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="172.0284" ax="0" ay="0" az="1" tx="0.2742" ty="0.8307" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="172.0331" ax="0" ay="0" az="-1" tx="0.2742" ty="-0.8304" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="172.0331" ax="0" ay="0" az="-1" tx="0.0417" ty="0.8307" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="159.281" ax="0" ay="0" az="-1" tx="0.4546" ty="-0.7843" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="159.281" ax="0" ay="0" az="-1" tx="-0.1388" ty="0.7846" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="145.2701" ax="0" ay="0" az="-1" tx="0.6357" ty="-0.6891" tz="0" />
+    <Box sX="0.12112" sY="0.08628" sZ="0.053016" angle="145.2701" ax="0" ay="0" az="-1" tx="-0.3199" ty="0.6894" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0.4" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="-0.04" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="5.625" ax="0" ay="0" az="-1" tx="-0.7993" ty="0.0543" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="11.25" ax="0" ay="0" az="-1" tx="-0.7894" ty="0.1481" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="16.875" ax="0" ay="0" az="-1" tx="-0.7703" ty="0.2404" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="22.5" ax="0" ay="0" az="-1" tx="-0.7422" ty="0.3304" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="28.125" ax="0" ay="0" az="-1" tx="-0.7055" ty="0.4173" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="33.75" ax="0" ay="0" az="-1" tx="-0.6604" ty="0.5001" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="39.375" ax="0" ay="0" az="-1" tx="-0.6075" ty="0.5781" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="45" ax="0" ay="0" az="-1" tx="-0.5471" ty="0.6505" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="50.625" ax="0" ay="0" az="-1" tx="-0.4799" ty="0.7167" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="56.25" ax="0" ay="0" az="-1" tx="-0.4066" ty="0.776" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="61.875" ax="0" ay="0" az="-1" tx="-0.3278" ty="0.8278" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="67.5" ax="0" ay="0" az="-1" tx="-0.2443" ty="0.8716" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="73.125" ax="0" ay="0" az="-1" tx="-0.157" ty="0.9071" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="78.75" ax="0" ay="0" az="-1" tx="-0.0665" ty="0.9338" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="84.375" ax="0" ay="0" az="-1" tx="0.0261" ty="0.9515" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.12" ty="0.96" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="95.625" ax="0" ay="0" az="-1" tx="0.2143" ty="0.9593" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="101.25" ax="0" ay="0" az="-1" tx="0.3081" ty="0.9494" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="106.875" ax="0" ay="0" az="-1" tx="0.4004" ty="0.9303" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="112.5" ax="0" ay="0" az="-1" tx="0.4904" ty="0.9022" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="118.125" ax="0" ay="0" az="-1" tx="0.5773" ty="0.8655" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="123.75" ax="0" ay="0" az="-1" tx="0.6601" ty="0.8204" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="129.375" ax="0" ay="0" az="-1" tx="0.7381" ty="0.7675" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="135" ax="0" ay="0" az="-1" tx="0.8105" ty="0.7071" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="140.625" ax="0" ay="0" az="-1" tx="0.8767" ty="0.6399" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="146.25" ax="0" ay="0" az="-1" tx="0.936" ty="0.5666" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="151.875" ax="0" ay="0" az="-1" tx="0.9878" ty="0.4878" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="157.5" ax="0" ay="0" az="-1" tx="1.0316" ty="0.4043" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="163.125" ax="0" ay="0" az="-1" tx="1.0671" ty="0.317" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="168.75" ax="0" ay="0" az="-1" tx="1.0938" ty="0.2265" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="174.375" ax="0" ay="0" az="-1" tx="1.1115" ty="0.1339" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="180" ax="0" ay="0" az="1" tx="1.12" ty="0.04" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="174.375" ax="0" ay="0" az="1" tx="1.1193" ty="-0.0543" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="168.75" ax="0" ay="0" az="1" tx="1.1094" ty="-0.1481" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="163.125" ax="0" ay="0" az="1" tx="1.0903" ty="-0.2404" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="157.5" ax="0" ay="0" az="1" tx="1.0622" ty="-0.3304" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="151.875" ax="0" ay="0" az="1" tx="1.0255" ty="-0.4173" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="146.25" ax="0" ay="0" az="1" tx="0.9804" ty="-0.5001" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="140.625" ax="0" ay="0" az="1" tx="0.9275" ty="-0.5781" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="135" ax="0" ay="0" az="1" tx="0.8671" ty="-0.6505" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="129.375" ax="0" ay="0" az="1" tx="0.7999" ty="-0.7167" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="123.75" ax="0" ay="0" az="1" tx="0.7266" ty="-0.776" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="118.125" ax="0" ay="0" az="1" tx="0.6478" ty="-0.8278" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="112.5" ax="0" ay="0" az="1" tx="0.5643" ty="-0.8716" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="106.875" ax="0" ay="0" az="1" tx="0.477" ty="-0.9071" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="101.25" ax="0" ay="0" az="1" tx="0.3865" ty="-0.9338" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="95.625" ax="0" ay="0" az="1" tx="0.2939" ty="-0.9515" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="0.2" ty="-0.96" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="84.375" ax="0" ay="0" az="1" tx="0.1057" ty="-0.9593" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="78.75" ax="0" ay="0" az="1" tx="0.0119" ty="-0.9494" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="73.125" ax="0" ay="0" az="1" tx="-0.0804" ty="-0.9303" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="67.5" ax="0" ay="0" az="1" tx="-0.1704" ty="-0.9022" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="61.875" ax="0" ay="0" az="1" tx="-0.2573" ty="-0.8655" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="56.25" ax="0" ay="0" az="1" tx="-0.3401" ty="-0.8204" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="50.625" ax="0" ay="0" az="1" tx="-0.4181" ty="-0.7675" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="45" ax="0" ay="0" az="1" tx="-0.4905" ty="-0.7071" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="39.375" ax="0" ay="0" az="1" tx="-0.5567" ty="-0.6399" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="33.75" ax="0" ay="0" az="1" tx="-0.616" ty="-0.5666" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="28.125" ax="0" ay="0" az="1" tx="-0.6678" ty="-0.4878" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="22.5" ax="0" ay="0" az="1" tx="-0.7116" ty="-0.4043" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="16.875" ax="0" ay="0" az="1" tx="-0.7471" ty="-0.317" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="11.25" ax="0" ay="0" az="1" tx="-0.7738" ty="-0.2265" tz="0" />
+    <Slider type="67" length="0.08" startCapped="0" endCapped="0" angle="5.625" ax="0" ay="0" az="1" tx="-0.7915" ty="-0.1339" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.41391318,0,0,0,0.41391318,0,0,0,0.72106665" centerOfMass="0.16,-4.440892099E-16,-0.0001742839813" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.792" minY="-0.952" minZ="-0.4" maxX="1.112" maxY="0.952" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.792" minY="-0.952" minZ="-0.4" maxX="1.112" maxY="0.952" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

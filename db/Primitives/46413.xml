@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-12-26
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Added years-of-use to name [Stephan] 2025-12-26
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46413" />
+    <Annotation designname="SHELL 4X8X2 W/FORKS [2003-2020]" />
+    <Annotation maingroupid="277" />
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.89" sY="0.065" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.5" ty="0.48" tz="0.325" />
+    <Box sX="0.89" sY="0.065" sZ="0.47" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.5" ty="0.48" tz="-2.725" />
+    <Box sX="0.89" sY="1.59" sZ="0.065001" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.5" ty="0.885" tz="-1.2" />
+    <Box sX="0.065" sY="1.59" sZ="0.365" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.325" ty="0.585" tz="-1.2" />
+    <Box sX="0.89" sY="1.59" sZ="0.065" angle="174.5965" ax="-0.0472" ay="-0.7063" az="0.7063" tx="2.282" ty="0.7659" tz="-1.2" />
+    <Box sX="0.890001" sY="1.59" sZ="0.065" angle="164.4318" ax="-0.1367" ay="-0.7005" az="0.7005" tx="3.9898" ty="0.3127" tz="-1.2" />
+    <Box sX="0.692634" sY="1.59" sZ="0.065" angle="155.2952" ax="-0.219" ay="-0.6899" az="0.6899" tx="5.3827" ty="-0.4227" tz="-1.2" />
+    <Box sX="0.890001" sY="0.065" sZ="0.402802" angle="175.0067" ax="-0.0436" ay="-0.7064" az="0.7064" tx="2.3439" ty="0.3509" tz="-2.725" />
+    <Box sX="1.02785" sY="0.065001" sZ="0.318688" angle="163.1041" ax="-0.1485" ay="-0.6993" az="0.6993" tx="4.1501" ty="-0.2293" tz="-2.725" />
+    <Box sX="1.02785" sY="0.065001" sZ="0.318688" angle="163.1041" ax="-0.1485" ay="-0.6993" az="0.6993" tx="4.1501" ty="-0.2293" tz="0.325" />
+    <Box sX="0.89" sY="0.065" sZ="0.402801" angle="175.0067" ax="-0.0436" ay="-0.7064" az="0.7064" tx="2.3439" ty="0.3509" tz="0.325" />
+    <Box sX="0.064978" sY="1.59" sZ="0.09" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="5.925" ty="-0.86" tz="-1.2" />
+    <Box sX="0.064978" sY="0.790001" sZ="0.09" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="5.2" ty="-0.86" tz="-2.725" />
+    <Box sX="0.064979" sY="0.790001" sZ="0.09" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="5.2" ty="-0.86" tz="0.325" />
+    <Box sX="0.344966" sY="0.085" sZ="0.144834" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.605" ty="0.5649" tz="-2.255" />
+    <Box sX="0.344966" sY="0.085" sZ="0.144834" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.605" ty="0.5649" tz="-1.745" />
+    <Box sX="0.344966" sY="0.085" sZ="0.144834" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.605" ty="0.5649" tz="-0.655" />
+    <Box sX="0.344966" sY="0.085" sZ="0.144834" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.605" ty="0.5649" tz="-0.145" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="8" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,29:0:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,29:0:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,29:0:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="2" oriented="0" angle="90" ax="1" ay="0" az="0" tx="-0.8" ty="0.56" tz="-0.4" LimMin="-1.570796" LimMax="1.570796" FlipLimMin="-1.570796" FlipLimMax="1.570796" />
+    <Hinge type="2" oriented="0" angle="90" ax="1" ay="0" az="0" tx="-0.8" ty="0.56" tz="-2" LimMin="-1.570796" LimMax="1.570796" FlipLimMin="-1.570796" FlipLimMax="1.570796" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="8.2766,0,0,0,28.87715,0,0,0,23.61402" centerOfMass="2.43828,0.381544,-1.2" mass="6" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.04984" minY="-0.96" minZ="-2.8" maxX="6" maxY="1.138" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.04984" minY="-0.96" minZ="-2.8" maxX="6" maxY="1.138" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

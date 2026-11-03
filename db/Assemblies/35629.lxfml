@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2026-02-18
+	Comments: v0.0: Initial creation [Stephan] 2023-02-18
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="35629"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="FEMALE, HIP W/ SKIRT NO. 1 [2017-2023]"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="35626">
+			<Part refID="0" designID="35626" materials="0,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,0,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="92248">
+			<Part refID="1" designID="92248" materials="0">
+				<Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.39999997615,2.3066999912261963,-0.0908999443"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

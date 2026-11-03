@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-07-04
+	Comments: v0.0: Initial creation [Stephan] 2025-07-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6899" />
+    <Annotation designname="ANTENNA W/ 1.5 SHAFT, NO. 1" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.214277976" sY="0.05921961862" sZ="0.09366180159" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2796" tz="-0.0003" />
+    <Box sX="0.1067173641" sY="0.03938858889" sZ="0.138409567" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2597" tz="-0.0006" />
+    <Box sX="0.1067173641" sY="0.05579808733" sZ="0.07143572802" angle="60" ax="0" ay="0" az="1" tx="0.2286" ty="0.4364" tz="-0.006" />
+    <Box sX="0.1043202011" sY="0.04593603072" sZ="0.05913685976" angle="46.4947" ax="-0.0612" ay="-0.6014" az="0.7966" tx="0.3605" ty="0.612" tz="0.0452" />
+    <Box sX="0.05973773999" sY="0.04593603072" sZ="0.05265574528" angle="52.7433" ax="-0.2103" ay="-0.9451" az="0.2503" tx="0.463" ty="0.6847" tz="0.109" />
+    <Box sX="0.1067173641" sY="0.05598110984" sZ="0.07143572802" angle="180" ax="0.5" ay="0.866" az="0" tx="-0.2288" ty="0.4363" tz="-0.006" />
+    <Box sX="0.1043202011" sY="0.04593603072" sZ="0.05913685976" angle="152.5371" ax="-0.3237" ay="-0.9458" az="0.0249" tx="-0.3605" ty="0.612" tz="0.0452" />
+    <Box sX="0.05973773999" sY="0.04593603072" sZ="0.05265574528" angle="130.358" ax="-0.1225" ay="-0.9871" az="0.1029" tx="-0.463" ty="0.6847" tz="0.109" />
+    <Sphere radius="0.150581" angle="0" ax="1" ay="0" az="0" tx="0.5785" ty="0.6786" tz="0.2481" />
+    <Sphere radius="0.150581" angle="0" ax="1" ay="0" az="0" tx="-0.5794" ty="0.6783" tz="0.2481" />
+    <Box sX="0.060447" sY="0.105201" sZ="0.032934" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1076" tz="-0.0006" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.21" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.084375543,0,0,0,0.20700494,0,0,0,0.23746921" centerOfMass="0,0.4150418341,0.1180765703" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7349" minY="0" minZ="-0.1663" maxX="0.7349" maxY="0.8301" maxZ="0.4024" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7349" minY="0" minZ="-0.1663" maxX="0.7349" maxY="0.8301" maxZ="0.4024" />
+  </GeometryBounding>
+</LEGOPrimitive>

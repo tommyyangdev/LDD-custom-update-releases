@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-12-29
+	Comments: v0.0: Initial creation [Stephan] 2025-12-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35074" />
+    <Annotation designname="BIRD, W/ 1.5 HOLE, NO. 3 [2022-current]" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.2422747094" sY="0.1284483291" sZ="0.6274908266" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4374" tz="-0.2665" />
+    <Box sX="0.1506286225" sY="0.07089159829" sZ="0.3541083891" angle="18.4493" ax="1" ay="0" az="0" tx="0" ty="1.4461" tz="0.6519" />
+    <Box sX="0.2497884225" sY="0.2820228685" sZ="0.05331097663" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.5403" tz="0.5834" />
+    <Box sX="0.2190218192" sY="0.1089245282" sZ="0.2143261402" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1189" tz="0.0003" />
+    <Box sX="0.2616384878" sY="0.4355826495" sZ="0.2798591245" angle="21.6" ax="1" ay="0" az="0" tx="0" ty="0.8602" tz="0.127" />
+    <Box sX="0.05879444646" sY="0.1435245551" sZ="0.2273392712" angle="2.6826" ax="-1" ay="0" az="0" tx="0" ty="1.3692" tz="0.0789" />
+    <Box sX="0.2293438008" sY="0.05880104733" sZ="0.1821629302" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3208" tz="0.3857" />
+    <Box sX="0.07421621584" sY="0.3174532211" sZ="0.1457336817" angle="40.304" ax="1" ay="0" az="0" tx="-0.3614" ty="0.5783" tz="-0.1369" />
+    <Box sX="0.0802124143" sY="0.3174532211" sZ="0.1457336817" angle="40.304" ax="1" ay="0" az="0" tx="0.3315" ty="0.57" tz="-0.1182" />
+    <Box sX="0.2497884225" sY="0.2820228685" sZ="0.1386456849" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.5403" tz="0.2044" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="14" length="0.24" grabbing="0" startCapped="0" endCapped="1" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="1.8599" tz="0.435" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.66812652,0,0,0,0.46582428,0,0,0,0.37422407" centerOfMass="1.430511475E-06,0.9299405813,-0.008716464043" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.5078" minY="0" minZ="-1.0762" maxX="0.5078" maxY="1.8599" maxZ="1.0588" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5078" minY="0" minZ="-1.0762" maxX="0.5078" maxY="1.8599" maxZ="1.0588" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

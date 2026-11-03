@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Magnus Forsberg [MagFors]
+	Editted for LDD by: jester
+	Last modification: 2025-03-21
+	Comments: v0.0 Initial creation [MagFors]
+	v1.1: Added collision data [Stephan] 2021-07-31
+	v1.2: Updated decoration surface [jester] 2024-09-27
+	v2.0: Updated decoration surface [Stephan] 2025-03-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9442;37365" />
+    <Annotation designname="MINI LEG, 1 1/3, RIGHT" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.02391868531" sY="0.2699906731" sZ="0.2096491957" angle="90" ax="-1" ay="0" az="0" tx="0.3152" ty="0.2196" tz="-0.07" />
+    <Box sX="0.3065497546" sY="0.06829246784" sZ="0.01723500344" angle="180" ax="1" ay="0" az="0" tx="0.028" ty="0.0783" tz="-0.3228" />
+    <Box sX="0.2929474914" sY="0.1394139924" sZ="0.01723500344" angle="180" ax="1" ay="0" az="0" tx="0.0144" ty="0.7951" tz="-0.3228" />
+    <Box sX="0.3027015273" sY="0.1473242356" sZ="0.01723500344" angle="90" ax="-1" ay="0" az="0" tx="0.0005" ty="1.0841" tz="-0.0027" />
+    <Box sX="0.3089218752" sY="0.06865378314" sZ="0.1966959739" angle="90" ax="-1" ay="0" az="0" tx="-0.0016" ty="0.8048" tz="0.2068" />
+    <Box sX="0.03111076891" sY="0.270000031" sZ="0.2501692975" angle="179.6278" ax="-0.0032" ay="0.7071" az="0.7071" tx="-0.3034" ty="0.26" tz="-0.0695" />
+    <Box sX="0.2749450111" sY="0.01719969017" sZ="0.1047472262" angle="90" ax="-1" ay="0" az="0" tx="-0.0036" ty="0.4052" tz="0.1828" />
+    <Box sX="0.3446500504" sY="0.09228717327" sZ="0.1500000262" angle="90" ax="-1" ay="0" az="0" tx="-0.0036" ty="0.1596" tz="0.3477" />
+    <Box sX="0.02225025535" sY="0.2428626025" sZ="0.2265886569" angle="180" ax="0" ay="1" az="0" tx="-0.2854" ty="0.7728" tz="-0.0266" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.355">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.8" tz="-0.35">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="12" oriented="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="0.225" ty="0.8" tz="0" />
+    <Fixed type="55" axes="2" angle="90" ax="0" ay="0" az="1" tx="0.355" ty="0.32" tz="-0.35" />
+    <Fixed type="120" axes="2" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.32" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.16526097,0,0,0,0.1073354,0,0,0,0.16459224" centerOfMass="0,0.5777341127,0.04749993443" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3738" minY="0" minZ="-0.3524" maxX="0.354" maxY="1.1555" maxZ="0.45" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3738" minY="0" minZ="-0.3524" maxX="0.354" maxY="1.1555" maxZ="0.45" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2911"/>
+    <Annotation designname="INTERIOR SHOVER"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+		<Box sX="0.123243" sY="0.0328294" sZ="0.123243" angle="0.0" ax="0.0" ay="1.0" az="0.0" tx="0.0" ty="-0.0684948" tz="3.0732"/>
+  </Collision>
+  <Connectivity>
+		<Fixed type="3" axes="2" angle="240.0" ax="-0.57735" ay="0.57735" az="0.57735" tx="-0.000342131" ty="0.0" tz="4.76837e-006"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="0,-0.085,0" mass="0.1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.29" minZ="-3.47" maxX="0.4" maxY="0.12" maxZ="3.47"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.29" minZ="-3.47" maxX="0.4" maxY="0.12" maxZ="3.47"/>
+  </GeometryBounding>
+</LEGOPrimitive>

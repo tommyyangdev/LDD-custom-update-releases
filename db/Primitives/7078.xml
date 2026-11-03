@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-09-04
+	Comments: v0.0: Initial creation [Stephan] 2024-09-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7078" />
+    <Annotation designname="SHAFT 6 MODULE, W/ FLANGE" />
+    <Annotation maingroupid="236" />
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.132024" sY="0.935749" sZ="0.07274" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.936" tz="0" />
+    <Box sX="0.132024" sY="0.935749" sZ="0.07274" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.936" tz="0" />
+    <Box sX="0.132024" sY="0.935749" sZ="0.07274" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="3.8564" tz="0" />
+    <Box sX="0.132024" sY="0.935749" sZ="0.07274" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="3.8564" tz="0" />
+    <Box sX="0.132024" sY="0.570667" sZ="0.07274" angle="22.031" ax="0" ay="0" az="-1" tx="0.2011" ty="2.4012" tz="0" />
+    <Box sX="0.132024" sY="0.570667" sZ="0.07274" angle="92.0923" ax="0.1877" ay="0.9641" az="-0.1877" tx="0.2011" ty="2.4012" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="4.0041" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="90" ax="0" ay="-1" az="0" tx="0.4" ty="4.0041" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="45" ax="0" ay="-1" az="0" tx="0.4" ty="4.0041" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="135" ax="0" ay="-1" az="0" tx="0.4" ty="4.0041" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.793" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.793" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.793" tz="0" />
+    <Box sX="0.205314" sY="0.131844" sZ="0.07274" angle="135" ax="0" ay="-1" az="0" tx="0" ty="0.793" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.66" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="7" length="1.02" requireGrabbing="0" startCapped="1" endCapped="0" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.93" tz="0" />
+    <Axel type="7" length="0.66" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="1" ay="0" az="0" tx="0.4" ty="4.8" tz="0" />
+    <Axel type="7" length="1.02" requireGrabbing="0" startCapped="1" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0.4" ty="3.87" tz="0" />
+    <Axel type="7" length="1.09" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="0.9808" ay="-0.1951" az="0" tx="0.41" ty="2.9" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,9:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="0" ty="4.8" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,9:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.9531042,0,0,0,0.12323742,0,0,0,2.0101335" centerOfMass="0.2,2.400000095,8.326672685E-16" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.23" minY="0" minZ="-0.23" maxX="0.63" maxY="4.8" maxZ="0.23" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.23" minY="0" minZ="-0.23" maxX="0.63" maxY="4.8" maxZ="0.23" />
+  </GeometryBounding>
+</LEGOPrimitive>

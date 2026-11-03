@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-03-29
+	Comments: v0.0: Initial creation [Stephan] 2026-03-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="52684" />
+    <Annotation designname="MINI HAT, NO. 96" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.468469472" sY="0.2526592302" sZ="0.4239698951" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2743" tz="0" />
+    <Box sX="0.3582408177" sY="0.377515495" sZ="0.07326130821" angle="15.5588" ax="1" ay="0" az="0" tx="0" ty="-0.0546" tz="-0.5945" />
+    <Box sX="0.4450472008" sY="0.2447571777" sZ="0.04218522901" angle="1.451" ax="-1" ay="0" az="0" tx="0" ty="-0.6707" tz="-0.6002" />
+    <Box sX="0.2179506892" sY="0.04478313705" sZ="0.21157583" angle="6.6973" ax="0" ay="0" az="1" tx="-0.2283" ty="-0.0856" tz="0.7588" />
+    <Box sX="0.1043193637" sY="0.1846426695" sZ="0.07202969363" angle="0" ax="1" ay="0" az="0" tx="0" ty="-1.1243" tz="0.614" />
+    <Box sX="0.1016566807" sY="0.198841491" sZ="0.05912485365" angle="61.1765" ax="-0.2214" ay="0.3297" az="-0.9178" tx="0.2734" ty="-0.9956" tz="0.5599" />
+    <Box sX="0.07199944294" sY="0.235728235" sZ="0.08265982395" angle="73.18" ax="-0.3387" ay="0.485" az="-0.8062" tx="0.5679" ty="-0.7681" tz="0.3332" />
+    <Box sX="0.06930639211" sY="0.2526592302" sZ="0.4239698951" angle="19.584" ax="0" ay="0" az="1" tx="0.5306" ty="0.1368" tz="-0.05" />
+    <Box sX="0.06930639211" sY="0.4130879438" sZ="0.3375266881" angle="20.4219" ax="0.0409" ay="0.9714" az="0.234" tx="0.6282" ty="-0.5101" tz="-0.1611" />
+    <Box sX="0.1016566807" sY="0.198841491" sZ="0.05912485365" angle="160.6833" ax="-0.4737" ay="0.8732" az="-0.1143" tx="-0.2734" ty="-0.9956" tz="0.5599" />
+    <Box sX="0.07199944294" sY="0.235728235" sZ="0.08265982395" angle="146.3906" ax="-0.502" ay="0.8387" az="-0.2109" tx="-0.5679" ty="-0.7681" tz="0.3332" />
+    <Box sX="0.06930639211" sY="0.2526592302" sZ="0.4239698951" angle="180" ax="0.1701" ay="0.9854" az="0" tx="-0.5306" ty="0.1368" tz="-0.05" />
+    <Box sX="0.06930639211" sY="0.4130879438" sZ="0.3375266881" angle="160.1686" ax="0.0421" ay="0.9991" az="0.0074" tx="-0.6282" ty="-0.5101" tz="-0.1611" />
+    <Box sX="0.2179506892" sY="0.04478313705" sZ="0.21157583" angle="180" ax="0.0584" ay="0.9983" az="0" tx="0.2283" ty="-0.0856" tz="0.7588" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.60856563,0,0,0,0.52254455,0,0,0,0.55698548" centerOfMass="3.77697873E-13,-0.3722899258,0.09971809387" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8168" minY="-1.3544" minZ="-0.8283" maxX="0.8152" maxY="0.6098" maxZ="1.0277" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8168" minY="-1.3544" minZ="-0.8283" maxX="0.8152" maxY="0.6098" maxZ="1.0277" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

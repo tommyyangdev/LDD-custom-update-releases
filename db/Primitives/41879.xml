@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Jester
+	Last modification: 2024-09-27
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v0.1: Updated decoration surfaces [jester] 2024-09-27
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41879;90380" />
+    <Annotation designname="MINI LEG [2002-current, single-mould]" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="5" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.334256565" sY="0.358745771" sZ="0.378228005" transformation="1,0,0,0,1,0,0,0,1,0.00574284015,0.3696981725,0.003728008116" angle="0" ax="0" ay="1" az="0" tx="0.00574284015" ty="0.3696981725" tz="0.003728008116"/>
+    <Box sX="0.6950051689" sY="0.1001780683" sZ="0.3820002004" transformation="1,0,0,0,1,0,0,0,1,0.4000000954,0.8486220092,0.007499696896" angle="0" ax="0" ay="1" az="0" tx="0.4000000954" ty="0.8486220092" tz="0.007499696896"/>
+    <Box sX="0.1603971516" sY="0.2299998711" sZ="0.1603971516" transformation="1,0,0,0,1,0,0,0,1,-0.005385742938,1.198799918,0" angle="0" ax="0" ay="1" az="0" tx="-0.005385742938" ty="1.198799918" tz="0"/>
+    <Box sX="0.1603971313" sY="0.2299998711" sZ="0.1603971516" transformation="1,0,0,0,1,0,0,0,1,0.7929100017,1.198799918,0" angle="0" ax="0" ay="1" az="0" tx="0.7929100017" ty="1.198799918" tz="0"/>
+    <Box sX="0.3387459421" sY="0.358745771" sZ="0.3820002471" transformation="1,0,0,0,1,0,0,0,1,0.798746663,0.3696981725,0.007500209137" angle="0" ax="0" ay="1" az="0" tx="0.798746663" ty="0.3696981725" tz="0.007500209137"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" transformation="1,0,0,0,1,0,0,0,1,-0.4,0,-0.4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Fixed type="55" axes="2" transformation="2.220446049E-16,-1,0,1,2.220446049E-16,0,0,0,1,0.4454999745,0.3199999928,-0.3500000238" angle="90" ax="0" ay="0" az="-1" tx="0.4454999745" ty="0.3199999928" tz="-0.3500000238"/>
+    <Fixed type="5" axes="2" transformation="-1,0,-1.224646799E-16,0,1,0,1.224646799E-16,0,-1,0.9,0.96,0" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0.96" tz="0"/>
+    <Fixed type="5" axes="2" transformation="-1,0,-1.224646799E-16,0,1,0,1.224646799E-16,0,-1,0.9,1.05,0" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="1.05" tz="0"/>
+    <Fixed type="5" axes="2" transformation="1,0,0,0,1,0,0,0,1,-0.1,0.96,0" angle="0" ax="0" ay="1" az="0" tx="-0.1" ty="0.96" tz="0"/>
+    <Fixed type="5" axes="2" transformation="1,0,0,0,1,0,0,0,1,-0.1,1.05,0" angle="0" ax="0" ay="1" az="0" tx="-0.1" ty="1.05" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.14462928,0,0,0,0.18497962,0,0,0,0.253545" centerOfMass="0.399207171,0.623268288,-0.0202247772" mass="0.8" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.37" minY="0" minZ="-0.3845" maxX="1.17" maxY="1.4388" maxZ="0.3995" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="0" minZ="-0.384501" maxX="1.17" maxY="1.4388" maxZ="0.3995" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

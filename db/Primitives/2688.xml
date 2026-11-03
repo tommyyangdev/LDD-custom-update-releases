@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Bernd Broich [bbroich]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2688"/>
+    <Annotation designname="BOGEY WHEELS"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+		<Box sX="0.0566233" sY="0.225991" sZ="0.225991" angle="0.0" ax="0.0" ay="1.0" az="0.0" tx="1.13" ty="0.0" tz="0.0"/>
+		<Box sX="0.0566233" sY="0.225991" sZ="0.225991" angle="0.0" ax="0.0" ay="1.0" az="0.0" tx="-1.13" ty="0.0" tz="0.0"/>
+  </Collision>
+  <Connectivity>
+		<Fixed type="3" axes="2" angle="90.0" ax="0.0" ay="0.0" az="1.0" tx="0.0" ty="0.0" tz="0.0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="329.4762,0,0,0,413.53809,0,0,0,86.25494" centerOfMass="0,0,0" mass="15.3000001907" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-1.35" minY="-0.48" minZ="-0.48" maxX="1.35" maxY="0.48" maxZ="0.48"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.35" minY="-0.48" minZ="-0.48" maxX="1.35" maxY="0.48" maxZ="0.48"/>
+  </GeometryBounding>
+</LEGOPrimitive>

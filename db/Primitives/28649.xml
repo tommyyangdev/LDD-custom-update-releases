@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-02-03
+	Comments: v0.0: Initial creation [Stephan[ 2025-01-05
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="28649" />
+    <Annotation designname="MINI DOLL HEAD, NO. 4" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3258079237" sY="0.2186615495" sZ="0.3733285299" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.3075" tz="-0.0012" />
+    <Box sX="0.2355924526" sY="0.09171630776" sZ="0.2171086967" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.1242" tz="0.0008" />
+    <Box sX="0.2456334641" sY="0.4050471439" sZ="0.1767840383" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.5138" tz="0.257" />
+    <Box sX="0.2680961842" sY="0.2624473684" sZ="0.1069832557" angle="90" ax="0" ay="1" az="0" tx="-0.2871" ty="-0.3902" tz="0.0037" />
+    <Box sX="0.2680961842" sY="0.2624472669" sZ="0.1069832196" angle="90" ax="0" ay="1" az="0" tx="0.2871" ty="-0.3902" tz="0.0037" />
+    <Box sX="0.2073872979" sY="0.3076738752" sZ="0.01897428801" angle="11.119" ax="-1" ay="0" az="0" tx="0" ty="-0.4781" tz="-0.368" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,3:4:2,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.4508842" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-1.0509" tz="-0.0999" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.2250815,0,0,0,0.18252955,0,0,0,0.22045676" centerOfMass="0,-0.45122841,0.01462590694" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.5166" minY="-1.0793" minZ="-0.5152" maxX="0.5166" maxY="0.1769" maxZ="0.5445" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5166" minY="-1.0793" minZ="-0.5152" maxX="0.5166" maxY="0.1769" maxZ="0.5445" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

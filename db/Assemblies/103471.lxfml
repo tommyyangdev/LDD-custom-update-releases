@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-04-14
+	Comments: v0.0: Initial creation [Stephan] 2025-04-14
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="103471"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ANIMAL BODY, NO. 15"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="103471">
+      <Part refID="0" designID="103471" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,1.2000000476837158,0.00099999993108212948,4.4000000953674316">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41140">
+      <Part refID="1" designID="41140" materials="21">
+        <Bone refID="1" transformation="0,0.86603814363479614,-0.49997806549072266,0,-0.49997794628143311,-0.86603814363479614,-1,0,0,-0.79999983310699463,8.9010000228881836,3.8600001335144043">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="41140">
+      <Part refID="2" designID="41140" materials="21">
+        <Bone refID="2" transformation="0,-1,0,0,0,1.0000001192092896,-1,0,0,-0.80000042915344238,5.7009992599487305,-6.2148003578186035">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

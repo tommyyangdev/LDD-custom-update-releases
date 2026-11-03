@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2026-02-19
+	Comments: v0.0: Initial creation [Stephan] 2023-02-19
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="38376"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI UPPER PART, NO. 4168, NO. 1"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="37191">
+			<Part refID="0" designID="37191" materials="0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000000596046448,0,-2.7999999523162842"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="3818">
+			<Part refID="1" designID="3818" materials="0,0">
+				<Bone refID="1" transformation="0.9998321533203125,-0.018321167677640915,0,0.018321167677640915,0.9998321533203125,0,0,0,1,-0.011774814687669277,1.7568480968475342,-3.0767998695373535"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="3819">
+			<Part refID="2" designID="3819" materials="0,0">
+				<Bone refID="2" transformation="0.99915909767150879,0.04100118950009346,0,-0.04100118950009346,0.99915909767150879,0,0,0,1,1.6146738529205322,1.7602500915527344,-3.0767998695373535"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="3820">
+			<Part refID="3" designID="3820" materials="0">
+				<Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,-0.20751409232616425,1.4453819990158081,-2.3067998886108398"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="3820">
+			<Part refID="4" designID="3820" materials="0">
+				<Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,1.8174294233322144,1.4533052444458008,-2.3067998886108398"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

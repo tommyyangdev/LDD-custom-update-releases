@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-05-02
+	Comments: v0.0: Initial creation [Stephan] 2025-05-02
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5443" />
+    <Annotation designname="BEAM 1X5, W/ CROSS HOLE, NO. 1" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1004536057" sY="0.03885090888" sZ="1.989999493" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3011" tz="-2" />
+    <Box sX="0.1004536057" sY="0.03885090888" sZ="1.989999493" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.3011" tz="-2" />
+    <Box sX="0.1004536057" sY="0.03885090888" sZ="1.989999493" angle="90" ax="0" ay="0" az="-1" tx="0.3011" ty="0" tz="-2" />
+    <Box sX="0.1004536057" sY="0.03885090888" sZ="1.989999493" angle="90" ax="0" ay="0" az="1" tx="-0.3011" ty="0" tz="-2" />
+    <Box sX="0.04101333235" sY="0.04063308602" sZ="1.989999493" angle="0" ax="1" ay="0" az="0" tx="0.1674" ty="0.167" tz="-2" />
+    <Box sX="0.04101331932" sY="0.04063308602" sZ="0.3899999762" angle="90" ax="0" ay="0" az="1" tx="-0.167" ty="0.1674" tz="-0.4" />
+    <Box sX="0.04101333235" sY="0.04063311209" sZ="1.989999493" angle="180" ax="0" ay="0" az="1" tx="-0.1674" ty="-0.167" tz="-2" />
+    <Box sX="0.04101333235" sY="0.04063308602" sZ="0.3899999762" angle="90" ax="0" ay="0" az="-1" tx="0.167" ty="-0.1674" tz="-0.4" />
+    <Box sX="0.1004536057" sY="0.03885090888" sZ="1.549999466" angle="45" ax="0" ay="0" az="1" tx="-0.2129" ty="0.2129" tz="-2.44" />
+    <Box sX="0.1004536057" sY="0.04249999464" sZ="1.549999466" angle="135" ax="0" ay="0" az="1" tx="-0.2104" ty="-0.2104" tz="-2.44" />
+    <Box sX="0.1004536057" sY="0.03885090888" sZ="1.549999466" angle="135" ax="0" ay="0" az="-1" tx="0.2129" ty="-0.2129" tz="-2.44" />
+    <Box sX="0.1004536057" sY="0.04249999464" sZ="1.549999466" angle="45" ax="0" ay="0" az="-1" tx="0.2104" ty="0.2104" tz="-2.44" />
+    <Box sX="0.1004536057" sY="0.02295502067" sZ="0.4300000572" angle="45" ax="0" ay="0" az="1" tx="-0.2017" ty="0.2017" tz="-0.44" />
+    <Box sX="0.1004536057" sY="0.02535917401" sZ="0.4300000572" angle="45" ax="0" ay="0" az="-1" tx="0.1982" ty="0.1982" tz="-0.44" />
+    <Box sX="0.1004536057" sY="0.02295502067" sZ="0.4300000572" angle="135" ax="0" ay="0" az="-1" tx="0.2017" ty="-0.2017" tz="-0.44" />
+    <Box sX="0.1004536057" sY="0.02535917401" sZ="0.4300000572" angle="135" ax="0" ay="0" az="1" tx="-0.1982" ty="-0.1982" tz="-0.44" />
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="4" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      29:0,29:0,29:0,
+      29:0,13:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.3789667,0,0,0,1.3789666,0,0,0,0.091266632" centerOfMass="0,0,-2" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.37" minY="-0.37" minZ="-4" maxX="0.37" maxY="0.37" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.37" minZ="-4" maxX="0.37" maxY="0.37" maxZ="0" />
+  </GeometryBounding>
+</LEGOPrimitive>

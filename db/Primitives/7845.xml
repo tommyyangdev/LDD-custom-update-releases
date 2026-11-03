@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-01-13
+	Comments: v0.0: Initial creation [Stephan] 2026-01-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7845" />
+    <Annotation designname="MINI BADGE, NO. 1" />
+    <Annotation maingroupid="253" />
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3789795641" sY="0.2541541269" sZ="0.07250151312" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.6894" tz="0.497" />
+    <Box sX="0.03530472259" sY="0.2330992971" sZ="0.03801603306" angle="120" ax="-0.5774" ay="0.5774" az="0.5774" tx="0" ty="0.0553" tz="-0.3758" />
+    <Box sX="0.06709540016" sY="0.1893518422" sZ="0.05264168024" angle="90" ax="-1" ay="0" az="0" tx="0.4083" ty="0.0626" tz="0.1187" />
+    <Box sX="0.07599990606" sY="0.2720237577" sZ="0.04252444744" angle="32.5814" ax="0" ay="0" az="-1" tx="0.2243" ty="-0.2366" tz="0.467" />
+    <Box sX="0.05035070771" sY="0.1553857637" sZ="0.05264168024" angle="94.2542" ax="-0.9284" ay="0.2628" az="0.2628" tx="0.3184" ty="0.0626" tz="-0.2216" />
+    <Box sX="0.06748089031" sY="0.1893518422" sZ="0.05264168024" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.4079" ty="0.0626" tz="0.1187" />
+    <Box sX="0.07599990606" sY="0.2720237577" sZ="0.04252444744" angle="180" ax="-0.2805" ay="0.9599" az="0" tx="-0.2243" ty="-0.2366" tz="0.467" />
+    <Box sX="0.05035070771" sY="0.1553857637" sZ="0.05264168024" angle="157.7921" ax="0.1963" ay="0.6934" az="-0.6934" tx="-0.3184" ty="0.0626" tz="-0.2216" />
+    <Box sX="0.07026845817" sY="0.0771400269" sZ="0.04174183846" angle="174.8012" ax="0.0689" ay="-0.8331" az="0.5488" tx="-0.3919" ty="0.0389" tz="0.414" />
+    <Box sX="0.07026845817" sY="0.0771400269" sZ="0.04174183846" angle="67.3451" ax="-0.9889" ay="-0.0818" az="-0.1242" tx="0.3919" ty="0.0389" tz="0.414" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.19831283,0,0,0,0.17940825,0,0,0,0.18846167" centerOfMass="0,-0.4042429626,0.04661382735" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.5053" minY="-0.9631" minZ="-0.4874" maxX="0.5053" maxY="0.1553" maxZ="0.5814" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5053" minY="-0.9631" minZ="-0.4874" maxX="0.5053" maxY="0.1553" maxZ="0.5814" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

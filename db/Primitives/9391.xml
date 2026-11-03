@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Edited for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="9391"/>
+    <Annotation designname="POWERED UP/SPIKE L-MOTOR Cable Lock"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="13"/>
+  </Annotations>
+  <Collision>
+		<Box sX="0.08" sY="0.696165" sZ="0.396706" angle="180.0" ax="0.0" ay="-1.0" az="0.0" tx="-6.47622" ty="0.8" tz="-1.99915"/>
+  </Collision>
+  <Connectivity>
+		<Fixed type="3" axes="2" angle="3.86374e-005" ax="0.0" ay="0.0" az="0.0" tx="-6.36" ty="0.800001" tz="-2.0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="54.23239,0,0,0,182.57419,0,0,0,203.99773" centerOfMass="-6.4799,0.8,-1.99982" mass="18.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-6.5999" minY="0.0199996" minZ="-2.47982" maxX="-6.3599" maxY="1.58" maxZ="-1.51982"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-6.5999" minY="0.0199996" minZ="-2.47982" maxX="-6.3599" maxY="1.58" maxZ="-1.51982"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-07-19
+	Comments: v0.0: Initial creation [Stephan] 2024-07-19
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3757" />
+    <Annotation designname="KNIFE DOUBLE BLADE, NO. 1" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.2628170288" sY="0.1019689366" sZ="0.1019689366" angle="45" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.1568032115" sY="0.1010114784" sZ="0.07890478466" angle="28.3083" ax="0" ay="0" az="1" tx="0.4575" ty="-0.0377" tz="0" />
+    <Box sX="0.1486040874" sY="0.1744970707" sZ="0.07271117834" angle="12.1338" ax="0" ay="0" az="-1" tx="0.704" ty="0.3606" tz="0" />
+    <Box sX="0.08885213713" sY="0.07492012619" sZ="0.06321707512" angle="23.0706" ax="0" ay="0" az="1" tx="0.7017" ty="0.7651" tz="0" />
+    <Box sX="0.1897718342" sY="0.1348930233" sZ="0.07583096668" angle="38.6786" ax="0" ay="0" az="-1" tx="0.5695" ty="0.158" tz="0" />
+    <Box sX="0.202370248" sY="0.0868706877" sZ="0.07848711912" angle="90" ax="0" ay="0" az="1" tx="0.3676" ty="0.0287" tz="0" />
+    <Box sX="0.1205347545" sY="0.1071705213" sZ="0.0636786828" angle="3.7025" ax="0" ay="0" az="1" tx="0.7353" ty="0.6048" tz="0" />
+    <Box sX="0.2640364549" sY="0.09833811139" sZ="0.09833811139" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Box sX="0.05914659446" sY="0.07492012619" sZ="0.04972825837" angle="27.3981" ax="0" ay="0" az="1" tx="0.6333" ty="0.9013" tz="0" />
+    <Box sX="0.1568032115" sY="0.1010114784" sZ="0.07890478466" angle="180" ax="0.2445" ay="0.9696" az="0" tx="-0.4575" ty="-0.0377" tz="0" />
+    <Box sX="0.1486040874" sY="0.1744970707" sZ="0.07271117834" angle="180" ax="-0.1057" ay="0.9944" az="0" tx="-0.704" ty="0.3606" tz="0" />
+    <Box sX="0.08885213713" sY="0.07492012619" sZ="0.06321707512" angle="180" ax="0.2" ay="0.9798" az="0" tx="-0.7017" ty="0.7651" tz="0" />
+    <Box sX="0.1897718342" sY="0.1348930233" sZ="0.07583096668" angle="180" ax="-0.3312" ay="0.9436" az="0" tx="-0.5695" ty="0.158" tz="0" />
+    <Box sX="0.202370248" sY="0.0868706877" sZ="0.07848711912" angle="180" ax="0.7071" ay="0.7071" az="0" tx="-0.3676" ty="0.0287" tz="0" />
+    <Box sX="0.1205347545" sY="0.1071705213" sZ="0.0636786828" angle="180" ax="0.0323" ay="0.9995" az="0" tx="-0.7353" ty="0.6048" tz="0" />
+    <Box sX="0.05914659446" sY="0.07492012619" sZ="0.04972825837" angle="180" ax="0.2368" ay="0.9716" az="0" tx="-0.6333" ty="0.9013" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.44" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="1" tx="0.22" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.13666662,0,0,0,0.27638786,0,0,0,0.39598782" centerOfMass="0,0.3751478121,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8964" minY="-0.2449" minZ="-0.16" maxX="0.8964" maxY="0.9951" maxZ="0.16" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8964" minY="-0.2449" minZ="-0.16" maxX="0.8964" maxY="0.9951" maxZ="0.16" />
+  </GeometryBounding>
+</LEGOPrimitive>
