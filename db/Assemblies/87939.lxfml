@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan [2026-05-08]
+-->
+<LXFML versionMajor="5" versionMinor="0" name="87939">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="87939"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="BULLSEYE ASS. &quot;NR. 1&quot;"/>
+	</Meta>
+  <Bricks>
+    <Brick refID="0" designID="87933">
+      <Part refID="0" designID="87933" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,0,0,-0.80000004768">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="87936">
+      <Part refID="1" designID="87936" materials="21,0" decoration="0">
+        <Bone refID="1" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,0,0,-3.19999990463">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="87939">
+      <Part refID="2" designID="87939" materials="21,0,0,0,0,0" decoration="0,0,0,0,0">
+        <Bone refID="2" transformation="0,0,-1,0,1,0,1,0,0,-0.40000006556,1.9099998474121094,-2.00500020981">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: UnityLegoGame
+	Editted for LDD by: M2m
+	Last modification: 2025-04-13
+	Comments: v0.0: Initial creation [M2m] 2021-01-28
+	v1.0: Updated outlines [Stephan] 2025-04-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="49972;54571" />
+    <Annotation designname="ANIMAL JAW, NO. 4" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.327019" sY="0.056559" sZ="0.608674" angle="9.6342" ax="0" ay="0" az="-1" tx="-1.1302" ty="-0.5361" tz="0" />
+    <Box sX="0.590898" sY="0.07213" sZ="0.411755" angle="14.3979" ax="0" ay="0" az="-1" tx="-2.0763" ty="-0.3108" tz="0" />
+    <Box sX="0.590898" sY="0.056603" sZ="0.317857" angle="1.0628" ax="0" ay="0" az="1" tx="-3.1605" ty="-0.232" tz="0" />
+    <Box sX="0.203788" sY="0.07922" sZ="0.241506" angle="27.0538" ax="0" ay="0" az="-1" tx="-3.9358" ty="-0.132" tz="0" />
+    <Box sX="0.594411" sY="0.108991" sZ="0.33232" angle="88.6717" ax="0.9887" ay="0.114" az="0.0975" tx="-0.3458" ty="-0.1252" tz="-0.7829" />
+    <Box sX="0.687105" sY="0.090203" sZ="0.209081" angle="86.0281" ax="0.9658" ay="0.1271" az="-0.226" tx="-1.5583" ty="-0.0987" tz="-0.6157" />
+    <Box sX="0.872108" sY="0.036621" sZ="0.133202" angle="73.6747" ax="0.9979" ay="0.063" az="0.0168" tx="-3.0622" ty="-0.041" tz="-0.3713" />
+    <Box sX="0.687105" sY="0.090203" sZ="0.209081" angle="86.0281" ax="-0.9658" ay="-0.1271" az="-0.226" tx="-1.5583" ty="-0.0987" tz="0.6157" />
+    <Box sX="0.594411" sY="0.108991" sZ="0.33232" angle="88.6717" ax="-0.9887" ay="-0.114" az="0.0975" tx="-0.3458" ty="-0.1252" tz="0.7829" />
+    <Box sX="0.872108" sY="0.036621" sZ="0.133202" angle="73.6747" ax="-0.9979" ay="-0.063" az="0.0168" tx="-3.0622" ty="-0.041" tz="0.3713" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="309" oriented="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.44797021,0,0,0,2.0989952,0,0,0,1.8482889" centerOfMass="-1.8987,-0.142005,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-4.18976" minY="-0.685968" minZ="-1.02373" maxX="0.392363" maxY="0.401958" maxZ="1.02373" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.18976" minY="-0.685968" minZ="-1.02373" maxX="0.392363" maxY="0.401958" maxZ="1.02373" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

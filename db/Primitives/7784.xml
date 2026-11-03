@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-02-28
+	Comments: v0.0: Initial creation [Stephan] 2026-02-28
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7784" />
+    <Annotation designname="CROSS AXLE 4.5 MODULE, W/ STOP 1 MODULE" />
+    <Annotation maingroupid="385" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1631762886" sY="0.190000003" sZ="0.1568213606" angle="90" ax="1" ay="0" az="0" tx="-0.0025" ty="-0.0007" tz="-1" />
+    <Box sX="0.2052808595" sY="0.0300001623" sZ="0.1973808498" angle="98.4211" ax="0.8629" ay="0.3574" az="0.3574" tx="-0.0025" ty="-0.0007" tz="-0.8103" />
+    <Box sX="0.2052808607" sY="0.1973808536" sZ="0.03000008106" angle="0" ax="1" ay="0" az="0" tx="-0.0025" ty="-0.0007" tz="-0.8103" />
+    <Box sX="0.214999994" sY="0.0675000006" sZ="1.789999952" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-1.8" />
+    <Box sX="0.0675000006" sY="0.214999994" sZ="1.789999952" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-1.8" />
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="3.54" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="17" length="0.03" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0" tz="-0.8" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.1100001,0,0,0,1.1100001,0,0,0,0.059999999" centerOfMass="0,0,-1.800000072" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3" minY="-0.3" minZ="-3.6" maxX="0.3" maxY="0.3" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3" minY="-0.3" minZ="-3.6" maxX="0.3" maxY="0.3" maxZ="0" />
+  </GeometryBounding>
+</LEGOPrimitive>

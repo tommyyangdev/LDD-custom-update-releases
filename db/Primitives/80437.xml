@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-04-03
+	Comments: v0.0: Initial creation [Stephan] 2025-04-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="80437" />
+    <Annotation designname="ARROW, NO. 1" />
+    <Annotation maingroupid="247" />
+    <Annotation maingroupname="FIGURE, WEAPONS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.239662841" sY="0.1026641616" sZ="0.0505112368" angle="21.2926" ax="0.0023" ay="0.0013" az="-1" tx="2.8734" ty="0.1048" tz="0" />
+    <Box sX="1.536128452" sY="0.1278819408" sZ="0.05280201297" angle="0" ax="1" ay="0" az="0" tx="1.5791" ty="0" tz="0" />
+    <Box sX="0.3803452317" sY="0.1779642296" sZ="0.0427299377" angle="0" ax="1" ay="0" az="0" tx="0.4607" ty="0" tz="0" />
+    <Box sX="0.239662841" sY="0.1026641616" sZ="0.0505112368" angle="179.9517" ax="0.9828" ay="0.1847" az="-0.0002" tx="2.8734" ty="-0.1048" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Slider type="63" length="2.3" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0.16" tz="0" />
+    <Slider type="63" length="2.3" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0.7071" az="0" tx="0" ty="-0.16" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.04295602,0,0,0,0.86616082,0,0,0,0.89147148" centerOfMass="1.60375011,0,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="0.0075" minY="-0.32" minZ="-0.1627" maxX="3.2075" maxY="0.32" maxZ="0.1627" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0.0075" minY="-0.32" minZ="-0.1627" maxX="3.2075" maxY="0.32" maxZ="0.1627" />
+  </GeometryBounding>
+</LEGOPrimitive>

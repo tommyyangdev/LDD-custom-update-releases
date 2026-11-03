@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2026-01-18
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Added dates-of-use to name [Stephan] 2026-01-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7709" />
+    <Annotation designname="CREATURE, NO. 239" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.5199999714" sY="0.1145871037" sZ="0.6058355592" angle="90" ax="0" ay="-1" az="0" tx="-0.0009" ty="0.3446" tz="0.13" />
+    <Box sX="0.1100000234" sY="0.3595870787" sZ="0.6067155389" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.0996" tz="0.54" />
+    <Box sX="0.09478185117" sY="0.1323425972" sZ="0.2900017613" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-0.1777" tz="1.0052" />
+    <Box sX="0.06500001788" sY="0.2015866169" sZ="0.6049554968" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.2619" tz="-0.325" />
+    <Box sX="0.1013759466" sY="0.1000000292" sZ="0.05000001431" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.11" tz="0.3616" />
+    <Box sX="0.5100000703" sY="0.1000000292" sZ="0.1724777452" angle="90" ax="0" ay="-1" az="0" tx="0.4325" ty="0.11" tz="0.14" />
+    <Box sX="0.520129227" sY="0.3845870176" sZ="0.08747771621" angle="90" ax="0" ay="-1" az="0" tx="0.5175" ty="0.0746" tz="0.1299" />
+    <Box sX="0.06999807596" sY="0.1423810849" sZ="0.1575207794" angle="90" ax="0" ay="-1" az="0" tx="0.4675" ty="0.6259" tz="0.29" />
+    <Box sX="0.05500008982" sY="0.2267625646" sZ="0.6049554968" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.2368" tz="-0.315" />
+    <Box sX="0.2316066825" sY="0.1323425972" sZ="0.05311963797" angle="94" ax="0" ay="-1" az="0" tx="0.2539" ty="-0.1777" tz="0.8646" />
+    <Box sX="0.3349999839" sY="0.1073427403" sZ="0.2900017613" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-0.1527" tz="0.765" />
+    <Box sX="0.02396223485" sY="0.3845869431" sZ="0.1753169322" angle="90" ax="0" ay="-1" az="0" tx="0.4314" ty="0.0746" tz="0.626" />
+    <Box sX="0.5100001327" sY="0.3845870176" sZ="0.0924777025" angle="90" ax="0" ay="-1" az="0" tx="0.5125" ty="0.0746" tz="0.14" />
+    <Box sX="0.520129227" sY="0.3845870176" sZ="0.08747771621" angle="90" ax="0" ay="-1" az="0" tx="-0.5175" ty="0.0746" tz="0.1299" />
+    <Box sX="0.06999807596" sY="0.1423810849" sZ="0.1575207794" angle="90" ax="0" ay="-1" az="0" tx="-0.4675" ty="0.6259" tz="0.29" />
+    <Box sX="0.2316066825" sY="0.1323425972" sZ="0.05311963797" angle="86" ax="0" ay="-1" az="0" tx="-0.2539" ty="-0.1777" tz="0.8646" />
+    <Box sX="0.02396223485" sY="0.3845869431" sZ="0.1753169322" angle="90" ax="0" ay="-1" az="0" tx="-0.4314" ty="0.0746" tz="0.626" />
+    <Box sX="0.5100001327" sY="0.3845870176" sZ="0.0924777025" angle="90" ax="0" ay="-1" az="0" tx="-0.5125" ty="0.0746" tz="0.14" />
+    <Box sX="0.5100000703" sY="0.1000000292" sZ="0.1724777452" angle="90" ax="0" ay="-1" az="0" tx="-0.4325" ty="0.11" tz="0.14" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.2909085,0,0,0,0.32526223,0,0,0,0.23615405" centerOfMass="0,0.2301825881,0.3550000042" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.637" minY="-0.32" minZ="-0.4" maxX="0.637" maxY="0.7804" maxZ="1.11" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.637" minY="-0.32" minZ="-0.4" maxX="0.637" maxY="0.7804" maxZ="1.11" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
+</LEGOPrimitive>

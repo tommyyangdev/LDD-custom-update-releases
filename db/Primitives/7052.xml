@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-12-30
+	Comments: v0.0: Initial creation [Stephan] 2025-12-30
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7052" />
+    <Annotation designname="3.2 SHAFT ELEMENT, NO. 3" />
+    <Annotation maingroupid="285" />
+    <Annotation maingroupname="CONNECTORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1017125614" sY="0.0981404251" sZ="0.0981404251" angle="180" ax="0.8388" ay="-0.5444" az="0" tx="1.5738" ty="0.4895" tz="0" />
+    <Box sX="0.1017125614" sY="0.0981404251" sZ="0.0981404251" angle="114.0372" ax="0" ay="0" az="-1" tx="0.0262" ty="0.4895" tz="0" />
+    <Box sX="0.101713" sY="0.257834" sZ="0.09814" angle="180" ax="0" ay="1" az="0" tx="1.5923" ty="0.2611" tz="0" />
+    <Box sX="0.101713" sY="0.257834" sZ="0.09814" angle="180" ax="0" ay="1" az="0" tx="0.0062" ty="0.2611" tz="0" />
+    <Box sX="0.1017125614" sY="0.0981404251" sZ="0.0981404251" angle="180" ax="0.9691" ay="-0.2467" az="0" tx="1.4267" ty="0.6345" tz="0" />
+    <Box sX="0.1017125614" sY="0.0981404251" sZ="0.0981404251" angle="180" ax="0.9913" ay="-0.1313" az="0" tx="1.1847" ty="0.7425" tz="0" />
+    <Box sX="0.1017125614" sY="0.0981404251" sZ="0.0981404251" angle="180" ax="1" ay="0" az="0" tx="0.8531" ty="0.8078" tz="0" />
+    <Box sX="0.1017125614" sY="0.0981404251" sZ="0.0981404251" angle="180" ax="0.9899" ay="0.1417" az="0" tx="0.5556" ty="0.7799" tz="0" />
+    <Box sX="0.1017125614" sY="0.0981404251" sZ="0.0981404251" angle="180" ax="0.9722" ay="0.2341" az="0" tx="0.2446" ty="0.6764" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.42" requireGrabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="55" ax="0" ay="0" az="-1" tx="0.065" ty="0.555" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="58.7" ax="0" ay="0" az="-1" tx="0.1294" ty="0.6001" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="62.4" ax="0" ay="0" az="-1" tx="0.1965" ty="0.641" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="66.1" ax="0" ay="0" az="-1" tx="0.2661" ty="0.6775" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="69.8" ax="0" ay="0" az="-1" tx="0.3379" ty="0.7094" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="73.5" ax="0" ay="0" az="-1" tx="0.4117" ty="0.7366" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="77.2" ax="0" ay="0" az="-1" tx="0.487" ty="0.759" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="80.9" ax="0" ay="0" az="-1" tx="0.5637" ty="0.7765" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.4617" ay="0.887" az="0" tx="1.535" ty="0.555" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.4901" ay="0.8716" az="0" tx="1.4706" ty="0.6001" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.518" ay="0.8554" az="0" tx="1.4035" ty="0.641" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.5454" ay="0.8382" az="0" tx="1.3339" ty="0.6775" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.5721" ay="0.8202" az="0" tx="1.2621" ty="0.7094" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.5983" ay="0.8013" az="0" tx="1.1883" ty="0.7366" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.6239" ay="0.7815" az="0" tx="1.113" ty="0.759" tz="0" />
+    <Axel type="7" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.6488" ay="0.761" az="0" tx="1.0363" ty="0.7765" tz="0" />
+    <Axel type="7" length="0.42" requireGrabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="1.6" ty="0" tz="0" />
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.32" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.64" ty="0.8" tz="0" />
+    <Axel type="14" length="0.22" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="14" length="0.22" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="1.6" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.11157521,0,0,0,0.38770513,0,0,0,0.45887007" centerOfMass="0.8,0.5235553655,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.16" minY="0" minZ="-0.16" maxX="1.76" maxY="0.9564" maxZ="0.16" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.16" minY="0" minZ="-0.16" maxX="1.76" maxY="0.9564" maxZ="0.16" />
+  </GeometryBounding>
+</LEGOPrimitive>

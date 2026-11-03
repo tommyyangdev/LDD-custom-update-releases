@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-03-12
+	Comments: v0.0: Initial creation [Stephan] 2026-03-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="116116" />
+    <Annotation designname="PUNCHING FOIL SHEET, NO. 115 [43290]" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.441923" sY="0.012115" sZ="1.490119" angle="118.3522" ax="-0.2239" ay="0.8394" az="0.4952" tx="3.8215" ty="1.6519" tz="-1.4375" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="12.4441" ax="0.966" ay="-0.0772" az="0.2469" tx="0.3937" ty="-0.0962" tz="0.0373">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="7.4697716,0,0,0,11.848414,0,0,0,6.9099742" centerOfMass="0.9905176163,1.275502145,-0.2839241028" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-3.1244" minY="-0.6731" minZ="-4.5981" maxX="5.1055" maxY="3.2241" maxZ="4.0303" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-3.1244" minY="-0.6731" minZ="-4.5981" maxX="5.1055" maxY="3.2241" maxZ="4.0303" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

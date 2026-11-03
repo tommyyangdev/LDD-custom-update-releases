@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-10-04
+	Comments: v0.0: Initial creation [Stephan] 2024-10-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="999990;1044453;1125542" />
+    <Annotation designname="SAIL, NO. 158 [112554/10365] [Main Topgallant: middle mast]" />
+    <Annotation maingroupid="273" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="5.948033" sY="0.009104" sZ="3.985632" angle="180" ax="0" ay="0.7501" az="0.6613" tx="8.1047" ty="-5.3692" tz="0.9606" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.006" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+    <Axel type="6" length="0.006" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="14.6" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="14.622581,0,0,0,30.756605,0,0,0,44.37488" centerOfMass="7.313738823,-6.05246903,0.3375363946" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.2146" minY="-12.5629" minZ="-0.8917" maxX="16.8421" maxY="0.4578" maxZ="1.5659" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.2146" minY="-12.5629" minZ="-0.8917" maxX="16.8421" maxY="0.4578" maxZ="1.5659" />
+  </GeometryBounding>
+</LEGOPrimitive>

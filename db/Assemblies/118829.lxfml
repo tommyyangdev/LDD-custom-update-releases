@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2026-03-05
+	Comments: v0.0: Initial creation [Stephan] 2026-03-05
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="118829"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="BRICK 2X4X1 2/3, W/ FUNCTION, NO. 6"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="109840">
+			<Part refID="0" designID="109840" materials="21,0,0,0,0,0,0,0,0">
+				<Bone refID="0" transformation="0,0,-1,0,1,0,1,0,0,0,1.28,0"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="5410">
+			<Part refID="1" designID="5410" materials="0">
+				<Bone refID="1" transformation="0,0,-1,0,1,0,1,0,0,0,0,0"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-05-14
+	Comments: v0.0: Initial creation, from Rev.J [Stephan] 2026-05-14
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98725" />
+    <Annotation designname="MINI WIG, NO. 26" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3289690227" sY="0.1421871015" sZ="0.3566676966" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1517" tz="0" />
+    <Box sX="0.220339204" sY="0.2122244292" sZ="0.03221476054" angle="12.0447" ax="-0.3706" ay="0.9281" az="0.0363" tx="0.2207" ty="0.0308" tz="0.4715" />
+    <Box sX="0.03932051956" sY="0.6181639189" sZ="0.3566676966" angle="12.8543" ax="0" ay="0" az="1" tx="0.6118" ty="-0.3323" tz="0" />
+    <Box sX="0.02769022532" sY="0.1907159591" sZ="0.2932657519" angle="30.2114" ax="0.1313" ay="0.6744" az="0.7266" tx="0.7799" ty="-0.9209" tz="-0.2917" />
+    <Box sX="0.3289690227" sY="0.8640857393" sZ="0.03244125367" angle="6.6486" ax="1" ay="0" az="0" tx="0" ty="-0.6798" tz="-0.6039" />
+    <Box sX="0.4407670053" sY="0.2479962313" sZ="0.1356152336" angle="0" ax="1" ay="0" az="0" tx="0" ty="-1.3921" tz="-0.6941" />
+    <Box sX="0.02769022532" sY="0.1907159591" sZ="0.2932657519" angle="159.7546" ax="0.1923" ay="0.9807" az="0.0348" tx="-0.7799" ty="-0.9209" tz="-0.2917" />
+    <Box sX="0.03932051956" sY="0.6181639189" sZ="0.3566676966" angle="180" ax="0.1119" ay="0.9937" az="0" tx="-0.6118" ty="-0.3323" tz="0" />
+    <Box sX="0.220339204" sY="0.2122244292" sZ="0.03221476054" angle="168.8243" ax="0.0038" ay="0.9992" az="-0.0391" tx="-0.2207" ty="0.0308" tz="0.4715" />
+    <Box sX="0.2581773034" sY="0.7134064341" sZ="0.02798062605" angle="44.4691" ax="0.3899" ay="-0.92" az="0.0387" tx="0.3629" ty="-0.4937" tz="-0.5284" />
+    <Box sX="0.2581773034" sY="0.7134064341" sZ="0.02798062605" angle="139.2524" ax="-0.0156" ay="-0.9874" az="-0.1574" tx="-0.3629" ty="-0.4937" tz="-0.5284" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.44545943,0,0,0,0.35524772,0,0,0,0.5117965" centerOfMass="0.0208648424,-0.604551012,-0.286303895" mass="1.5" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.946" minY="-1.7802" minZ="-0.9631" maxX="0.9815" maxY="0.3685" maxZ="0.5899" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.946" minY="-1.7802" minZ="-0.9631" maxX="0.9815" maxY="0.3685" maxZ="0.5899" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

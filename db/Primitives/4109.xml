@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-11-25
+	Comments: v0.0: Initial creation [Stephan] 2024-11-25
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4109" />
+    <Annotation designname="ON/OFF BUTTON, NO. 7" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3476877155" sY="0.05878112051" sZ="0.3476874005" angle="0" ax="1" ay="0" az="0" tx="-0.795" ty="3.4969" tz="-2.8" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="179" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="3.43" tz="-2.8" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.38225396,0,0,0,0.13075823,0,0,0,0.38225453" centerOfMass="-0.7990012169,2.590703905,-2.799999475" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.2419" minY="1.6157" minZ="-3.2429" maxX="-0.3561" maxY="3.5657" maxZ="-2.3571" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2419" minY="1.6157" minZ="-3.2429" maxX="-0.3561" maxY="3.5657" maxZ="-2.3571" />
+  </GeometryBounding>
+</LEGOPrimitive>

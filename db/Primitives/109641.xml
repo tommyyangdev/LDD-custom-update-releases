@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-05-31
+	Comments: v0.0: Initial creation, from Rev.B-A [Stephan] 2026-05-31
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="109641;1037446" />
+    <Annotation designname="COLLAR, NO. 12 [71047]" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3779215071" sY="0.007334912681" sZ="0.4852239892" angle="179.5638" ax="0.003" ay="-0.6145" az="-0.7889" tx="0.0132" ty="-0.6042" tz="-0.7733" />
+    <Box sX="0.3779214774" sY="0.007334912681" sZ="0.4852239892" angle="162.0781" ax="-0.2122" ay="-0.5929" az="-0.7768" tx="-0.7335" ty="-0.5965" tz="-0.582" />
+    <Box sX="0.3779214774" sY="0.007334912681" sZ="0.4852239892" angle="109.1053" ax="0.9341" ay="-0.1981" az="0.2969" tx="0.735" ty="-0.5935" tz="-0.5584" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="1" ay="0" az="0" tx="-0.3" ty="0.0272" tz="0" />
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="0" az="1" tx="0.3" ty="0.0272" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.28506362,0,0,0,0.74800224,0,0,0,0.67909695" centerOfMass="-0.01963633299,-0.5312626176,-0.1704593278" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.3285" minY="-1.1007" minZ="-0.8828" maxX="1.2892" maxY="0.0382" maxZ="0.5582" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.3285" minY="-1.1007" minZ="-0.8828" maxX="1.2892" maxY="0.0382" maxZ="0.5582" />
+  </GeometryBounding>
+</LEGOPrimitive>

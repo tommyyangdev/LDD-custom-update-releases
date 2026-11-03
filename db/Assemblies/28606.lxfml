@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan [2025-08-22]
+-->
+<LXFML versionMajor="5" versionMinor="0" name="28606">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="28606"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI UPPER PART, NO. 3585"/>
+		<DefaultCamera lat="-0.24305619299411774" lon="0.22537308931350708"/>
+    <Annotation wire="28164,3820"/>
+	</Meta>
+  <Bricks>
+    <Brick refID="0" designID="28601">
+      <Part refID="0" designID="28601" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-0.40000000596046448,0.00030000001424923539,-0.40000000596046448" freeze="yes">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="28164">
+      <Part refID="1" designID="28164" materials="21,0,0" decoration="0,0">
+        <Bone refID="1" transformation="0.99999988079071045,0,0,0,0.99999988079071045,0,0,0,0.99999994039535522,0.019999027252197266,0.90809911489486694,-0.4000001847743988" freeze="no">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="3820">
+      <Part refID="2" designID="3820" materials="21">
+        <Bone refID="2" transformation="0,0,1,0,1,0,-1,0,0,-7.7800002098083496,0.90809983015060425,-0.39999997615814209" freeze="yes">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="3820">
+      <Part refID="3" designID="3820" materials="21">
+        <Bone refID="3" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,7.8199977874755859,0.90809839963912964,-0.40000042319297791" freeze="yes">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

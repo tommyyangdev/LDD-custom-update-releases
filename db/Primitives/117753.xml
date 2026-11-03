@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-06-21
+	Comments: v0.0: Initial creation, from Rev.A-A [Stephan] 2026-06-21
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="117753;1083343" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 36 [4000048]" />
+    <Annotation maingroupid="272" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Connectivity>
+    <Axel type="6" length="0.01" grabbing="0" startCapped="0" endCapped="0" angle="5.7411" ax="0" ay="0" az="1" tx="0.0059" ty="0.4162" tz="0" />
+    <Axel type="6" length="0.01" grabbing="0" startCapped="0" endCapped="0" angle="12.4451" ax="-0.9113" ay="-0.0407" az="-0.4097" tx="-0.0214" ty="5.7603" tz="-0.8903" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.5581253,0,0,0,1.243304,0,0,0,1.4187335" centerOfMass="-0.7215129435,-1.285211563,0.8149340749" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6121" minY="0.2436" minZ="-1.4934" maxX="3.8127" maxY="5.9147" maxZ="0.6159" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6121" minY="0.2436" minZ="-1.4934" maxX="3.8127" maxY="5.9147" maxZ="0.6159" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-12-30
+	Comments: v0.0: Initial creation [Stephan] 2024-09-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="113921;1045116" />
+    <Annotation designname="COLLAR, NO. 13" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.215917" sY="0.003741" sZ="0.099567" angle="74.23" ax="0.2531" ay="-0.6823" az="-0.6859" tx="-0.9772" ty="0.7458" tz="-0.6236" />
+    <Box sX="0.215917" sY="0.006222" sZ="0.099567" angle="148.6201" ax="0.4868" ay="-0.8566" az="-0.171" tx="0.9615" ty="0.7889" tz="-0.532" />
+    <Box sX="0.215917" sY="0.002316" sZ="0.115555" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0056" tz="0.3754" />
+    <Box sX="0.084265" sY="0.000519" sZ="0.04724" angle="3.5332" ax="0.9488" ay="0.0092" az="0.3158" tx="-0.0819" ty="0.0068" tz="-0.3726" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.45637146,0,0,0,0.72358145,0,0,0,0.72152163" centerOfMass="-0.01034325361,0.8175634965,-0.2255824208" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.2282" minY="-0.0079" minZ="-1.0548" maxX="1.2075" maxY="1.6431" maxZ="0.6037" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2282" minY="-0.0079" minZ="-1.0548" maxX="1.2075" maxY="1.6431" maxZ="0.6037" />
+  </GeometryBounding>
+</LEGOPrimitive>

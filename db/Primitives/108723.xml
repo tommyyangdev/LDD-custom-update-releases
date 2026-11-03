@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-03-29
+	Comments: v0.0: Initial creation [Stephan] 2025-03-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="108723;1035224;108721" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 20 [76440 front]" />
+    <Annotation maingroupid="273" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1501134382" sY="0.008" sZ="0.09972222777" angle="31.3188" ax="0.9459" ay="0.0831" az="-0.3136" tx="-0.5049" ty="0.2387" tz="-0.3107" />
+    <Box sX="0.1212736197" sY="0.008" sZ="0.2299712124" angle="33.3051" ax="0.9485" ay="0.0812" az="-0.3062" tx="-0.503" ty="0.0588" tz="-0.0038" />
+    <Box sX="0.1212736197" sY="0.008" sZ="0.1110799719" angle="43.2889" ax="0.9846" ay="0.0636" az="-0.1628" tx="-0.4941" ty="-0.1766" tz="0.3265" />
+    <Box sX="0.1212736197" sY="0.008" sZ="0.175221635" angle="55.3102" ax="0.9898" ay="0.0655" az="-0.1262" tx="-0.4796" ty="-0.45" tz="0.5498" />
+    <Box sX="0.5973209471" sY="0.008" sZ="0.175221635" angle="63.865" ax="1" ay="0" az="0" tx="-0.0048" ty="-0.7885" tz="0.7729" />
+    <Box sX="0.5973209471" sY="0.008" sZ="0.1557690434" angle="69.9184" ax="1" ay="0" az="0" tx="-0.0048" ty="-1.1528" tz="0.927" />
+    <Box sX="0.5973209471" sY="0.008" sZ="1.479038021" angle="78.0897" ax="1" ay="0" az="0" tx="-0.0048" ty="-2.8042" tz="1.2996" />
+    <Box sX="0.5973209471" sY="0.008" sZ="1.106704968" angle="78.9833" ax="1" ay="0" az="0" tx="-0.0048" ty="-5.4178" tz="1.8326" />
+    <Box sX="0.5973209471" sY="0.008" sZ="0.5707177127" angle="79.065" ax="1" ay="0" az="0" tx="-0.0048" ty="-7.0987" tz="2.1562" />
+    <Box sX="0.5973209471" sY="0.008" sZ="0.7505425177" angle="78.8605" ax="1" ay="0" az="0" tx="-0.0048" ty="-8.4429" tz="2.4204" />
+    <Box sX="0.208179398" sY="0.008" sZ="0.4910340438" angle="179.9988" ax="0" ay="0.7718" az="0.6359" tx="0.4258" ty="-11.256" tz="2.9673" />
+    <Box sX="0.09508774931" sY="0.008" sZ="0.6202872956" angle="180" ax="0" ay="0.7714" az="0.6364" tx="0.5388" ty="-12.4361" tz="3.1994" />
+    <Box sX="0.1212736197" sY="0.008" sZ="0.175221635" angle="176.5172" ax="-0.0586" ay="0.8862" az="0.4596" tx="0.4796" ty="-0.45" tz="0.5498" />
+    <Box sX="0.1212736197" sY="0.008" sZ="0.1110799719" angle="177.3109" ax="-0.0601" ay="0.9297" az="0.3633" tx="0.4941" ty="-0.1766" tz="0.3265" />
+    <Box sX="0.1212736197" sY="0.008" sZ="0.2299712124" angle="177.3325" ax="-0.0878" ay="0.9583" az="0.2719" tx="0.503" ty="0.0588" tz="-0.0038" />
+    <Box sX="0.1501134382" sY="0.008" sZ="0.09972222777" angle="177.4281" ax="-0.0847" ay="0.9631" az="0.2554" tx="0.5049" ty="0.2387" tz="-0.3107" />
+    <Box sX="0.5973209471" sY="0.008" sZ="0.7505425177" angle="78.9301" ax="1" ay="0" az="0" tx="-0.0048" ty="-9.9677" tz="2.7165" />
+    <Box sX="0.09508774931" sY="0.008" sZ="0.6202872956" angle="79.0404" ax="1" ay="0" az="0" tx="-0.5388" ty="-12.4361" tz="3.1994" />
+    <Box sX="0.208179398" sY="0.008" sZ="0.4910340438" angle="78.9702" ax="1" ay="0" az="0" tx="-0.4257" ty="-11.256" tz="2.9673" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.006" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="18.43392,0,0,0,1.4598796,0,0,0,17.285555" centerOfMass="0,-6.850916459,1.514628172" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6846" minY="-14.0212" minZ="-0.4651" maxX="0.6843" maxY="0.3094" maxZ="3.4936" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6846" minY="-14.0212" minZ="-0.4651" maxX="0.6843" maxY="0.3094" maxZ="3.4936" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

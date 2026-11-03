@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-11-01
+	Comments: v0.0: Initial creation [Stephan] 2024-11-01
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="66897" />
+    <Annotation designname="WHEEL BEARING 1X2X1/3 W/ MINI SNAP [2016-current]" />
+    <Annotation maingroupid="265" />
+    <Annotation maingroupname="TYRES AND RIMS FOR SNAP Ø3,2" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.3900000507" sY="0.04499996245" sZ="0.7899999523" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.265" tz="-0.4" />
+    <Box sX="0.06408505678" sY="0.1499999964" sZ="0.7900000715" angle="0" ax="1" ay="0" az="0" tx="0.3259" ty="0.16" tz="-0.4" />
+    <Box sX="0.06513570786" sY="0.1499999964" sZ="0.7900000715" angle="0" ax="1" ay="0" az="0" tx="-0.3249" ty="0.16" tz="-0.4" />
+    <Box sX="0.3900000358" sY="0.1499999964" sZ="0.06539059222" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.16" tz="0.3246" />
+    <Box sX="0.3900000358" sY="0.1499999964" sZ="0.06592517138" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.16" tz="-1.1241" />
+    <Box sX="0.03928715774" sY="0.1001998032" sZ="0.208781641" angle="180" ax="0" ay="1" az="0" tx="-0.4496" ty="0.1102" tz="-0.4031" />
+    <Box sX="0.08470183598" sY="0.1002998555" sZ="0.02931210087" angle="110.4498" ax="0" ay="-1" az="0" tx="-0.4211" ty="0.1101" tz="-0.6969" />
+    <Box sX="0.2221594208" sY="0.1499999964" sZ="0.1353931149" angle="0" ax="1" ay="0" az="0" tx="-0.1678" ty="0.16" tz="-0.4" />
+    <Box sX="0.08470183598" sY="0.1002998555" sZ="0.02931210087" angle="110.4498" ax="0" ay="1" az="0" tx="-0.4211" ty="0.1101" tz="-0.1031" />
+    <Box sX="0.2221594357" sY="0.1499999964" sZ="0.03743049068" angle="39.9199" ax="0" ay="1" az="0" tx="-0.1861" ty="0.16" tz="-0.2429" />
+    <Box sX="0.2221594357" sY="0.1499999964" sZ="0.03794047172" angle="43.2799" ax="0" ay="-1" az="0" tx="-0.1872" ty="0.16" tz="-0.5564" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="87" oriented="0" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-0.71" ty="0.11" tz="-0.4" />
+    <Axel type="7" length="0.42" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-0.5" ty="0.11" tz="-0.4" />
+    <Custom2DField type="23" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.25220752,0,0,0,0.37666679,0,0,0,0.20220744" centerOfMass="-0.2999999523,0.1565000129,-0.3999998569" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1" minY="-0.1" minZ="-1.2" maxX="0.4" maxY="0.498" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1" minY="-0.1" minZ="-1.2" maxX="0.4" maxY="0.498" maxZ="0.4" />
+  </GeometryBounding>
+</LEGOPrimitive>

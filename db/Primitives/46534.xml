@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: UnityLegoGame
+	Editted for LDD by: M2m
+	Last modification: 2025-05-09
+	Comments: v0.0: Initial creation [M2m]
+	v1.0: Added decoration surface [jester]
+	v1.1: Updated decoration surface [Stephan] 2025-05-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46534;45846" />
+    <Annotation designname="MINI HELMET, NO. 223" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.4116590524" sY="0.05250223517" sZ="0.3641896152" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3294" tz="0.0109" />
+    <Box sX="0.4018111655" sY="0.05250223517" sZ="0.2659302456" angle="58.1078" ax="1" ay="0" az="0" tx="0" ty="0.0576" tz="0.576" />
+    <Box sX="0.4030091285" sY="0.05250223517" sZ="0.2659302456" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.5793" tz="0.6546" />
+    <Box sX="0.4116590524" sY="0.05250223517" sZ="0.5091299405" angle="90" ax="0" ay="0" az="-1" tx="0.5927" ty="-0.2916" tz="0.0109" />
+    <Box sX="0.4116590524" sY="0.05250223517" sZ="0.4531996758" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.2283" tz="-0.592" />
+    <Box sX="0.4116590524" sY="0.05250223517" sZ="0.5091299405" angle="90" ax="0" ay="0" az="-1" tx="-0.593" ty="-0.2916" tz="0.0109" />
+    <Box sX="0.5420824129" sY="0.05250223517" sZ="0.08063474741" angle="93.6762" ax="-0.2455" ay="-0.2455" az="-0.9378" tx="-0.6412" ty="-0.1011" tz="-0.2186" />
+    <Box sX="0.5420824129" sY="0.05250223517" sZ="0.08063474741" angle="93.6762" ax="-0.2455" ay="-0.2455" az="-0.9378" tx="0.6503" ty="-0.1011" tz="-0.2186" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:1,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.37510557,0,0,0,0.37479015,0,0,0,0.35379343" centerOfMass="0,-0.2430804819,0.0262555182" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7282" minY="-0.9719" minZ="-0.7446" maxX="0.7282" maxY="0.4857" maxZ="0.7971" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7282" minY="-0.9719" minZ="-0.7446" maxX="0.7282" maxY="0.4857" maxZ="0.7971" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

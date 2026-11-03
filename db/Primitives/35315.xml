@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-11-23
+	Comments: v0.0: Initial creation [Stephan] 2021-11-24
+	v1.0: updated 3D model, updated decoration surface [Stephan] 2025-11-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="35315;35316" />
+    <Annotation designname="GLASS FOR FRAME 1X2X2 [2010-current]" />
+    <Annotation maingroupid="225" />
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.64" sY="0.73" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="1.06" tz="0.215" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="57" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.1443" ty="0.31" tz="0.215" />
+    <Fixed type="57" axes="2" angle="180" ax="1" ay="0" az="0" tx="-0.1443" ty="1.81" tz="0.215" />
+    <Fixed type="57" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9757" ty="0.31" tz="0.215" />
+    <Fixed type="57" axes="2" angle="180" ax="0" ay="0" az="1" tx="0.9757" ty="1.81" tz="0.215" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.064563,0,0,0,0.042813,0,0,0,0.10625" centerOfMass="0.4,1.06,0.21498" mass="0.300000011921" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2301" minY="0.2975" minZ="0.14" maxX="1.0299" maxY="1.8225" maxZ="0.292" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2301" minY="0.2975" minZ="0.14" maxX="1.0299" maxY="1.8225" maxZ="0.292" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

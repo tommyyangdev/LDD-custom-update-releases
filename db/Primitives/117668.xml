@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Goup
+	Orginal Author: The LEGO Goup
+	Editted for LDD by: Stephan
+	Last modification: 2026-05-10
+	Comments: v0.0: Initial creation from Rev.A/A [Stephan] 2026-05-10
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="117668;1083402" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 34 [43301]" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.150000225" sY="0.6035087923" sZ="0.015" angle="170.0258" ax="1" ay="0" az="0" tx="0.1964" ty="-3.9417" tz="2.6879" />
+    <Box sX="1.150000225" sY="0.6035087923" sZ="0.015" angle="174.3897" ax="1" ay="0" az="0" tx="0.1964" ty="-2.6879" tz="2.5401" />
+    <Box sX="1.150000225" sY="0.6035087923" sZ="0.015" angle="179.5165" ax="1" ay="0" az="0" tx="0.1964" ty="-1.4611" tz="2.4761" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="159" axes="1" angle="90" ax="0" ay="0" az="-1" tx="0.4" ty="0.54" tz="0.413" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="6.2723962,0,0,0,2.773665,0,0,0,7.5072664" centerOfMass="0.3982281685,-2.759300351,1.915429771" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.0539" minY="-6.8224" minZ="0.3962" maxX="2.8503" maxY="1.3038" maxZ="3.4347" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.0539" minY="-6.8224" minZ="0.3962" maxX="2.8503" maxY="1.3038" maxZ="3.4347" />
+  </GeometryBounding>
+</LEGOPrimitive>

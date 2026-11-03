@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-03-12
+	Comments: v0.0: Initial creation [Stephan] 2026-03-12
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="116134;1049048" />
+    <Annotation designname="CAPE, NO. 113 [77093]" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.6235060663" sY="0.008" sZ="0.3814936562" angle="76.6263" ax="-0.9996" ay="-0.0189" az="-0.0225" tx="0.1048" ty="-2.0222" tz="-1.575" />
+    <Box sX="0.6235060663" sY="0.008" sZ="0.3814936562" angle="73.9342" ax="-0.9998" ay="-0.0129" az="-0.0147" tx="0.1039" ty="-1.2714" tz="-1.3773" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="-0.01" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="-0.01" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.2386957,0,0,0,1.6506351,0,0,0,1.9505549" centerOfMass="0.02028524876,-1.456066843,-0.6173321605" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.8632" minY="-2.9772" minZ="-1.8052" maxX="1.9038" maxY="0.0642" maxZ="0.5713" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.8632" minY="-2.9772" minZ="-1.8052" maxX="1.9038" maxY="0.0642" maxZ="0.5713" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

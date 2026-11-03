@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-01-18
+	Comments: v0.0: Updated and folder 3D model; initial creation [Stephan] 2025-01-18
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="110633" />
+    <Annotation designname="SKIRT, NO. 298" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.135301" sY="0.003199" sZ="0.43513" angle="0.6039" ax="-1" ay="0" az="0" tx="1.3059" ty="0.0133" tz="0.0221" />
+    <Box sX="0.075624" sY="0.003199" sZ="0.43513" angle="0.4559" ax="-1" ay="0" az="0" tx="0.5731" ty="0.0133" tz="0.0221" />
+    <Box sX="0.075624" sY="0.003199" sZ="0.43513" angle="0.4559" ax="-1" ay="0" az="0" tx="2.0332" ty="0.0133" tz="0.0221" />
+    <Box sX="0.067618" sY="0.003199" sZ="0.823105" angle="90" ax="0" ay="-1" az="0" tx="1.3059" ty="0.0054" tz="-0.3468" />
+    <Box sX="0.102045" sY="0.003199" sZ="0.823105" angle="90" ax="0" ay="-1" az="0" tx="1.3059" ty="0.0166" tz="0.3552" />
+    <Box sX="0.268315" sY="0.002447" sZ="0.811166" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="1.3059" ty="-0.3278" tz="-0.4206" />
+    <Box sX="0.268315" sY="0.002447" sZ="0.651391" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="1.2457" ty="-0.8084" tz="-0.4206" />
+    <Box sX="0.087418" sY="0.002447" sZ="0.081861" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="2.0062" ty="-0.8001" tz="-0.4206" />
+    <Box sX="0.087418" sY="0.002447" sZ="0.172652" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="1.6767" ty="-1.2075" tz="-0.4206" />
+    <Box sX="0.087418" sY="0.002447" sZ="0.272809" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="1.0433" ty="-1.2075" tz="-0.4206" />
+    <Box sX="0.268315" sY="0.002447" sZ="0.437887" angle="90.0022" ax="-0.0062" ay="0.0062" az="-1" tx="0.4518" ty="-0.3278" tz="0.0304" />
+    <Box sX="0.101292" sY="0.002447" sZ="0.437887" angle="90.0022" ax="-0.0062" ay="0.0062" az="-1" tx="0.4518" ty="-0.6668" tz="0.0304" />
+    <Box sX="0.179231" sY="0.002447" sZ="0.149409" angle="91.6" ax="-0.1648" ay="-0.1527" az="-0.9744" tx="0.4493" ty="-0.9382" tz="-0.1029" />
+    <Box sX="0.268315" sY="0.002447" sZ="0.437887" angle="90" ax="0" ay="0" az="-1" tx="2.1551" ty="-0.3278" tz="0.0304" />
+    <Box sX="0.101292" sY="0.002447" sZ="0.437887" angle="90" ax="0.0006" ay="-0.0006" az="-1" tx="2.155" ty="-0.6668" tz="0.0304" />
+    <Box sX="0.179231" sY="0.002447" sZ="0.245263" angle="91.732" ax="-0.1599" ay="-0.1572" az="-0.9745" tx="2.1547" ty="-0.8804" tz="-0.0648" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="1.8" ty="0" tz="0" />
+    <Fixed type="4" axes="2" angle="0" ax="1" ay="0" az="0" tx="0.8" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.40271832,0,0,0,1.4238256,0,0,0,1.0211879" centerOfMass="1.300530493,0.01099990598,0.6497119367" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="0.443" minY="-1.3505" minZ="-0.4351" maxX="2.1581" maxY="0.026" maxZ="0.4815" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0.443" minY="-1.3505" minZ="-0.4351" maxX="2.1581" maxY="0.026" maxZ="0.4815" />
+  </GeometryBounding>
+</LEGOPrimitive>

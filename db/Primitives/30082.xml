@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: LDraw Parts Library
+	Orginal Author: Steve Bliss [sbliss]
+	Editted for LDD by: jester
+	Last modification: 2026-07-13
+	Comments: v0.0: Initial creation [jester] 2021-07-11
+	v1.0: Added collision data [Stephan] 2021-07-12
+	v1.1: Updated connection data [Stephan] 2026-07-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30082" />
+    <Annotation designname="Arm Piece with Tow Ball and Clip" />
+    <Annotation maingroupid="216" />
+    <Annotation maingroupname="PLATES, SPECIAL" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.302207" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3227" tz="0.7987" />
+    <Box sX="0.113763" sY="0.099989" sZ="0.187466" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3277" tz="0.4573" />
+    <Box sX="0.113763" sY="0.099989" sZ="0.187466" angle="25" ax="0" ay="0" az="-1" tx="0" ty="0.3277" tz="0.4573" />
+    <Box sX="0.113763" sY="0.099989" sZ="0.187466" angle="55" ax="0" ay="0" az="-1" tx="0" ty="0.3277" tz="0.4573" />
+    <Box sX="0.113763" sY="0.099989" sZ="0.187466" angle="75" ax="0" ay="0" az="-1" tx="0" ty="0.3277" tz="0.4573" />
+    <Box sX="0.029197" sY="0.154688" sZ="0.09434" angle="0" ax="1" ay="0" az="0" tx="0.2144" ty="0.3197" tz="0.0025" />
+    <Box sX="0.029197" sY="0.154688" sZ="0.09434" angle="0" ax="1" ay="0" az="0" tx="-0.204" ty="0.3197" tz="0.0025" />
+    <Box sX="0.029197" sY="0.154688" sZ="0.09434" angle="42.0178" ax="0" ay="1" az="0" tx="-0.1468" ty="0.3197" tz="0.1444" />
+    <Box sX="0.029197" sY="0.154688" sZ="0.09434" angle="47.2128" ax="0" ay="-1" az="0" tx="0.1556" ty="0.3197" tz="0.1407" />
+  </Collision>
+  <Connectivity>
+    <Ball type="3" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.32" tz="0.8" />
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.16" tz="0" />
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.320001" minY="0" minZ="-0.139625" maxX="0.320001" maxY="0.640002" maxZ="1.120001" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.320001" minY="0" minZ="-0.139625" maxX="0.320001" maxY="0.640002" maxZ="1.120001" />
+  </GeometryBounding>
+</LEGOPrimitive>

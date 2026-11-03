@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-05-14
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Updated 3D model, added decoration surface, from Rev.D [Stephan] 2026-05-14
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2545" />
+    <Annotation designname="MINI SHAKO" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="45.3564" ax="-0.0505" ay="-0.9913" az="0.1218" tx="0.3565" ty="0.2517" tz="0.3626" />
+    <Box sX="0.034521" sY="0.730022" sZ="0.180454" angle="90" ax="0" ay="-1" az="0" tx="-0.0043" ty="0.44" tz="0.5645" />
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="45.3564" ax="0.0505" ay="0.9913" az="0.1218" tx="0.3626" ty="0.2517" tz="-0.3565" />
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="5.8282" ax="0" ay="0" az="1" tx="0.5084" ty="0.2517" tz="0.0043" />
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="135.0614" ax="0.0508" ay="0.9985" az="0.0211" tx="-0.3565" ty="0.2517" tz="-0.3626" />
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="90.1481" ax="0.0508" ay="0.9974" az="0.0508" tx="0.0043" ty="0.2517" tz="-0.5084" />
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="135.0614" ax="-0.0508" ay="-0.9985" az="0.0211" tx="-0.3626" ty="0.2517" tz="0.3565" />
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="180" ax="0.0508" ay="0.9987" az="0" tx="-0.5084" ty="0.2517" tz="-0.0043" />
+    <Box sX="0.373403" sY="0.389112" sZ="0.35149" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3991" tz="0" />
+    <Box sX="0.476853" sY="0.04" sZ="0.148109" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.25" tz="0.6781" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.185158,0,0,0,0.179192,0,0,0,0.171697" centerOfMass="0.000813,0.318819,0.032545" mass="0.64200001955" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6195" minY="-0.29" minZ="-0.6218" maxX="0.6194" maxY="1.2099" maxZ="0.8585" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6195" minY="-0.29" minZ="-0.6218" maxX="0.6194" maxY="1.2099" maxZ="0.8585" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

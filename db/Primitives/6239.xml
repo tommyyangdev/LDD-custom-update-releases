@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-07-30
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Added decoration surface [Stephan] 2025-01-11
+	v1.1: Updated decoration surface, from Rev.H [Stephan] 2026-07-30
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6239;18989" />
+    <Annotation designname="RUDDER 2X6X4" />
+    <Annotation maingroupid="275" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, AVIATION" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.189999988" sY="0.7900000417" sZ="0.1500002944" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.8" ty="0.16" tz="-0.4" />
+    <Box sX="0.6028347516" sY="0.08000000358" sZ="0.7724460864" angle="133.2894" ax="-0.4318" ay="0.6378" az="-0.6378" tx="-0.2459" ty="0.9184" tz="-0.4" />
+    <Box sX="0.2002233768" sY="0.08000000358" sZ="1.142686208" angle="148.6003" ax="-0.2811" ay="0.6786" az="-0.6786" tx="1.0363" ty="0.9864" tz="-0.4" />
+    <Box sX="0.6028348112" sY="0.08000003338" sZ="1.827441266" angle="148.6003" ax="-0.2811" ay="0.6786" az="-0.6786" tx="-0.3231" ty="1.7764" tz="-0.4" />
+    <Box sX="0.602834692" sY="0.08000003338" sZ="1.289818501" angle="159.2569" ax="-0.183" ay="0.6952" az="-0.6952" tx="-1.3024" ty="2.0755" tz="-0.4" />
+    <Box sX="0.6983516121" sY="0.08000003338" sZ="0.2918832207" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-1.8791" ty="3.2181" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="6" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.40714,0,0,0,2.82605,0,0,0,4.85808" centerOfMass="-0.119045,1.21549,-0.4" mass="2.00500011444" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.7296" minY="0" minZ="-1.2" maxX="2" maxY="3.52" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.7296" minY="0" minZ="-1.2" maxX="2" maxY="3.52" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

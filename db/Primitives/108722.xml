@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-03-29
+	Comments: v0.0: Initial creation [Stephan] 2025-03-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="108722;1035217;108721" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 20 [76440 rear]" />
+    <Annotation maingroupid="273" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.1468469556" sY="0.008" sZ="0.9022798048" angle="180" ax="0" ay="0.7071" az="0.7071" tx="0.4937" ty="-12.2599" tz="0.8906" />
+    <Box sX="0.06596158614" sY="0.008" sZ="1.431872887" angle="172.9137" ax="0.0606" ay="-0.7132" az="-0.6984" tx="0.325" ty="-12.6505" tz="0.8988" />
+    <Box sX="0.0661989887" sY="0.008" sZ="1.431872887" angle="89.2429" ax="0.9923" ay="-0.0885" az="-0.0867" tx="-0.3243" ty="-12.6507" tz="0.8988" />
+    <Box sX="0.1468469556" sY="0.008" sZ="0.9022798048" angle="90" ax="1" ay="0" az="0" tx="-0.4937" ty="-12.2599" tz="0.8906" />
+    <Box sX="0.3105606122" sY="0.008" sZ="3.405294991" angle="90.0304" ax="0.9995" ay="0.023" az="-0.023" tx="-0.3295" ty="-4.6145" tz="0.7157" />
+    <Box sX="0.1663745796" sY="0.008" sZ="0.09972222777" angle="47.1207" ax="0.9752" ay="0.0867" az="-0.2038" tx="-0.4699" ty="0.3895" tz="-0.2994" />
+    <Box sX="0.3105606122" sY="0.008" sZ="1.53943658" angle="90.0082" ax="0.9999" ay="0.012" az="-0.012" tx="-0.3296" ty="-9.6515" tz="0.8283" />
+    <Box sX="0.3105606122" sY="0.008" sZ="0.2638285472" angle="75.7889" ax="0.998" ay="0.0455" az="-0.0447" tx="-0.3312" ty="-0.8666" tz="0.5913" />
+    <Box sX="0.1395006081" sY="0.008" sZ="0.2483517523" angle="43.576" ax="0.9754" ay="0.0801" az="-0.2054" tx="-0.4963" ty="0.1272" tz="-0.0151" />
+    <Box sX="0.1663745796" sY="0.008" sZ="0.09972222777" angle="176.0302" ax="-0.0815" ay="0.9172" az="0.39" tx="0.4699" ty="0.3895" tz="-0.2994" />
+    <Box sX="0.1395006081" sY="0.008" sZ="0.2483517523" angle="176.5939" ax="-0.0763" ay="0.929" az="0.3622" tx="0.4963" ty="0.1272" tz="-0.0151" />
+    <Box sX="0.1395006081" sY="0.008" sZ="0.1742100065" angle="177.4896" ax="-0.0788" ay="0.8877" az="0.4537" tx="0.5034" ty="-0.2852" tz="0.3699" />
+    <Box sX="0.3105606122" sY="0.008" sZ="0.2638285472" angle="176.7964" ax="-0.0275" ay="0.7895" az="0.6132" tx="0.3312" ty="-0.8666" tz="0.5913" />
+    <Box sX="0.3105606122" sY="0.008" sZ="3.405294991" angle="178.1325" ax="-0.0163" ay="0.707" az="0.707" tx="0.3295" ty="-4.6145" tz="0.7157" />
+    <Box sX="0.3105606122" sY="0.008" sZ="1.53943658" angle="179.0284" ax="-0.0085" ay="0.7071" az="0.7071" tx="0.3296" ty="-9.6515" tz="0.8283" />
+    <Box sX="0.1395006081" sY="0.008" sZ="0.1742100065" angle="54.8878" ax="0.9841" ay="0.0475" az="-0.171" tx="-0.5034" ty="-0.2852" tz="0.3699" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.006" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="19.602564,0,0,0,0.29644515,0,0,0,19.588223" centerOfMass="-8.940696716E-08,-7.150980952,0.2537931018" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6525" minY="-14.7908" minZ="-0.4304" maxX="0.6525" maxY="0.4809" maxZ="0.9358" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6525" minY="-14.7908" minZ="-0.4304" maxX="0.6525" maxY="0.4809" maxZ="0.9358" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

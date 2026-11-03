@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-09-07
+	Comments: v0.0: Initial creation [Stephan] 2024-09-07
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92534" />
+    <Annotation designname="WHEEL BALL, DIA. 19, NO. 1" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.929999938" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Ball type="27" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.59543566,0,0,0,0.59166296,0,0,0,0.59729226" centerOfMass="0.0005887448788,-8.9854002E-05,0.008077889681" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.943" minY="-0.9496" minZ="-0.9325" maxX="0.9441" maxY="0.9494" maxZ="0.9487" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.943" minY="-0.9496" minZ="-0.9325" maxX="0.9441" maxY="0.9494" maxZ="0.9487" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

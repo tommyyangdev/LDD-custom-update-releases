@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2026-05-24
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Updated colission data [Stephan] 2022-10-22
+	v1.1: Updated 3D model, added connections for Minifigure hands, from Rev.S [Stephan] 2026-05-24
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3068;63327;88409" />
+    <Annotation designname="FLAT TILE 2X2" />
+    <Annotation maingroupid="215" />
+    <Annotation maingroupname="PLATES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.7900000119" sY="0.1499999964" sZ="0.065" angle="0" ax="1" ay="0" az="0" tx="0.4" ty="0.16" tz="0.325" />
+    <Box sX="0.7900000119" sY="0.1499999964" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="1.125" ty="0.16" tz="-0.4" />
+    <Box sX="0.7900000119" sY="0.1499999964" sZ="0.065" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="-1.125" />
+    <Box sX="0.7900000119" sY="0.1499999964" sZ="0.065" angle="90" ax="0" ay="-1" az="0" tx="-0.325" ty="0.16" tz="-0.4" />
+    <Box sX="0.7900000119" sY="0.7900000119" sZ="0.045" angle="90" ax="-1" ay="0" az="0" tx="0.4" ty="0.265" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Slider type="43" length="1.300014" startCapped="1" endCapped="1" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="0.16" tz="0.25" />
+    <Slider type="43" length="1.300014" startCapped="1" endCapped="1" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.25" ty="0.16" tz="0.4" />
+    <Slider type="43" length="1.300014" startCapped="1" endCapped="1" angle="180" ax="0" ay="0.7071" az="0.7071" tx="1.2" ty="0.16" tz="-1.05" />
+    <Slider type="43" length="1.300014" startCapped="1" endCapped="1" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="-0.25" ty="0.16" tz="-1.2" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.12033082,0,0,0,0.23353235,0,0,0,0.12033083" centerOfMass="0.400000042,0.20363951,-0.400000025" mass="0.48" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="0.32" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="0.32" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

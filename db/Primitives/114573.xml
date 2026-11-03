@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-10-26
+	Comments: v0.0: Initial creation [Stephan] 2024-10-26
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="114573;1045169" />
+    <Annotation designname="CAPE, NO. 109" />
+    <Annotation maingroupid="252" />
+    <Annotation maingroupname="FIGURE, ACCESSORIES FOR THE UPPER AND LOWER PART" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.2628468192" sY="0.008926586286" sZ="0.422308146" angle="63.5616" ax="-0.6283" ay="-0.3094" az="-0.7138" tx="2.0838" ty="-1.4307" tz="0.1108" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.6603393,0,0,0,3.5816678,0,0,0,3.3534926" centerOfMass="0.5874274969,-1.342670746,0.01425242424" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.2254" minY="-2.8084" minZ="-1.6688" maxX="3.4003" maxY="0.123" maxZ="1.6973" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.2254" minY="-2.8084" minZ="-1.6688" maxX="3.4003" maxY="0.123" maxZ="1.6973" />
+  </GeometryBounding>
+</LEGOPrimitive>

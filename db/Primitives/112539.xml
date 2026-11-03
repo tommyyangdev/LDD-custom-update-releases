@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-04-26
+	Comments: v0.0: Initial creation [Stephan] 2025-04-26
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="112539;1042188;1042243;1042247" />
+    <Annotation designname="TENT, NO. 9 [10354]" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.531270922" sY="1.417421958" sZ="0.015" transformation="-0.8258033389,-0.5639581948,0,0,0,1,-0.5639581948,0.8258033389,0,1.370338207,1.042448669,4.369454629" angle="155.9094721" ax="0.2133823984" ay="-0.690821233" az="-0.690821233" tx="1.370338207" ty="1.042448669" tz="4.369454629"/>
+    <Box sX="1.531270922" sY="1.417421958" sZ="0.015" transformation="0,-0.570564587,-0.8212527334,1,0,0,0,-0.8212527334,0.570564587,4.408016796,1.151223466,1.506201223" angle="102.3989663" ax="0.4204324696" ay="0.4204324696" az="-0.8040354949" tx="4.408016796" ty="1.151223466" tz="1.506201223"/>
+    <Box sX="1.531270922" sY="1.417421958" sZ="0.015" transformation="0.8263294165,-0.5631870874,0,0,0,1,-0.5631870874,-0.8263294165,0,7.25933619,1.162721108,4.369454629" angle="94.98156963" ax="0.9166271003" ay="-0.2826612451" az="-0.2826612451" tx="7.25933619" ty="1.162721108" tz="4.369454629"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" transformation="7.771561172E-16,0,-1,0,1,0,1,0,7.771561172E-16,8.799987793,0,8.800012827" angle="90" ax="0" ay="1" az="0" tx="8.799987793" ty="0" tz="8.800012827"/>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" transformation="7.771561172E-16,0,-1,0,1,0,1,0,7.771561172E-16,8.800003052,0,1.335144043E-05" angle="90" ax="0" ay="1" az="0" tx="8.800003052" ty="0" tz="1.335144043E-05"/>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" transformation="7.771561172E-16,0,-1,0,1,0,1,0,7.771561172E-16,-1.525878906E-05,0,8.799999952" angle="90" ax="0" ay="1" az="0" tx="-1.525878906E-05" ty="0" tz="8.799999952"/>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" transformation="7.771561172E-16,0,-1,0,1,0,1,0,7.771561172E-16,0,0,0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="10.516782,0,0,0,18.024413,0,0,0,10.298264" centerOfMass="4.362893581,1.010973573,4.425023079" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.8061" minY="-1.0366" minZ="-0.8072" maxX="9.5323" maxY="3.0583" maxZ="9.6571" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8061" minY="-1.0366" minZ="-0.8072" maxX="9.5323" maxY="3.0583" maxZ="9.6571" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

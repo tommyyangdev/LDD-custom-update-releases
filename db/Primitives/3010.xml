@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-11-30
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Updated decoration surface, updated collision data [Stephan] 2025-11-30
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3010;6146" />
+    <Annotation designname="BRICK 1X4" />
+    <Annotation maingroupid="201" />
+    <Annotation maingroupname="BRICKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="9" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.589999994" sY="0.390000006" sZ="0.04499994755" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.905" tz="0" />
+    <Box sX="0.06499998808" sY="0.390000006" sZ="0.4700000191" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.325" ty="0.48" tz="0" />
+    <Box sX="0.06500004768" sY="0.390000006" sZ="0.4700000191" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2.725" ty="0.48" tz="0" />
+    <Box sX="1.589999994" sY="0.06500000298" sZ="0.4700000191" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.48" tz="0.325" />
+    <Box sX="1.589999994" sY="0.06500000298" sZ="0.4700000191" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.48" tz="-0.325" />
+    <Box sX="0.09403269533" sY="0.0998692086" sZ="0.4700000191" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.48" tz="0" />
+    <Box sX="0.09403269533" sY="0.0998692086" sZ="0.4700000191" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="2" ty="0.48" tz="0" />
+    <Box sX="0.09403269533" sY="0.0998692086" sZ="0.4700000191" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.48" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.26350927,0,0,0,1.5350325,0,0,0,1.5814316" centerOfMass="1.19999995,0.564273919,0" mass="1.527" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.138" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.138" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

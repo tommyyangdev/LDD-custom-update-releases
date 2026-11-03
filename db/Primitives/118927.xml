@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-06-23
+	Comments: v0.0: Initial creation, from Rev.B-B [Stephan] 2026-06-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="118927;1084098;1084115" />
+    <Annotation designname="PUNCHING FOIL SHEET, NO. 128 [LEFT] [21595]" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.286767515" sY="0.4039496622" sZ="0.015" angle="174.5965" ax="0.0472" ay="0.7063" az="0.7063" tx="-3.2816" ty="-0.4749" tz="3.6237" />
+    <Box sX="2.352972071" sY="0.4039496622" sZ="0.015" angle="174.7985" ax="0.0454" ay="0.7064" az="0.7064" tx="-4.0837" ty="-0.3747" tz="2.5968" />
+    <Box sX="2.429015649" sY="0.9291741086" sZ="0.015" angle="174.9642" ax="0.044" ay="0.7064" az="0.7064" tx="-4.1605" ty="-0.3749" tz="1.2437" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="-12.7842" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="5.3252551,0,0,0,23.275983,0,0,0,18.342493" centerOfMass="-6.531030387,-0.3852751553,3.246974319" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-13.9112" minY="-1.1538" minZ="-0.6774" maxX="0.8485" maxY="0.3825" maxZ="7.171" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-13.9112" minY="-1.1538" minZ="-0.6774" maxX="0.8485" maxY="0.3825" maxZ="7.171" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

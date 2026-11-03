@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-04-13
+	Comments: v0.0: Initial creation [Stephan] 2025-04-13
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="103472"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ANIMAL NECK, NO. 2"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="103472">
+      <Part refID="0" designID="103472" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,-1.2000000476837158,1.7095785140991211,1.2000000476837158">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41140">
+      <Part refID="1" designID="41140" materials="21">
+        <Bone refID="1" transformation="0,-0.96592593193054199,0.25881922245025635,0,-0.25881922245025635,-0.96592581272125244,0.99999994039535522,0,0,-1.2000001668930054,14.349579811096191,4.2000002861022949">
+        </Bone>
+      </Part>
+    </Brick>
+	<Brick refID="2" designID="41141">
+      <Part refID="2" designID="41141" materials="21">
+        <Bone refID="2" transformation="0,0.55701249837875366,-0.83050417900085449,0.99999994039535522,0,0,0,-0.83050417900085449,-0.55701243877410889,-1.2000000476837158,0.38077181577682495,0.30878043174743652">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

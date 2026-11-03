@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-07-06
+	Comments: v0.0: Initial creation [Stephan] 2025-07-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7199" />
+    <Annotation designname="CONICAL HORN W/ 1.5 SHAFT, NO. 1" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.07365723645" sY="0.1581281935" sZ="0.05746328622" angle="0" ax="1" ay="0" az="0" tx="0.0043" ty="0.9549" tz="0" />
+    <Box sX="0.09126360244" sY="0.128243232" sZ="0.09519574241" angle="0" ax="1" ay="0" az="0" tx="-0.0044" ty="0.6485" tz="0.003" />
+    <Box sX="0.1140700965" sY="0.1451429253" sZ="0.113983565" angle="0" ax="1" ay="0" az="0" tx="-0.003" ty="0.3551" tz="-0.0031" />
+    <Box sX="0.051952" sY="0.158128" sZ="0.040663" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1617" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.12254416,0,0,0,0.027372347,0,0,0,0.12198677" centerOfMass="-0.003909111023,0.5707345009,-0.005749166012" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.2045" minY="0" minZ="-0.2104" maxX="0.1966" maxY="1.1415" maxZ="0.1989" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2045" minY="0" minZ="-0.2104" maxX="0.1966" maxY="1.1415" maxZ="0.1989" />
+  </GeometryBounding>
+</LEGOPrimitive>

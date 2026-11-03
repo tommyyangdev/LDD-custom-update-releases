@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-12-25
+	Comments: v0.0: Initial creation [Stephan] 2025-12-25
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="114876;1046361" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 27 [80119]" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="9.78586423" sY="1.244984667" sZ="0.01352316693" angle="71.7313" ax="1" ay="0" az="0" tx="8.9106" ty="0.7107" tz="9.2898" />
+    <Box sX="9.78586423" sY="1.244984667" sZ="0.01352316693" angle="60.6691" ax="1" ay="0" az="0" tx="8.9106" ty="1.7709" tz="11.6015" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="0" ty="0" tz="0" />
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0.7071" ay="0" az="0.7071" tx="17.6" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="52.719096,0,0,0,62.990938,0,0,0,55.768511" centerOfMass="8.846252024,7.972133249,8.606131971" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.1087" minY="-0.2909" minZ="-0.8773" maxX="18.8012" maxY="16.2352" maxZ="18.0903" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.1087" minY="-0.2909" minZ="-0.8773" maxX="18.8012" maxY="16.2352" maxZ="18.0903" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

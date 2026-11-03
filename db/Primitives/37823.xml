@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-03-09
+	Comments: v0.0: Initial creation [Stephan] 2025-03-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="37823" />
+    <Annotation designname="MINI WIG, NO. 220" />
+    <Annotation maingroupid="243" />
+    <Annotation maingroupname="FIGURE, WIGS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.1761943007" sZ="0.5540716255" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.1862" tz="-0.0999" />
+    <Box sX="0.3976625166" sY="0.05102446178" sZ="0.2452883644" angle="97.2637" ax="0.1543" ay="-0.156" az="-0.9756" tx="-0.4681" ty="-0.2046" tz="-0.4005" />
+    <Box sX="0.2526031727" sY="0.0427881827" sZ="0.1638141088" angle="105.8802" ax="-0.1097" ay="0.189" az="-0.9758" tx="-0.5023" ty="-0.0664" tz="0.1201" />
+    <Box sX="0.3965357216" sY="0.4193579446" sZ="0.06924777739" angle="1.6798" ax="1" ay="0" az="0" tx="0.0199" ty="-0.2472" tz="-0.6525" />
+    <Box sX="0.3976625166" sY="0.05102446178" sZ="0.2452883644" angle="165.6954" ax="0.6922" ay="-0.7135" az="-0.1087" tx="0.4792" ty="-0.208" tz="-0.4043" />
+    <Box sX="0.4888143214" sY="0.0427881827" sZ="0.1638141088" angle="172.8131" ax="-0.6503" ay="0.7227" az="-0.2339" tx="0.4987" ty="-0.2261" tz="0.2956" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.31660052,0,0,0,0.34026419,0,0,0,0.297727" centerOfMass="0.002466678619,-0.1432483494,-0.08249744773" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.6919" minY="-0.7844" minZ="-0.8165" maxX="0.6968" maxY="0.4979" maxZ="0.6515" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6919" minY="-0.7844" minZ="-0.8165" maxX="0.6968" maxY="0.4979" maxZ="0.6515" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1" />
+</LEGOPrimitive>

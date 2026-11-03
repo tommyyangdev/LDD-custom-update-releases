@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-01-25
+	Comments: v0.0: Initial creation [Stephan] 2025-07-10
+	v1.0: Updated years-of-use in name [Stephan] 2026-01-18
+	v1.1: Updated decoration surface [Stephan] 2026-01-25
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="619201" />
+    <Annotation designname="BOWED ROOF RIDGE 2X4X1 [2011-2026]" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.590000024" sY="0.1579664415" sZ="0.7785156404" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.168" tz="-0.4" />
+    <Box sX="1.590000024" sY="0.3385903202" sZ="0.187161445" angle="0" ax="1" ay="0" az="0" tx="1.2" ty="0.5777" tz="-0.4" />
+    <Box sX="1.590000024" sY="0.3385903202" sZ="0.187161445" angle="30" ax="-1" ay="0" az="0" tx="1.2" ty="0.5217" tz="-0.6088" />
+    <Box sX="1.590000024" sY="0.3385903202" sZ="0.187161445" angle="60" ax="-1" ay="0" az="0" tx="1.2" ty="0.3688" tz="-0.7617" />
+    <Box sX="1.590000024" sY="0.3385903202" sZ="0.187161445" angle="60" ax="1" ay="0" az="0" tx="1.2" ty="0.3688" tz="-0.0383" />
+    <Box sX="1.590000024" sY="0.3385903202" sZ="0.187161445" angle="30" ax="1" ay="0" az="0" tx="1.2" ty="0.5217" tz="-0.1912" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,29:0,23:4:1,29:0,23:4:1,29:0,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.47441054,0,0,0,1.9154059,0,0,0,1.6762062" centerOfMass="1.19999989,0.496062819,-0.400000194" mass="1.7" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="0.96" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="0.96" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

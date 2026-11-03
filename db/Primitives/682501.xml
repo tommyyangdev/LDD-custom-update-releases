@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-06-13
+	Comments: v0.0: Initial creation [Stephan] 2025-06-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="682501;1042049" />
+    <Annotation designname="HUBCAP, DIA. 17.82, NO. 4 [5-SPOKE]" />
+    <Annotation maingroupid="266" />
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0737" tz="0.2726" />
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.0737" tz="-0.273" />
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="90" ax="0" ay="1" az="0" tx="0.2728" ty="0.0737" tz="-0.0002" />
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="90" ax="0" ay="1" az="0" tx="-0.2728" ty="0.0737" tz="-0.0002" />
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="45" ax="0" ay="1" az="0" tx="0.1929" ty="0.0737" tz="0.1927" />
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="45" ax="0" ay="1" az="0" tx="-0.1929" ty="0.0737" tz="-0.1931" />
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="135" ax="0" ay="1" az="0" tx="0.1929" ty="0.0737" tz="-0.1931" />
+    <Box sX="0.124473" sY="0.070436" sZ="0.022218" angle="135" ax="0" ay="1" az="0" tx="-0.1929" ty="0.0737" tz="0.1927" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.2486999,0,0,0,0.50072527,0,0,0,0.26909204" centerOfMass="-0.0009798109531,0.1599999964,0.03540325165" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8851" minY="0" minZ="-0.8134" maxX="0.8831" maxY="0.32" maxZ="0.8842" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8851" minY="0" minZ="-0.8134" maxX="0.8831" maxY="0.32" maxZ="0.8842" />
+  </GeometryBounding>
+</LEGOPrimitive>

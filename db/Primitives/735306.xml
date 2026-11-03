@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-07-19
+	Comments: v0.0: Initial creation [Stephan] 2024-07-19
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="735306;1042583" />
+    <Annotation designname="ACCESSORY, NO. 6 [SPIRAL SEA SHELL]" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.046926" sY="0.165254" sZ="0.051382" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.1703" tz="0" />
+    <Box sX="0.0826049751" sY="0.0826049751" sZ="0.0518719373" angle="27.405" ax="0" ay="0" az="1" tx="-0.0463" ty="0.8792" tz="-0.0297" />
+    <Box sX="0.1820952172" sY="0.1820952172" sZ="0.04991444478" angle="155.6086" ax="0.6789" ay="-0.2227" az="0.6996" tx="-0.2907" ty="0.6731" tz="0.0178" />
+    <Box sX="0.1515080859" sY="0.1820952172" sZ="0.04991444478" angle="155.35" ax="0.6863" ay="0.2206" az="-0.693" tx="0.2256" ty="0.6731" tz="0.0038" />
+    <Box sX="0.1820952172" sY="0.1820952172" sZ="0.04991444478" angle="144.6819" ax="1" ay="0" az="0" tx="0.0246" ty="0.6731" tz="0.2255" />
+    <Box sX="0.1820952172" sY="0.1820952172" sZ="0.05012557848" angle="39.6819" ax="1" ay="0" az="0" tx="-0.0747" ty="0.6747" tz="-0.2063" />
+    <Box sX="0.1820952172" sY="0.1439664162" sZ="0.1820952172" angle="0" ax="1" ay="0" az="0" tx="-0.0747" ty="0.6661" tz="0" />
+    <Box sX="0.165747633" sY="0.09749706626" sZ="0.4244308376" angle="90" ax="0" ay="1" az="0" tx="-0.0031" ty="0.5154" tz="0.0199" />
+    <Box sX="0.2390467578" sY="0.09749706626" sZ="0.40303204" angle="0" ax="1" ay="0" az="0" tx="-0.0254" ty="0.4622" tz="0.0057" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.2842" tz="0.3352" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.2842" tz="-0.3338" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="150" ax="0" ay="-1" az="0" tx="-0.1672" ty="0.2842" tz="-0.289" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="150" ax="0" ay="-1" az="0" tx="0.1672" ty="0.2842" tz="0.2903" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="120" ax="0" ay="-1" az="0" tx="-0.2897" ty="0.2842" tz="-0.1666" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="120" ax="0" ay="-1" az="0" tx="0.2897" ty="0.2842" tz="0.1679" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="90" ax="0" ay="-1" az="0" tx="-0.3345" ty="0.2842" tz="0.0007" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="90" ax="0" ay="-1" az="0" tx="0.3345" ty="0.2842" tz="0.0007" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="60" ax="0" ay="-1" az="0" tx="-0.2897" ty="0.2842" tz="0.1679" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="60" ax="0" ay="-1" az="0" tx="0.2897" ty="0.2842" tz="-0.1666" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="30" ax="0" ay="-1" az="0" tx="-0.1672" ty="0.2842" tz="0.2903" />
+    <Box sX="0.109512" sY="0.07981" sZ="0.073266" angle="30" ax="0" ay="-1" az="0" tx="0.1672" ty="0.2842" tz="-0.289" />
+    <Box sX="0.046926" sY="0.060117" sZ="0.131554" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.2621" tz="0" />
+    <Box sX="0.046926" sY="0.060117" sZ="0.131554" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.2621" tz="0" />
+    <Box sX="0.046926" sY="0.060117" sZ="0.131554" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.2621" tz="0" />
+    <Box sX="0.046926" sY="0.060117" sZ="0.131554" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.2621" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.16527961,0,0,0,0.16543639,0,0,0,0.17020097" centerOfMass="0.00268855691,0.505040884,0.008129987971" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.5028" minY="0" minZ="-0.4746" maxX="0.5082" maxY="1.0101" maxZ="0.4988" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.5028" minY="0" minZ="-0.4746" maxX="0.5082" maxY="1.0101" maxZ="0.4988" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-04-06
+	Comments: v0.0: Initial creation [Stephan] 2025-04-06
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="102225;1025583;1025624" />
+    <Annotation designname="PUNCHING FOIL SHEET, NO. 66 [75578]" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="6.805789682" sY="0.1455756614" sZ="1.7347145" transformation="-6.661338148E-16,-0.5257967304,-0.8506102505,-1.110223025E-16,0.8506102505,-0.5257967304,1,-2.220446049E-16,-6.661338148E-16,2.108233823,-3.43726377,-8.925276525" angle="94.28369074" ax="-0.2636348461" ay="0.9278972658" az="-0.2636348461" tx="2.108233823" ty="-3.43726377" tz="-8.925276525"/>
+    <Box sX="1.697215254" sY="0.09678356979" sZ="1.552117005" transformation="0.1061357623,-0.4928445386,-0.8636199747,-0.9913632055,0.01483836057,-0.1303027927,0.07703372431,0.8699908527,-0.4870130609,-0.3275674342,-7.332133721,-10.56456472" angle="133.080048" ax="-0.6847572671" ay="0.643930369" az="0.3412640693" tx="-0.3275674342" ty="-7.332133721" tz="-10.56456472"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" transformation="2.220446049E-16,0,-1,0,1,0,1,0,2.220446049E-16,0,0,0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="40.851324,0,0,0,37.324185,0,0,0,15.338843" centerOfMass="3.119401097,-5.054651612,-8.513113439" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.0918" minY="-10.3757" minZ="-18.2229" maxX="7.3306" maxY="0.1532" maxZ="1.1971" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.0918" minY="-10.3757" minZ="-18.2229" maxX="7.3306" maxY="0.1532" maxZ="1.1971" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

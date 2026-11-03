@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-06-19
+	Comments: v0.0: Initial creation, from Rev.B-A [Stephan] 2026-06-19
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="117345;1082629;1082657;1082911" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 31 [42704]" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.128001" sY="0.008374" sZ="0.341015" angle="180" ax="0" ay="0.6407" az="0.7678" tx="-0.0036" ty="-0.6789" tz="-0.8488" />
+    <Box sX="1.325524" sY="0.008374" sZ="0.50965" angle="180" ax="0" ay="0.7071" az="0.7071" tx="-0.0036" ty="-1.5345" tz="-0.9471" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="156" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0.1954" tz="0" />
+    <Fixed type="156" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0.1954" tz="0" />
+    <Axel type="14" length="0.01" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2169" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.67851775,0,0,0,1.021566,0,0,0,1.3711019" centerOfMass="-1.192092896E-07,-1.013359509,-0.2731179485" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.6035" minY="-2.2552" minZ="-0.9402" maxX="1.6035" maxY="0.2284" maxZ="0.4294" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.6035" minY="-2.2552" minZ="-0.9402" maxX="1.6035" maxY="0.2284" maxZ="0.4294" />
+  </GeometryBounding>
+</LEGOPrimitive>

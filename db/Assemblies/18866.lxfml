@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan [2026-05-24]
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="SHELL [2014-current]"/>
+		<Annotation aliases=""/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="188661">
+			<Part refID="0" designID="188661" materials="194">
+				<Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,0.00000000596046448,0.010299999266862869,2.4" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="188662">
+			<Part refID="1" designID="188662" materials="194">
+				<Bone refID="1" transformation="0,0,-0.99999994039535522,0,0.9999997615814209,0,1,0,0,0.00000000596046448,0.010300105437636375,2.39999988079" freeze="no"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>

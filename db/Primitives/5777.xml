@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instruction App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-01-03
+	Comments: v0.0: Initial creation [Stephan] 2025-01-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5777" />
+    <Annotation designname="ARROW 3M, NO. 1" />
+    <Annotation maingroupid="286" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.180693" sY="0.155874" sZ="1.157349" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-1.2587" />
+    <Box sX="0.180693" sY="0.313672" sZ="0.057191" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-2.4599" />
+    <Box sX="0.180693" sY="0.313672" sZ="0.057191" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="-2.4599" />
+    <Box sX="0.180693" sY="0.313672" sZ="0.057191" angle="135" ax="0" ay="0" az="1" tx="0" ty="0" tz="-2.4599" />
+    <Box sX="0.180693" sY="0.313672" sZ="0.057191" angle="135" ax="0" ay="0" az="-1" tx="0" ty="0" tz="-2.4599" />
+    <Box sX="0.104322" sY="0.09775" sZ="0.057191" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-2.6017" />
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="1.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="-1.6" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.66693986,0,0,0,0.6690667,0,0,0,0.13893983" centerOfMass="0,1.110223025E-15,-1.340000031" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.37" minY="-0.37" minZ="-2.68" maxX="0.37" maxY="0.37" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.37" minZ="-2.68" maxX="0.37" maxY="0.37" maxZ="0" />
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-08-16
+	Comments: v0.0: Initial creation [Stephan] 2025-08-16
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="118092"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="SENSOR COLOUR, NO. 4 [US]"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="114676">
+      <Part refID="0" designID="114676" materials="21">
+        <Bone refID="0" transformation="0,0,-1,0,-1,0,-1,0,0,1.2000007629394531,0.40999999642372131,1.2000007629394531">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="118092">
+      <Part refID="1" designID="118092" materials="21,21,21,21,21,21,21,21" decoration="0,0,0,0,0,0,0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-1.2000007629394531,0,1.2000007629394531">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="114676">
+      <Part refID="2" designID="114676" materials="21">
+        <Bone refID="2" transformation="0,0,-1,0,-1,0,-1,0,0,-1.2000007629394531,0.40999999642372131,1.2000007629394531">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="5714">
+      <Part refID="3" designID="5714" materials="21">
+        <Bone refID="3" transformation="0,-1,0,0,0,-1,1,0,0,0,1.281000018119812,-1.2700004577636719">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

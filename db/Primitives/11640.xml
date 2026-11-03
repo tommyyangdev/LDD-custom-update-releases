@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-11-13
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Updated 3D model, updated collision data [Stephan] 2025-11-13
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11640" />
+    <Annotation designname="ELECTRIC GUITAR SHAFT Ø3.2" />
+    <Annotation maingroupid="246" />
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.01828425169" sY="0.01828425169" sZ="0.01750000358" angle="45" ax="0" ay="0" az="1" tx="0.1382" ty="-0.43" tz="0.2275" />
+    <Box sX="0.01828425169" sY="0.01828425169" sZ="0.01750000358" angle="45" ax="0" ay="0" az="1" tx="0.2528" ty="-0.3" tz="0.2275" />
+    <Box sX="0.01828425169" sY="0.01828425169" sZ="0.01000001073" angle="45" ax="0" ay="0" az="1" tx="2.6002" ty="0.1" tz="0.22" />
+    <Box sX="0.01828425169" sY="0.01828425169" sZ="0.01000001073" angle="45" ax="0" ay="0" az="1" tx="2.7643" ty="0.03" tz="0.22" />
+    <Box sX="0.01828425169" sY="0.01828425169" sZ="0.01000001073" angle="45" ax="0" ay="0" az="1" tx="2.9282" ty="-0.04" tz="0.22" />
+    <Box sX="0.108566919" sY="0.03166600959" sZ="0.01750000358" angle="55.3154" ax="0" ay="0" az="1" tx="-0.1042" ty="-0.345" tz="0.2275" />
+    <Box sX="0.1750000338" sY="0.05000000736" sZ="0.01750000358" angle="90" ax="0" ay="0" az="1" tx="0.16" ty="0" tz="0.2275" />
+    <Box sX="0.2290719674" sY="0.05248308189" sZ="0.08999999404" angle="176.4746" ax="0" ay="0" az="-1" tx="0.0125" ty="-0.4559" tz="0.1" />
+    <Box sX="0.5918038039" sY="0.3826054796" sZ="0.08999999404" angle="179.6773" ax="0" ay="0" az="-1" tx="0.2897" ty="-0.0065" tz="0.1" />
+    <Box sX="0.0528738286" sY="0.2025268315" sZ="0.08999999404" angle="107.8531" ax="0" ay="0" az="-1" tx="0.8034" ty="-0.3636" tz="0.1" />
+    <Box sX="0.0528738286" sY="0.2025268315" sZ="0.08999999404" angle="80.6212" ax="0" ay="0" az="-1" tx="1.0385" ty="0.4033" tz="0.1" />
+    <Box sX="0.07302504504" sY="0.2025268315" sZ="0.08999999404" angle="7.4834" ax="0" ay="0" az="-1" tx="0.9356" ty="0.2091" tz="0.1" />
+    <Box sX="0.1270816541" sY="0.3024301605" sZ="0.08999999404" angle="66.6012" ax="0" ay="0" az="1" tx="2.7605" ty="-0.0068" tz="0.1" />
+    <Box sX="0.1323078107" sY="0.2309820093" sZ="0.08999999404" angle="90.2793" ax="0" ay="0" az="1" tx="2.7008" ty="-0.076" tz="0.1" />
+    <Box sX="0.1323078107" sY="0.1000970749" sZ="0.08999999404" angle="135.7144" ax="0" ay="0" az="1" tx="3.0169" ty="-0.1248" tz="0.1" />
+    <Box sX="0.1017804828" sY="0.1441376714" sZ="0.08999999404" angle="179.6773" ax="0" ay="0" az="-1" tx="0.9177" ty="-0.0076" tz="0.1" />
+    <Box sX="0.2097628984" sY="0.06336361548" sZ="0.08999999404" angle="171.9958" ax="0" ay="0" az="1" tx="0.011" ty="0.4225" tz="0.1" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Axel type="7" length="1.422" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="1.03" ty="0" tz="0.1" />
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.15623974,0,0,0,1.0985728,0,0,0,1.1620096" centerOfMass="1.416634068,0.0003022551537,-0.02689913816" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.36" minY="-0.5737" minZ="-0.4" maxX="3.1933" maxY="0.5743" maxZ="0.2599" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.36" minY="-0.5737" minZ="-0.4" maxX="3.1933" maxY="0.5743" maxZ="0.2599" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

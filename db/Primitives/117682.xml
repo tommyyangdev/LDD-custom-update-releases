@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: The LEGO Group
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2026-06-21
+	Comments: v0.0: Initial creation, from Rev.B-B [Stephan] 2026-06-19
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="117682;1082926" />
+    <Annotation designname="PUNCHED TEXTILE ELEMENT, NO. 32 [76469]" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.6091774416" sY="0.005057564543" sZ="0.8553203719" angle="7.7367" ax="0.1062" ay="-0.9937" az="0.0359" tx="-0.0854" ty="0.0166" tz="1.5473" />
+    <Box sX="0.776445" sY="0.005058" sZ="0.032898" angle="14.2996" ax="0.0564" ay="-0.9982" az="0.0227" tx="-0.0507" ty="0.1336" tz="-0.0681" />
+    <Box sX="0.776445" sY="0.005058" sZ="0.032898" angle="14.3079" ax="0.054" ay="-0.9977" az="0.0409" tx="-0.0598" ty="0.1577" tz="-0.033" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.5308" ty="-0.0222" tz="1.7121">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,2:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.77087875,0,0,0,1.0947691,0,0,0,0.37617205" centerOfMass="0.1361086071,-0.1183216646,1.157077491" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.8906" minY="-0.3998" minZ="-0.3387" maxX="1.1624" maxY="0.1637" maxZ="2.6538" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8906" minY="-0.3998" minZ="-0.3387" maxX="1.1624" maxY="0.1637" maxZ="2.6538" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

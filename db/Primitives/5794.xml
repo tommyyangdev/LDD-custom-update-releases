@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-06-14
+	Comments: v0.0: Initial creation [Stephan] 2025-06-14
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5794" />
+    <Annotation designname="4.85 BUSH HARD SNAP, W/ CROSS AXLE - ASSEMBLY" />
+    <Annotation maingroupid="399" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.214999994" sY="0.0675000006" sZ="0.3899999762" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4" />
+    <Box sX="0.0675000006" sY="0.214999994" sZ="0.3899999762" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4" />
+    <Box sX="0.290949" sY="0.0675" sZ="0.037649" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8399" />
+    <Box sX="0.290949" sY="0.0675" sZ="0.037649" angle="90" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.8399" />
+    <Box sX="0.290949" sY="0.0675" sZ="0.037649" angle="30.6357" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.8399" />
+    <Box sX="0.290949" sY="0.0675" sZ="0.037649" angle="120.6357" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.8399" />
+    <Box sX="0.290949" sY="0.0675" sZ="0.037649" angle="60.9544" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.8399" />
+    <Box sX="0.290949" sY="0.0675" sZ="0.037649" angle="150.9544" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.8399" />
+    <Box sX="0.129365" sY="0.018372" sZ="0.338134" angle="90" ax="0" ay="0" az="1" tx="0.1696" ty="0" tz="-1.2223" />
+    <Box sX="0.129365" sY="0.018372" sZ="0.338134" angle="90" ax="0" ay="0" az="1" tx="-0.1707" ty="0" tz="-1.2223" />
+    <Box sX="0.129365" sY="0.018372" sZ="0.232247" angle="180" ax="0" ay="0" az="1" tx="-0.0005" ty="0.1701" tz="-1.0362" />
+    <Box sX="0.129365" sY="0.018372" sZ="0.232247" angle="180" ax="0" ay="0" az="1" tx="-0.0005" ty="-0.1701" tz="-1.0362" />
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+    <Axel type="19" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="0.5774" az="0.5774" tx="0" ty="0" tz="-1.6" />
+    <Axel type="6" length="0.72" grabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.5774" ay="0.5774" az="0.5774" tx="0" ty="0" tz="-1.6" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.26403455,0,0,0,0.26250576,0,0,0,0.099871214" centerOfMass="0,-2.220446049E-16,-0.7999977185" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3" minY="-0.3" minZ="-1.6" maxX="0.3" maxY="0.3" maxZ="0" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3" minY="-0.3" minZ="-1.6" maxX="0.3" maxY="0.3" maxZ="0" />
+  </GeometryBounding>
+</LEGOPrimitive>
