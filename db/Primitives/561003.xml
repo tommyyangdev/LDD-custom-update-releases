@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-02-08
+	Comments: v0.0: Initial creation [Stephan] 2025-02-08
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="561003;1034025" />
+    <Annotation designname="ACCESSORIES CAT HEAD" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.04797441763" sY="0.2534323659" sZ="0.1492809059" angle="30.671" ax="0" ay="-1" az="0" tx="0.267" ty="0.2634" tz="0.1667" />
+    <Box sX="0.1146226454" sY="0.02269573707" sZ="0.1113723558" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.6759" tz="0" />
+    <Box sX="0.1146226454" sY="0.02269573707" sZ="0.1565478225" angle="95.9446" ax="0.3063" ay="-0.9013" az="-0.3063" tx="0" ty="0.5947" tz="0.2335" />
+    <Box sX="0.04778544874" sY="0.2534323659" sZ="0.1492809059" angle="90.671" ax="0" ay="-1" az="0" tx="-0.0109" ty="0.2634" tz="0.3149" />
+    <Box sX="0.04792899255" sY="0.2534323659" sZ="0.1492809059" angle="29.329" ax="0" ay="1" az="0" tx="0.2764" ty="0.2634" tz="-0.147" />
+    <Box sX="0.04787749302" sY="0.2534323659" sZ="0.1492809059" angle="150.671" ax="0" ay="-1" az="0" tx="-0.2761" ty="0.2634" tz="0.1469" />
+    <Box sX="0.0477346494" sY="0.2534323659" sZ="0.1492809059" angle="149.329" ax="0" ay="1" az="0" tx="-0.2634" ty="0.2634" tz="-0.1646" />
+    <Box sX="0.04570845515" sY="0.2534323659" sZ="0.1492809059" angle="89.329" ax="0" ay="1" az="0" tx="0.0108" ty="0.2634" tz="-0.3124" />
+    <Box sX="0.0697760889" sY="0.0919180825" sZ="0.07814512601" angle="94.8397" ax="0.2871" ay="0.9069" az="-0.3084" tx="-0.2782" ty="0.7123" tz="0.0017" />
+    <Box sX="0.1146226454" sY="0.02269573707" sZ="0.1565478225" angle="95.9446" ax="-0.3063" ay="0.9013" az="-0.3063" tx="0" ty="0.5947" tz="-0.2335" />
+    <Box sX="0.08172182333" sY="0.1402408511" sZ="0.1492809059" angle="89.329" ax="0" ay="1" az="0" tx="0.0113" ty="0.2714" tz="-0.3478" />
+    <Box sX="0.08505787402" sY="0.1402408511" sZ="0.1492809059" angle="149.329" ax="0" ay="1" az="0" tx="-0.2955" ty="0.2714" tz="-0.1836" />
+    <Box sX="0.08206658808" sY="0.1402408511" sZ="0.1492809059" angle="150.671" ax="0" ay="-1" az="0" tx="-0.3099" ty="0.2714" tz="0.1659" />
+    <Box sX="0.08537785252" sY="0.1402408511" sZ="0.1492809059" angle="29.329" ax="0" ay="1" az="0" tx="0.309" ty="0.2714" tz="-0.1654" />
+    <Box sX="0.08514151318" sY="0.1402408511" sZ="0.1492809059" angle="90.671" ax="0" ay="-1" az="0" tx="-0.0113" ty="0.2714" tz="0.3522" />
+    <Box sX="0.08545264317" sY="0.1402408511" sZ="0.1492809059" angle="30.671" ax="0" ay="-1" az="0" tx="0.2992" ty="0.2714" tz="0.1858" />
+    <Box sX="0.0697760889" sY="0.09950198445" sZ="0.06309590025" angle="90.2337" ax="0.0952" ay="0.9883" az="-0.1194" tx="-0.3625" ty="0.558" tz="0.0051" />
+    <Box sX="0.0697760889" sY="0.09950198445" sZ="0.06309590025" angle="91.1084" ax="-0.1185" ay="0.9884" az="0.0945" tx="0.3625" ty="0.558" tz="0.0051" />
+    <Box sX="0.0697760889" sY="0.0919180825" sZ="0.07814512601" angle="96.2091" ax="-0.3051" ay="0.909" az="0.284" tx="0.2782" ty="0.7123" tz="0.0017" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:66,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.14130689,0,0,0,0.15723268,0,0,0,0.14140508" centerOfMass="0,0.433842063,-2.464652061E-05" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4858" minY="0" minZ="-0.4855" maxX="0.4858" maxY="0.8677" maxZ="0.4855" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4858" minY="0" minZ="-0.4855" maxX="0.4858" maxY="0.8677" maxZ="0.4855" />
+  </GeometryBounding>
+</LEGOPrimitive>

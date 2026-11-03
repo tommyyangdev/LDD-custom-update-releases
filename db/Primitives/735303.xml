@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-07-15
+	Comments: v0.0: Initial creation [Stephan] 2024-07-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="735303;1042572" />
+    <Annotation designname="ACCESSORY, NO. 6 [DOUBLE HORN]" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.046926" sY="0.165254" sZ="0.051382" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.1703" tz="0" />
+    <Box sX="0.0973698276" sY="0.1012436576" sZ="0.2312551698" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4025" tz="0" />
+    <Box sX="0.2226777876" sY="0.08950318964" sZ="0.1085074299" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3095" tz="0" />
+    <Box sX="0.4629311768" sY="0.09666032396" sZ="0.1189783252" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3817" tz="0" />
+    <Box sX="0.08262039598" sY="0.1473161405" sZ="0.0723440197" angle="16.3537" ax="0" ay="0" az="-1" tx="-0.5781" ty="0.5755" tz="0" />
+    <Box sX="0.08262039598" sY="0.1033703312" sZ="0.1130560775" angle="48.4166" ax="0" ay="0" az="1" tx="-0.5526" ty="0.4244" tz="0" />
+    <Box sX="0.08262039598" sY="0.1033703312" sZ="0.1130560775" angle="180" ax="0.4101" ay="0.9121" az="0" tx="0.5526" ty="0.4244" tz="0" />
+    <Box sX="0.08262039598" sY="0.1473161405" sZ="0.0723440197" angle="180" ax="-0.1422" ay="0.9898" az="0" tx="0.5781" ty="0.5755" tz="0" />
+    <Box sX="0.2087594533" sY="0.08950318964" sZ="0.1096101873" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4908" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.21" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.078286776,0,0,0,0.20631587,0,0,0,0.23318663" centerOfMass="0,0.3971602917,0" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.7361" minY="0" minZ="-0.2777" maxX="0.7361" maxY="0.7943" maxZ="0.2777" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7361" minY="0" minZ="-0.2777" maxX="0.7361" maxY="0.7943" maxZ="0.2777" />
+  </GeometryBounding>
+</LEGOPrimitive>

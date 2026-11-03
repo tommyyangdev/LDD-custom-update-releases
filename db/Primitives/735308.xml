@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-07-15
+	Comments: v0.0: Initial creation [Stephan] 2024-07-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="735308;1042564" />
+    <Annotation designname="ACCESSORY, NO. 6 [SEA SHELL]" />
+    <Annotation maingroupid="281" />
+    <Annotation maingroupname="DECORATION ELEMENTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.046926" sY="0.165254" sZ="0.051382" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.1703" tz="0" />
+    <Box sX="0.2623345958" sY="0.1751545235" sZ="0.1262933587" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3952" tz="0" />
+    <Box sX="0.1322390217" sY="0.1981065262" sZ="0.04549738104" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.7656" tz="0" />
+    <Box sX="0.132645947" sY="0.2212302939" sZ="0.04549738104" angle="27.7509" ax="0" ay="0" az="1" tx="0.2194" ty="0.6672" tz="0" />
+    <Box sX="0.07818902858" sY="0.1535019174" sZ="0.04549738104" angle="37.3265" ax="0" ay="0" az="-1" tx="0.2735" ty="0.4164" tz="0" />
+    <Box sX="0.07818902858" sY="0.1535019174" sZ="0.04549738104" angle="180" ax="-0.32" ay="0.9474" az="0" tx="-0.2735" ty="0.4164" tz="0" />
+    <Box sX="0.1179520509" sY="0.2212302939" sZ="0.04549738104" angle="180" ax="0.2398" ay="0.9708" az="0" tx="-0.2324" ty="0.6741" tz="0" />
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.096940312,0,0,0,0.078781152,0,0,0,0.15769307" centerOfMass="-0.0003841519356,0.5135935545,-0.0002617612481" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4579" minY="0" minZ="-0.1647" maxX="0.4571" maxY="1.0272" maxZ="0.1642" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4579" minY="0" minZ="-0.1647" maxX="0.4571" maxY="1.0272" maxZ="0.1642" />
+  </GeometryBounding>
+</LEGOPrimitive>

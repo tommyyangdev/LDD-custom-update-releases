@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-05-11
+	Comments: v0.0: Initial creation [Stephan] 2025-05-11
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5996" />
+    <Annotation designname="TRACK ROD 8 M" />
+    <Annotation maingroupid="386" />
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.08261086119" sY="2.479121198" sZ="0.2281597339" angle="90" ax="0" ay="0" az="-1" tx="2.8" ty="0" tz="-0.235" />
+    <Box sX="0.08261086119" sY="2.479121198" sZ="0.2281597339" angle="120" ax="-0.5774" ay="-0.5774" az="-0.5774" tx="2.8" ty="0" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="45" ax="0" ay="0" az="-1" tx="5.8409" ty="0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="90" ax="0" ay="0" az="-1" tx="5.9407" ty="0" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="135" ax="0" ay="0" az="-1" tx="5.8409" ty="-0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="180" ax="0" ay="0" az="1" tx="5.6" ty="-0.3407" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="135" ax="0" ay="0" az="1" tx="5.3591" ty="-0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="90" ax="0" ay="0" az="1" tx="5.2593" ty="0" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="45" ax="0" ay="0" az="1" tx="5.3591" ty="0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="0" ax="1" ay="0" az="0" tx="5.6" ty="0.3407" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="45" ax="0" ay="0" az="-1" tx="0.2409" ty="0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="90" ax="0" ay="0" az="-1" tx="0.3407" ty="0" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="135" ax="0" ay="0" az="-1" tx="0.2409" ty="-0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.3407" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="135" ax="0" ay="0" az="1" tx="-0.2409" ty="-0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="90" ax="0" ay="0" az="1" tx="-0.3407" ty="0" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="45" ax="0" ay="0" az="1" tx="-0.2409" ty="0.2409" tz="-0.235" />
+    <Box sX="0.1182304198" sY="0.01979613246" sZ="0.2249999845" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.3407" tz="-0.235" />
+  </Collision>
+  <Connectivity>
+    <Ball type="2" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.235" />
+    <Ball type="2" angle="90" ax="-1" ay="0" az="0" tx="5.6" ty="0" tz="-0.235" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.080259239,0,0,0,3.4402594,0,0,0,3.466667" centerOfMass="2.799999893,2.980232239E-08,-0.2305896282" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.4" minZ="-0.5148" maxX="6" maxY="0.4" maxZ="0.0536" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.4" minZ="-0.5148" maxX="6" maxY="0.4" maxZ="0.0536" />
+  </GeometryBounding>
+</LEGOPrimitive>

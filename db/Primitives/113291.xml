@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-06-20
+	Comments: v0.0: Initial creation [Stephan] 2025-06-20
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="113291;1042394" />
+    <Annotation designname="CAPE, NO. 104" />
+    <Annotation maingroupid="255" />
+    <Annotation maingroupname="TEXTILES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.07129" sY="0.002757" sZ="0.614646" angle="97.3517" ax="1" ay="0" az="0" tx="0" ty="-0.7393" tz="-0.555" />
+    <Box sX="1.171208" sY="-0.000569" sZ="0.537752" angle="90" ax="1" ay="0" az="0" tx="0" ty="-1.9077" tz="-0.6624" />
+    <Box sX="0.363566" sY="0.002757" sZ="0.108846" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.0028" tz="0.3756" />
+    <Box sX="0.256691" sY="0.002757" sZ="0.231137" angle="180" ax="1" ay="0" az="0" tx="0.5398" ty="0.0028" tz="-0.1162" />
+    <Box sX="0.256691" sY="0.002757" sZ="0.231137" angle="180" ax="1" ay="0" az="0" tx="-0.5701" ty="0.0028" tz="-0.1162" />
+    <Box sX="0.973461" sY="0.002757" sZ="0.030081" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.0028" tz="-0.2931" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0" />
+    <Fixed type="30" axes="2" angle="0" ax="1" ay="0" az="0" tx="-0.3" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.64823418,0,0,0,0.6656155,0,0,0,1.0646816" centerOfMass="0,-1.247375653,-0.0613527" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.274" minY="-2.5008" minZ="-0.6727" maxX="1.274" maxY="0.006" maxZ="0.55" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.274" minY="-2.5008" minZ="-0.6727" maxX="1.274" maxY="0.006" maxZ="0.55" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

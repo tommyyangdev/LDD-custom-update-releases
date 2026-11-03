@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-07-03
+	Comments: v0.0: Initial creation [Stephan] 2025-07-03
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="100811"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="TORSO, GIRL, W/ ARM, [2023-current]"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="35678">
+      <Part refID="0" designID="35678" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.39999997615814209,0.61700057983398438,-2">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="2758">
+      <Part refID="1" designID="2758" materials="21,0,0" decoration="0,0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0.84490001201629639,1.2943005561828613,-2.0346999168395996">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="35680">
+      <Part refID="2" designID="35680" materials="21,0,0" decoration="0,0">
+        <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-0.044900059700012207,1.2943005561828613,-2.0346999168395996">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

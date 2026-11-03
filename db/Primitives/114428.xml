@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-08-17
+	Comments: v0.0: Initial creation [Stephan] 2024-08-17
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="114428" />
+    <Annotation designname="PUNCHING FOIL SHEET, NO. 109 - MAIN SAIL [75639]" />
+    <Annotation maingroupid="273" />
+    <Annotation maingroupname="TRANSPORTATION MEANS, SHIPS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="5.818795251" sY="0.03807070836" sZ="3.036704462" transformation="1,0,0,0,0.997452568,0.0713328436,0,-0.0713328436,0.997452568,5.533349356,1.948996606,13.12693761" angle="4.090544931" ax="1" ay="0" az="0" tx="5.533349356" ty="1.948996606" tz="13.12693761"/>
+    <Box sX="5.818795251" sY="0.03807070836" sZ="3.036704462" transformation="1,0,0,0,0.9973812163,-0.07232364386,0,0.07232364386,0.9973812163,5.533349356,1.950897179,6.97352877" angle="4.147460619" ax="-1" ay="0" az="0" tx="5.533349356" ty="1.950897179" tz="6.97352877"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="-3.552713679E-15" grabbing="0" startCapped="0" endCapped="0" transformation="4.440892099E-16,-1,1.110223025E-16,3.330669074E-16,0,-1,1,3.330669074E-16,4.440892099E-16,12.8,0,19.44" angle="120" ax="-0.5773502692" ay="0.5773502692" az="-0.5773502692" tx="12.8" ty="0" tz="19.44"/>
+    <Axel type="6" length="-3.552713679E-15" grabbing="0" startCapped="0" endCapped="0" transformation="4.440892099E-16,-1,1.110223025E-16,3.330669074E-16,0,-1,1,3.330669074E-16,4.440892099E-16,0,0,19.44" angle="120" ax="-0.5773502692" ay="0.5773502692" az="-0.5773502692" tx="0" ty="0" tz="19.44"/>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" transformation="4.440892099E-16,-1,1.110223025E-16,3.330669074E-16,0,-1,1,3.330669074E-16,4.440892099E-16,12.8,0,0.1" angle="120" ax="-0.5773502692" ay="0.5773502692" az="-0.5773502692" tx="12.8" ty="0" tz="0.1"/>
+    <Axel type="6" length="0" grabbing="0" startCapped="0" endCapped="0" transformation="4.440892099E-16,-1,1.110223025E-16,3.330669074E-16,0,-1,1,3.330669074E-16,4.440892099E-16,0,0,0.1" angle="120" ax="-0.5773502692" ay="0.5773502692" az="-0.5773502692" tx="0" ty="0" tz="0.1"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="36.164803,0,0,0,52.558784,0,0,0,18.290883" centerOfMass="6.48369655,0.7790967822,9.762061477" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.7306" minY="-0.9096" minZ="-0.5179" maxX="13.6979" maxY="2.4679" maxZ="20.042" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7306" minY="-0.9096" minZ="-0.5179" maxX="13.6979" maxY="2.4679" maxZ="20.042" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

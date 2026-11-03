@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BAXML versionMajor="1" versionMinor="0">
+  <Bag name="LDD" version="8" countable="false" buyable="false" brand="LDD" brandFilter="true"/>
+</BAXML>

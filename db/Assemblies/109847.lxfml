@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan [2025-08-31]
+-->
+<LXFML versionMajor="5" versionMinor="0" name="109847">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="109847"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="273"/>
+		<Annotation maingroupname="TRANSPORTATION MEANS, SHIPS"/>
+		<Annotation designname="SHIP 10X34X5 1/3, NO. 1"/>
+	</Meta>
+  <Bricks>
+    <Brick refID="0" designID="6924">
+      <Part refID="0" designID="6924" materials="21">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,-1.2000000476837158,4.9602994918823242,14.800000190734863">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="6922">
+      <Part refID="1" designID="6922" materials="21">
+        <Bone refID="1" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,-1.2000000476837158,5.1502995491027832,14.800000190734863">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

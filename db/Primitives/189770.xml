@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-06-14
+	Comments: v0.0: Initial creation [Stephan] 2025-06-14
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="189770" />
+    <Annotation designname="TYRE LOW Ø24X12 - ASSEMBLY" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="0" ax="1" ay="0" az="0" tx="0" ty="1.0197" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="30" ax="0" ay="0" az="-1" tx="0.5099" ty="0.8831" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="60" ax="0" ay="0" az="-1" tx="0.8831" ty="0.5099" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="90" ax="0" ay="0" az="-1" tx="1.0197" ty="0" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="120" ax="0" ay="0" az="-1" tx="0.8831" ty="-0.5099" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="150" ax="0" ay="0" az="-1" tx="0.5099" ty="-0.8831" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="180" ax="0" ay="0" az="1" tx="0" ty="-1.0197" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="150" ax="0" ay="0" az="1" tx="-0.5099" ty="-0.8831" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="120" ax="0" ay="0" az="1" tx="-0.8831" ty="-0.5099" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="90" ax="0" ay="0" az="1" tx="-1.0197" ty="0" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="60" ax="0" ay="0" az="1" tx="-0.8831" ty="0.5099" tz="0.64" />
+    <Box sX="0.270448" sY="0.050671" sZ="0.55" angle="30" ax="0" ay="0" az="1" tx="-0.5099" ty="0.8831" tz="0.64" />
+  </Collision>
+  <Connectivity>
+    <Fixed type="138" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0.6" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.584533,0,0,0,0.584533,0,0,0,0.96" centerOfMass="0,0,0.64" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1.2" minY="-1.2" minZ="0.08" maxX="1.2" maxY="1.2" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2" minY="-1.2" minZ="0.08" maxX="1.2" maxY="1.2" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

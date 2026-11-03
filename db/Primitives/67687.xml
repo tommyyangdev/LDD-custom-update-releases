@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-02-07
+	Comments: v0.0: Initial creation [Stephan] 2022-04-22
+	v1.1: Updated 3D model [Stephan] 2025-02-07
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="67687" />
+    <Annotation designname="BEARING ELEMENT 2X2, DOUBLE [2021-current]" />
+    <Annotation maingroupid="268" />
+    <Annotation maingroupname="WHEEL BASE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="6" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.79" sZ="0.15" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0.4" ty="0.1587" tz="-0.4" />
+    <Box sX="0.2895" sY="0.098" sZ="0.0956" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="-0.7005" ty="0.098" tz="-0.4" />
+    <Box sX="0.035314" sY="0.127552" sZ="0.137168" angle="180" ax="0" ay="0.9239" az="-0.3827" tx="-0.4481" ty="0.0991" tz="-0.4" />
+    <Box sX="0.035558" sY="0.128294" sZ="0.137962" angle="180" ax="0" ay="0.9239" az="-0.3827" tx="1.25" ty="0.0991" tz="-0.4" />
+    <Box sX="0.2895" sY="0.098" sZ="0.0956" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.4976" ty="0.098" tz="-0.4" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      29:0:1,23:4:1,18:4:1,23:4:1,29:0:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="87" oriented="0" angle="180" ax="-0.7071" ay="0.7071" az="0" tx="-0.71" ty="0.1" tz="-0.4" />
+    <Hinge type="87" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="1.51" ty="0.1" tz="-0.4" />
+    <Axel type="7" length="0.42" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="1.3" ty="0.1" tz="-0.4" />
+    <Axel type="7" length="0.42" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.92" ty="0.1" tz="-0.4" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.166825,0,0,0,0.431101,0,0,0,0.288413" centerOfMass="0.400223,0.217927,-0.400002" mass="0.847000002861" frictionType="0" />
+  <Bounding>
+    <AABB minX="-1" minY="-0.1" minZ="-1.1999" maxX="1.8" maxY="0.498" maxZ="0.3999" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1" minY="-0.1" minZ="-1.1999" maxX="1.8" maxY="0.498" maxZ="0.3999" />
+  </GeometryBounding>
+</LEGOPrimitive>

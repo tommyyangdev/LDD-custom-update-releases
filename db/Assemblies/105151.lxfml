@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-04-11
+	Comments: v0.0: Initial creation [Stephan] 2025-04-11
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="105151"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ANIMAL HEAD, NO. 105"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="105151">
+      <Part refID="0" designID="105151" materials="21,0,0" decoration="0,0">
+        <Bone refID="0" transformation="0,0,-0.99999994039535522,0,0.99999988079071045,0,1,0,0,0.40000021457672119,1.144556999206543,-2.1709601879119873">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41141">
+      <Part refID="1" designID="41141" materials="21">
+        <Bone refID="1" transformation="0,0.95105814933776855,-0.30901205539703369,0.99999994039535522,0,0,0,-0.3090120255947113,-0.95105808973312378,0.40000021457672119,0.65013790130615234,-3.6926524639129639">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

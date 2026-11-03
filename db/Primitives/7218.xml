@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-05-02
+	Comments: v0.0: Initial creation [Stephan] 2025-05-02
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="7218" />
+    <Annotation designname="HEADGEAR ACCESSORIES,W/1.5 SHAFT, NO. 5" />
+    <Annotation maingroupid="244" />
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.06999998331" sY="0.4070753956" sZ="0.1000000143" transformation="1,0,0,0,1,0,0,0,1,0.2400000095,0.5190557837,0" angle="0" ax="0" ay="1" az="0" tx="0.2400000095" ty="0.5190557837" tz="0"/>
+    <Box sX="0.209761163" sY="0.03975265265" sZ="0.1062932269" transformation="0.9998476952,-0.01745240644,0,0.01745240644,0.9998476952,0,0,0,1,0.02440518942,0.9388954513,0" angle="1" ax="0" ay="0" az="-1" tx="0.02440518942" ty="0.9388954513" tz="0"/>
+    <Box sX="0.1745913921" sY="0.07320946809" sZ="0.08700000286" transformation="1,0,0,0,1,0,0,0,1,0.06042255022,0.9013090509,3.992144635E-09" angle="0" ax="0" ay="1" az="0" tx="0.06042255022" ty="0.9013090509" tz="3.992144635E-09"/>
+    <Box sX="0.06817377532" sY="0.1122724303" sZ="0.07458549386" transformation="0.8437469776,-0.5367411274,0,0.5367411274,0.8437469776,0,0,0,1,0.2444725326,0.840156308,0" angle="32.46206761" ax="0" ay="0" az="-1" tx="0.2444725326" ty="0.840156308" tz="0"/>
+    <Box sX="0.2108817752" sY="0.04896837002" sZ="0.0525" transformation="1,0,0,0,1,0,0,0,1,0.1376998195,0.8501308161,3.992144635E-09" angle="0" ax="0" ay="1" az="0" tx="0.1376998195" ty="0.8501308161" tz="3.992144635E-09"/>
+    <Box sX="0.03423823409" sY="0.09941498527" sZ="0.1347506026" transformation="0.8437469776,-0.5367411274,0,0.5367411274,0.8437469776,0,0,0,1,0.215530244,0.8410623647,0" angle="32.46206761" ax="0" ay="0" az="-1" tx="0.215530244" ty="0.8410623647" tz="0"/>
+    <Box sX="0.04692036525" sY="0.06959561367" sZ="0.1370395727" transformation="0.8975637091,-0.4408847787,0,0.4408847787,0.8975637091,0,0,0,1,0.1249861089,0.861221406,0" angle="26.16034713" ax="0" ay="0" az="-1" tx="0.1249861089" ty="0.861221406" tz="0"/>
+    <Box sX="0.05833147416" sY="0.04450208874" sZ="0.1370395727" transformation="0.927371791,-0.374141098,0,0.374141098,0.927371791,0,0,0,1,0.007722246021,0.8890164221,0" angle="21.9712374" ax="0" ay="0" az="-1" tx="0.007722246021" ty="0.8890164221" tz="0"/>
+    <Box sX="0.05833147416" sY="0.02700124338" sZ="0.1420574081" transformation="0.968118562,-0.2504924147,0,0.2504924147,0.968118562,0,0,0,1,-0.1153075348,0.9128002907,0" angle="14.50665266" ax="0" ay="0" az="-1" tx="-0.1153075348" ty="0.9128002907" tz="0"/>
+    <Box sX="0.07067411283" sY="0.07495486294" sZ="0.1049419829" transformation="0.9876883406,-0.156434465,0,0.156434465,0.9876883406,0,0,0,1,0.2794388353,0.7992406066,0" angle="9" ax="0" ay="0" az="-1" tx="0.2794388353" ty="0.7992406066" tz="0"/>
+    <Box sX="0.06317915959" sY="0.04028925619" sZ="0.08699996841" transformation="0.7071067812,-0.7071067812,0,0.7071067812,0.7071067812,0,0,0,1,-0.1402892839,0.9053398169,0" angle="45" ax="0" ay="0" az="-1" tx="-0.1402892839" ty="0.9053398169" tz="0"/>
+  </Collision>
+  <CollisionAdd>
+    <Cylinder radius="0.065" length="0.145" transformation="0,1,0,0,0,1,1,0,0,0.155,0,0" angle="120" ax="0.5773502692" ay="0.5773502692" az="0.5773502692" tx="0.155" ty="0" tz="0"/>
+    <Cylinder radius="0.14" length="0.07" transformation="0,1,0,0,0,1,1,0,0,0.24,0,0" angle="120" ax="0.5773502692" ay="0.5773502692" az="0.5773502692" tx="0.24" ty="0" tz="0"/>
+  </CollisionAdd>
+  <Connectivity>
+    <Axel type="15" length="0.13" requireGrabbing="0" startCapped="0" endCapped="1" transformation="2.220446049E-16,-1,0,1,2.220446049E-16,0,0,0,1,0,0,0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.14559237,0,0,0,0.049196922,0,0,0,0.15754719" centerOfMass="0.07456750423,0.3771822798,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.2283" minY="-0.15" minZ="-0.1565" maxX="0.3774" maxY="0.9944" maxZ="0.1565" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2283" minY="-0.15" minZ="-0.1565" maxX="0.3774" maxY="0.9944" maxZ="0.1565" />
+  </GeometryBounding>
+</LEGOPrimitive>

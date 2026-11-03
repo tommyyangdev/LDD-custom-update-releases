@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-07-03
+	Comments: v0.0: Initial creation [Stephan] 2025-07-03
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2758" />
+    <Annotation designname="LEFT ARM, WOMAN, NO. 227" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.03628329171" sY="0.06573078651" sZ="0.07977561337" angle="40.5014" ax="0.6357" ay="0.0114" az="0.7718" tx="0.0855" ty="0.0338" tz="0.0018" />
+    <Box sX="0.07313294021" sY="0.07529937021" sZ="0.07977560535" angle="26.2793" ax="0.9074" ay="0.0953" az="0.4092" tx="0.1266" ty="-0.2344" tz="-0.1138" />
+    <Box sX="0.07977560802" sY="0.1070020584" sZ="0.07977560267" angle="36.7791" ax="0.6625" ay="0.1611" az="0.7315" tx="0.1473" ty="-0.1586" tz="-0.0887" />
+    <Box sX="0.03640621595" sY="0.1070020584" sZ="0.07977560802" angle="26.6649" ax="1" ay="0" az="0" tx="0.0463" ty="-0.0061" tz="-0.0064" />
+    <Box sX="0.107719" sY="0.191609" sZ="0.078141" angle="24.6822" ax="0" ay="0" az="1" tx="0.2614" ty="-0.465" tz="-0.1494" />
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.3" requireGrabbing="0" startCapped="0" endCapped="0" angle="93.2386" ax="-0.2312" ay="0.945" az="0.2312" tx="0.325" ty="-0.5874" tz="-0.1451" />
+    <Hinge type="223" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.096150623,0,0,0,0.099245529,0,0,0,0.14190597" centerOfMass="0.07581184318,-0.2799887955,-0.1080295199" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.3906" minY="-0.7363" minZ="-0.3093" maxX="0.4939" maxY="0.1763" maxZ="0.1752" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3906" minY="-0.7363" minZ="-0.3093" maxX="0.4939" maxY="0.1763" maxZ="0.1752" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,2" />
+</LEGOPrimitive>

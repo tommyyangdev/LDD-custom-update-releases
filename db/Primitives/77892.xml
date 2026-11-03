@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-02-09
+	Comments: v0.0: Initial creation [Stephan] 2025-02-09
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="77892" />
+    <Annotation designname="ANIMAL JAW, NO. 7" />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.27851893" sY="0.04972099171" sZ="0.4418468694" angle="3.9383" ax="0" ay="0" az="-1" tx="-2.0926" ty="-0.2659" tz="0" />
+    <Box sX="0.9896257995" sY="0.04972099171" sZ="0.2121580728" angle="3.9383" ax="0" ay="0" az="-1" tx="-4.3215" ty="-0.1124" tz="0" />
+    <Box sX="2.30512674" sY="0.07953639416" sZ="0.07551693144" angle="7.4052" ax="0.0741" ay="0.997" az="-0.0231" tx="-2.7201" ty="0.064" tz="-0.3969" />
+    <Box sX="0.2794004444" sY="0.2582807683" sZ="0.07935009267" angle="1.6858" ax="-0.4777" ay="0.5316" az="0.6995" tx="-0.0624" ty="-0.0128" tz="-0.7002" />
+    <Box sX="0.5318995472" sY="0.1372730311" sZ="0.05482649481" angle="26.9105" ax="-0.9083" ay="0.3909" az="0.1491" tx="-0.8758" ty="-0.2105" tz="-0.6348" />
+    <Box sX="0.3585561771" sY="0.04972099171" sZ="0.1369376741" angle="10.8229" ax="0" ay="0" az="-1" tx="-5.6739" ty="0.0095" tz="0" />
+    <Box sX="0.2794004444" sY="0.2582807683" sZ="0.07935009267" angle="1.6858" ax="0.4777" ay="-0.5316" az="0.6995" tx="-0.0624" ty="-0.0128" tz="0.7002" />
+    <Box sX="0.5318995472" sY="0.1372730311" sZ="0.05482649481" angle="26.9105" ax="0.9083" ay="-0.3909" az="0.1491" tx="-0.8758" ty="-0.2105" tz="0.6348" />
+    <Box sX="2.30512674" sY="0.07953639416" sZ="0.07551693144" angle="7.4052" ax="-0.0741" ay="-0.997" az="-0.0231" tx="-2.7201" ty="0.064" tz="0.3969" />
+  </Collision>
+  <Connectivity>
+    <Hinge type="309" oriented="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="0" tz="0" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.31889797,0,0,0,3.6929948,0,0,0,3.475806" centerOfMass="-2.847083211,-0.03549133241,-5.960464478E-08" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-6.0525" minY="-0.4261" minZ="-0.8967" maxX="0.3584" maxY="0.3551" maxZ="0.8967" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-6.0525" minY="-0.4261" minZ="-0.8967" maxX="0.3584" maxY="0.3551" maxZ="0.8967" />
+  </GeometryBounding>
+</LEGOPrimitive>

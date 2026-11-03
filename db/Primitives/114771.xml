@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-08-15
+	Comments: v0.0: Initial creation [Stephan] 2024-08-15
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="114771" />
+    <Annotation designname="SCREW TRI-POINT, NO. 3" />
+    <Annotation maingroupid="299" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.09346004346" sY="0.04999999939" sZ="0.09346004346" transformation="1,0,0,0,1,0,0,0,1,0,0.05999999939,0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.05999999939" tz="0"/>
+    <Box sX="0.095303725" sY="0.04999999775" sZ="0.095303725" transformation="0.7071067812,0,0.7071067812,0,1,0,-0.7071067812,0,0.7071067812,0,0.05999999775,0" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.05999999775" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="2019" axes="2" transformation="1,0,0,0,1,0,0,0,1,0,0,1.322618952E-16" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="1.322618952E-16"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.15714072,0,0,0,0.015015135,0,0,0,0.15714072" centerOfMass="7.450580597E-09,-0.5499995947,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.1501" minY="-1.22" minZ="-0.1501" maxX="0.1501" maxY="0.12" maxZ="0.1501" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1501" minY="-1.22" minZ="-0.1501" maxX="0.1501" maxY="0.12" maxZ="0.1501" />
+  </GeometryBounding>
+</LEGOPrimitive>

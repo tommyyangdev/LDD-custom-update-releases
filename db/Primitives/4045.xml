@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Super Mario App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-01-04
+	Comments: v0.0: Initial creation [Stephan] 2025-01-04
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4045" />
+    <Annotation designname="BRICK 1X4X1, OUTSIDE HALF BOW" />
+    <Annotation maingroupid="207" />
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.930808" sY="0.03134" sZ="0.183741" angle="180" ax="0" ay="-0.2131" az="0.977" tx="1.2" ty="0.8227" tz="-0.0715" />
+    <Box sX="1.584340388" sY="0.06499998808" sZ="0.09473789935" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.1047" tz="-0.325" />
+    <Box sX="0.7895" sY="0.065" sZ="0.111782" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.1166" tz="0.325" />
+    <Box sX="0.90617" sY="0.146713" sZ="0.044063" angle="180" ax="0" ay="0.2846" az="0.9586" tx="1.2" ty="0.5604" tz="0.21" />
+    <Box sX="0.026226" sY="0.23295" sZ="0.256057" angle="130.7175" ax="0.1225" ay="-0.63" az="0.7669" tx="-0.0327" ty="0.4712" tz="0.0353" />
+    <Box sX="0.068431" sY="0.058451" sZ="0.12005" angle="165.757" ax="0.1249" ay="-0.7016" az="0.7016" tx="-0.2924" ty="0.1245" tz="-0.2145" />
+    <Box sX="1.519169908" sY="0.06499998808" sZ="0.1329728339" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.353" tz="-0.325" />
+    <Box sX="1.287995076" sY="0.06499998808" sZ="0.1329728339" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.6396" tz="-0.325" />
+    <Box sX="0.932291" sY="0.065" sZ="0.074426" angle="180" ax="0" ay="0.7346" az="-0.6785" tx="1.2" ty="0.8663" tz="-0.325" />
+    <Box sX="0.129658" sY="0.065" sZ="0.111782" angle="170.8907" ax="0.0797" ay="0.7049" az="-0.7049" tx="0.2797" ty="0.1166" tz="0.2957" />
+    <Box sX="0.02622616673" sY="0.1721312263" sZ="0.1423479474" angle="113.0783" ax="-0.0741" ay="-0.5413" az="0.8376" tx="0.1107" ty="0.7857" tz="-0.1288" />
+    <Box sX="0.068431" sY="0.058451" sZ="0.12005" angle="91.7617" ax="-0.9697" ay="-0.1727" az="-0.1727" tx="2.6924" ty="0.1245" tz="-0.2145" />
+    <Box sX="0.026226" sY="0.250178" sZ="0.256057" angle="110.1372" ax="-0.8502" ay="-0.5086" az="-0.1358" tx="2.4327" ty="0.4712" tz="0.0353" />
+    <Box sX="0.02622616673" sY="0.1721312263" sZ="0.1423479474" angle="126.3101" ax="-0.7831" ay="-0.618" az="0.0693" tx="2.2893" ty="0.7857" tz="-0.1288" />
+    <Box sX="0.129658" sY="0.065" sZ="0.111782" angle="90.7226" ax="-0.9875" ay="0.1116" az="0.1116" tx="2.1203" ty="0.1166" tz="0.2957" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4,22:2:1,
+      29:0:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.13013334,0,0,0,0.90666677,0,0,0,0.93013344" centerOfMass="1.200000095,0.4799999755,-1.490116119E-08" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="0.96" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="0.96" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

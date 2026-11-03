@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Created for LDD by Stephan [2025-06-14]
+-->
+<LXFML versionMajor="5" versionMinor="0" name="112355">
+	<Meta>
+		<Environment name="Standard"/>
+		<Annotation aliases="112355"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="266"/>
+		<Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+		<Annotation designname="WHEEL, DIA. 24X12, NO. 1"/>
+	</Meta>
+  <Bricks>
+    <Brick refID="0" designID="189770">
+      <Part refID="0" designID="189770" materials="21" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-0.40000000596046448,1.1999998092651367,-0.24190005660057068">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="667270">
+      <Part refID="1" designID="667270" materials="21" decoration="0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.40000000596046448,1.1999998092651367,0.40000000596046448">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="5794">
+      <Part refID="2" designID="5794" materials="21" decoration="0">
+        <Bone refID="2" transformation="-1,0,0,0,0.99999994039535522,0,0,0,-1,-0.40000015497207642,1.1999996900558472,-1.0419001579284668">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

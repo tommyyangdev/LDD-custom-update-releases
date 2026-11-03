@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-07-21
+	Comments: v0.0: Initial creation [Stephan] 2025-07-21
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="112352"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMALS AND CREATURES"/>
+		<Annotation designname="ANIMAL BODY, NO. 21"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="112352">
+      <Part refID="0" designID="112352" materials="21,0,21" decoration="0,0">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,1.2000000476837158,5.6995997428894043,2.8000001907348633">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41140">
+      <Part refID="1" designID="41140" materials="21">
+        <Bone refID="1" transformation="0,0,-0.99999994039535522,-1,0,0,0,0.99999994039535522,0,2.5499999523162842,3.3876001834869385,0.80000025033950806">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="41140">
+      <Part refID="2" designID="41140" materials="21">
+        <Bone refID="2" transformation="1,0,0,0,-0.30901145935058594,-0.95105832815170288,0,0.95105832815170288,-0.30901151895523071,0.80000066757202148,3.8156998157501221,8.0527000427246094">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="41140">
+      <Part refID="3" designID="41140" materials="21">
+        <Bone refID="3" transformation="0,0,1,1.0000001192092896,0,0,0,1,0,-0.9500001072883606,3.3876001834869385,0.80000066757202148">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="41140">
+      <Part refID="4" designID="41140" materials="21">
+        <Bone refID="4" transformation="-0.99999994039535522,0,0,0,0,0.99999994039535522,0,0.99999994039535522,0,0.79999995231628418,3.0704002380371094,-4.1920995712280273">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="5" designID="90058">
+      <Part refID="5" designID="90058" materials="21">
+        <Bone refID="5" transformation="0,0,1.0000001192092896,0,1,0,-1.0000001192092896,0,0,-0.37169981002807617,2.099600076675415,5.5999999046325684">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="6" designID="90058">
+      <Part refID="6" designID="90058" materials="21">
+        <Bone refID="6" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,1.9717001914978027,2.099600076675415,5.5999999046325684">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

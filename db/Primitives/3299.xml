@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-08-29
+	Comments: v0.0: Initial creation [The LEGO Group]
+	v1.0: Added decoration surface [Stephan] 2025-08-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3299" />
+    <Annotation designname="RIDGED TILE 2X4/25°" />
+    <Annotation maingroupid="205" />
+    <Annotation maingroupname="BRICKS, WITH SLOPE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="3" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.79" sZ="0.09" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="1.2" ty="0.1" tz="-0.4" />
+    <Box sX="1.59" sY="0.43071" sZ="0.097471" angle="180" ax="0" ay="0.8425" az="-0.5386" tx="1.2" ty="0.2875" tz="-0.0451" />
+    <Box sX="1.59" sY="0.43071" sZ="0.095409" angle="180" ax="0" ay="0.8425" az="0.5386" tx="1.2" ty="0.2893" tz="-0.7558" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.215715,0,0,0,1.1199,0,0,0,0.943002" centerOfMass="1.2,0.253192,-0.4" mass="1.04999995232" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="0.57" maxZ="0.4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="0.57" maxZ="0.4" />
+  </GeometryBounding>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0" />
+</LEGOPrimitive>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Derived from: Building Instructions App
+	Orginal Author: The LEGO Group
+	Editted for LDD by: Stephan
+	Last modification: 2025-06-29
+	Comments: v0.0: Initial creation [Stephan] 2025-06-29
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="5630" />
+    <Annotation designname="LATTICE 1X4X6 W/ SNAP [2023-current]" />
+    <Annotation maingroupid="235" />
+    <Annotation maingroupname="FENCES AND LADDERS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="2" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.15" sY="0.050345" sZ="0.075637" angle="0" ax="1" ay="0" az="0" tx="1.28" ty="-0.2447" tz="0.0856" />
+    <Box sX="0.15" sY="0.15" sZ="0.31" angle="0" ax="1" ay="0" az="0" tx="1.28" ty="0" tz="-0.48" />
+    <Box sX="0.15" sY="0.050345" sZ="0.075637" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.2447" tz="0.0856" />
+    <Box sX="0.15" sY="0.050345" sZ="0.075637" angle="0" ax="1" ay="0" az="0" tx="0" ty="-0.2447" tz="0.0856" />
+    <Box sX="0.15" sY="0.15" sZ="0.31" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.48" />
+    <Box sX="1.1295" sY="0.106244" sZ="0.099552" angle="0" ax="1" ay="0" az="0" tx="0.6412" ty="0" tz="-1.6" />
+    <Box sX="1.13181" sY="0.106496" sZ="0.099674" angle="0" ax="1" ay="0" az="0" tx="0.6436" ty="0" tz="-2.4" />
+    <Box sX="1.12949" sY="0.106206" sZ="0.099563" angle="0" ax="1" ay="0" az="0" tx="0.6456" ty="0" tz="-3.2" />
+    <Box sX="1.1295" sY="0.106244" sZ="0.099552" angle="0" ax="1" ay="0" az="0" tx="0.6456" ty="0" tz="-3.2" />
+    <Box sX="1.12961" sY="0.106496" sZ="0.099676" angle="0" ax="1" ay="0" az="0" tx="0.6458" ty="0" tz="-4" />
+    <Box sX="1.1295" sY="0.106244" sZ="0.099552" angle="0" ax="1" ay="0" az="0" tx="0.6456" ty="0" tz="-4.8" />
+    <Box sX="1.10199" sY="0.106244" sZ="0.099153" angle="0" ax="1" ay="0" az="0" tx="0.6389" ty="0" tz="-0.8004" />
+    <Box sX="1.07329" sY="0.106244" sZ="0.099153" angle="0" ax="1" ay="0" az="0" tx="0.6393" ty="0" tz="-5.5996" />
+    <Box sX="0.098302" sY="0.106496" sZ="2.43768" angle="0" ax="1" ay="0" az="0" tx="1.6827" ty="0" tz="-3.2011" />
+    <Box sX="0.098302" sY="0.106496" sZ="2.43768" angle="0" ax="1" ay="0" az="0" tx="-0.3958" ty="0" tz="-3.2011" />
+    <Box sX="0.15" sY="0.050345" sZ="0.075637" angle="0" ax="1" ay="0" az="0" tx="1.28" ty="0.2447" tz="0.0856" />
+    <Box sX="0.15" sY="0.050345" sZ="0.09723" angle="25.2052" ax="1" ay="0" az="0" tx="1.28" ty="-0.1996" tz="-0.0987" />
+    <Box sX="0.15" sY="0.050345" sZ="0.09723" angle="29.9111" ax="-1" ay="0" az="0" tx="1.28" ty="0.1926" tz="-0.1095" />
+    <Box sX="0.15" sY="0.050345" sZ="0.09723" angle="29.9111" ax="-1" ay="0" az="0" tx="0" ty="0.1926" tz="-0.1095" />
+    <Box sX="0.15" sY="0.050345" sZ="0.09723" angle="25.2052" ax="1" ay="0" az="0" tx="0" ty="-0.1996" tz="-0.0987" />
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="-0.16" ty="0" tz="0" />
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="0.5774" az="-0.5774" tx="1.12" ty="0" tz="0" />
+    <Axel type="7" length="0.96" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.16" ty="0" tz="-0.8" />
+    <Axel type="7" length="1.75978" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0" tz="-1.6" />
+    <Axel type="7" length="1.75978" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0" tz="-2.4" />
+    <Axel type="7" length="1.75978" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0" tz="-3.2" />
+    <Axel type="7" length="1.75978" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0" tz="-4" />
+    <Axel type="7" length="1.75978" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0" tz="-4.8" />
+    <Axel type="7" length="1.75978" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.24" ty="0" tz="-5.6" />
+    <Axel type="7" length="4.48" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="-0.4" ty="0" tz="-0.96" />
+    <Axel type="7" length="4.48" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="1.68" ty="0" tz="-0.96" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="5.81931,0,0,0,7.0732,0,0,0,1.28685" centerOfMass="0.64,0,-2.93756" mass="2.09999990463" frictionType="0" />
+  <Bounding>
+    <AABB minX="-0.56" minY="-0.3072" minZ="-5.76" maxX="1.84" maxY="0.3071" maxZ="0.1815" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.56" minY="-0.3072" minZ="-5.76" maxX="1.84" maxY="0.3071" maxZ="0.1815" />
+  </GeometryBounding>
+</LEGOPrimitive>

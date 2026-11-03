@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-08-17
+	Comments: v0.0: Initial creation [Stephan] 2025-08-17
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="118084"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="292"/>
+		<Annotation maingroupname="ELECTRIC PARTS"/>
+		<Annotation designname="MOTOR, NO. 28 [US]"/>
+	</Meta>
+	<Bricks>
+    <Brick refID="0" designID="5319">
+      <Part refID="0" designID="5319" materials="21,0" decoration="0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-0.79998588562011719,1.540007472038269,3.18841552734375">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="7300">
+      <Part refID="1" designID="7300" materials="21">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.1444091796875E-005,1.540007472038269,3.18841552734375">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="107184">
+      <Part refID="2" designID="107184" materials="21">
+        <Bone refID="2" transformation="0,1,0,0,0,1,1,0,0,0,1.5400075912475586,1.9674186706542969">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="118084">
+      <Part refID="3" designID="118084" materials="21,21,21,21,21,21,21,21" decoration="0,0,0,0,0,0,0">
+        <Bone refID="3" transformation="0,0,-1,0,1,0,1,0,0,1.2000102996826172,0,1.9884185791015625">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="114664">
+      <Part refID="4" designID="114664" materials="21">
+        <Bone refID="4" transformation="0,0,-1,0,-1,0,-1,0,0,1.2000102996826172,0.41000771522521973,1.9884185791015625">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="5" designID="114664">
+      <Part refID="5" designID="114664" materials="21">
+        <Bone refID="5" transformation="0,0,-1,0,-1,0,-1,0,0,-1.1999893188476563,0.41000771522521973,1.9884185791015625">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="6" designID="5714">
+      <Part refID="6" designID="5714" materials="21">
+        <Bone refID="6" transformation="0,-1,0,0,0,-1,1,0,0,0,1.2810076475143433,-2.0815811157226562">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+</LXFML>

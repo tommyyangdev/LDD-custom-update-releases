@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+	Created for LDD by: Stephan
+	Last modification: 2025-01-09
+	Comments: v0.0: Initial creation [Stephan] 2025-01-11
+-->
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="110097"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="240"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="MINI UPPER PART, NO. 7343"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="3814">
+			<Part refID="0" designID="3814" materials="21,0">
+				<Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000009536743164,0.3145294189453125,-0.40000009536743164"/>
+			</Part>
+		</Brick>
+		<Brick refID="1" designID="6954">
+			<Part refID="1" designID="6954" materials="21,0">
+				<Bone refID="1" transformation="0.98325479030609131,0.1822354793548584,0,0,0,-1,-0.18223549425601959,0.98325490951538086,0,1.4199882745742798,1.2245645523071289,-0.40000009536743164"/>
+			</Part>
+		</Brick>
+		<Brick refID="2" designID="695400">
+			<Part refID="2" designID="695400" materials="21,0">
+				<Bone refID="2" transformation="-0.98325479030609131,0.18223544955253601,0,0,0,1,0.18223549425601959,0.98325473070144653,0,0.18001222610473633,1.224564790725708,-0.40000009536743164"/>
+			</Part>
+		</Brick>
+		<Brick refID="3" designID="3820">
+			<Part refID="3" designID="3820" materials="0">
+				<Bone refID="3" transformation="0.92098158597946167,0.38960579037666321,0.00055129837710410357,-0.00055132125271484256,0.0027182672638446093,-0.99999618530273438,-0.38960579037666321,0.92097777128219604,0.0027182726189494133,-0.52280330657958984,1.8226860761642456,-0.3999638557434082"/>
+			</Part>
+		</Brick>
+		<Brick refID="4" designID="3820">
+			<Part refID="4" designID="3820" materials="0">
+				<Bone refID="4" transformation="0.92098152637481689,-0.38960590958595276,0.0005513123469427228,-0.00055123487254604697,-0.0027180986944586039,-0.99999624490737915,0.38960593938827515,0.92097771167755127,-0.0027180828619748354,2.1228036880493164,1.8226855993270874,-0.40003633499145508"/>
+			</Part>
+		</Brick>
+	</Bricks>
+</LXFML>
